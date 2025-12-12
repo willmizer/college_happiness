@@ -1,0 +1,301 @@
+:root {
+    --bg: #F3F4F6;
+    --sidebar: #FFFFFF;
+    --primary: #4F46E5;
+    --success: #10B981;
+    --danger: #EF4444; 
+    --text-main: #111827;
+    --text-muted: #6B7280;
+    --card-bg: #FFFFFF;
+    --border: #E5E7EB;
+}
+
+body { margin: 0; font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text-main); height: 100vh; overflow: hidden; }
+
+.app-layout { display: flex; height: 100vh; }
+
+/* Sidebar */
+.sidebar { width: 320px; background: var(--sidebar); border-right: 1px solid var(--border); padding: 30px; display: flex; flex-direction: column; gap: 30px; }
+.brand h2 { margin: 0; color: var(--primary); }
+
+.control-section { display: flex; flex-direction: column; gap: 10px; }
+.section-label { font-weight: 700; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); }
+.helper-text { font-size: 0.85rem; color: var(--text-muted); margin: 0; }
+
+/* Search & Inputs */
+.search-wrapper { position: relative; }
+input[type="text"] { width: 100%; padding: 12px; border: 1px solid var(--border); border-radius: 8px; box-sizing: border-box; }
+.autocomplete-items { position: absolute; width: 100%; background: white; border: 1px solid var(--border); z-index: 10; max-height: 200px; overflow-y: auto; }
+.autocomplete-items div { padding: 10px; cursor: pointer; }
+.autocomplete-items div:hover { background: #f9fafb; }
+
+.investment-input-group { display: flex; align-items: center; gap: 5px; font-size: 1.5rem; font-weight: 800; color: var(--primary); }
+.investment-input-group input { 
+    border: none; 
+    font-size: 1.5rem; 
+    font-weight: 800; 
+    color: var(--primary); 
+    
+    /* CHANGE THIS LINE */
+    width: 90px;  /* Increased from 60px to 90px */
+    
+    text-align: right; 
+    background: transparent; 
+}
+.investment-input-group input:focus { outline: none; border-bottom: 2px solid var(--primary); }
+input[type="range"] { width: 100%; cursor: pointer; }
+
+/* Summary Panel */
+.glass-panel { background: #F9FAFB; padding: 20px; border-radius: 12px; border: 1px solid var(--border); }
+.status-row { display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9rem; }
+
+/* Main Area */
+.main-view { flex: 1; padding: 40px 60px; overflow-y: auto; display: flex; flex-direction: column; }
+
+header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px; }
+h1 { font-size: 2rem; margin: 0; }
+
+.big-score-container { text-align: right; }
+.score-label { font-size: 0.9rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; }
+.score-value { font-size: 3.5rem; font-weight: 800; color: var(--text-main); line-height: 1; }
+.score-diff { font-size: 1.2rem; font-weight: 600; }
+
+.diff-positive { color: var(--success); }
+.diff-negative { color: var(--danger); }
+.diff-neutral  { color: var(--text-muted); }
+
+/* Results Grid */
+.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.reset-btn { background: none; border: 1px solid var(--border); padding: 8px 16px; border-radius: 6px; cursor: pointer; color: var(--text-muted); }
+.reset-btn:hover { background: #fff; color: var(--text-main); }
+
+.cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+
+/* Feature Card */
+.feature-card {
+    background: var(--card-bg);
+    border: 2px solid transparent;
+    border-radius: 16px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    position: relative;
+    overflow: hidden;
+}
+
+.feature-card:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); }
+
+/* CARD SELECTION STATES */
+.feature-card.selected { border-color: var(--success); background: #ECFDF5; }
+.feature-card.selected::after { content: "✓"; position: absolute; top: 10px; right: 15px; color: var(--success); font-weight: 900; }
+
+.feature-card.selected.negative-selection { border-color: var(--danger); background: #FEF2F2; }
+.feature-card.selected.negative-selection::after { color: var(--danger); }
+
+/* CARD CONTENT */
+.card-header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+.card-title { font-weight: 700; text-transform: capitalize; font-size: 1.1rem; margin: 0; }
+.current-badge { background: #E5E7EB; color: #4B5563; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 12px; }
+
+.card-gain { font-size: 0.9rem; margin-bottom: 15px; font-weight: 500; }
+.positive-gain { color: var(--success); font-weight: 700; }
+.negative-gain { color: var(--danger); font-weight: 700; }
+.zero-gain { color: var(--text-muted); }
+
+/* Progress Bar */
+.impact-bar-bg { height: 6px; background: #E5E7EB; border-radius: 3px; overflow: hidden; }
+.impact-bar-fill { height: 100%; background: var(--text-muted); border-radius: 3px; transition: width 0.3s ease; }
+.feature-card.selected .impact-bar-fill { background: var(--success); }
+.feature-card.selected.negative-selection .impact-bar-fill { background: var(--danger); }
+.impact-bar-fill.negative { background: var(--danger); }
+.feature-card:not(.selected) .impact-bar-fill:not(.negative) { background: var(--success); }
+
+/* Chart Section */
+.chart-section { margin-top: 40px; margin-bottom: 40px; }
+.chart-panel { background: #FFFFFF; border: 1px solid var(--border); border-radius: 16px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+.chart-header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 15px; }
+.chart-text h3 { margin: 0 0 4px 0; font-size: 1.25rem; color: var(--text-main); }
+.chart-text p { margin: 0; color: var(--text-muted); font-size: 0.9rem; }
+
+.chart-controls { display: flex; align-items: center; gap: 8px; background: #F3F4F6; padding: 4px; border-radius: 8px; }
+.chart-controls span { font-size: 0.85rem; font-weight: 600; color: var(--text-muted); margin-left: 8px; margin-right: 4px; }
+.step-btn { border: none; background: transparent; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 0.85rem; font-weight: 600; color: var(--text-muted); transition: all 0.2s; }
+.step-btn:hover { background: #E5E7EB; color: var(--text-main); }
+.step-btn.active { background: #FFFFFF; color: var(--primary); box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+
+.custom-legend { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid var(--border); }
+.legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.85rem; font-weight: 600; color: var(--text-main); background: #F9FAFB; padding: 4px 10px; border-radius: 20px; border: 1px solid var(--border); }
+.legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+.chart-container { height: 300px; width: 100%; }
+
+/* Analysis Section (Table) */
+.analysis-section { margin-bottom: 60px; }
+.analysis-panel { background: #FFFFFF; border: 1px solid var(--border); border-radius: 16px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+.panel-header h3 { margin: 0 0 4px 0; font-size: 1.25rem; color: var(--text-main); }
+.panel-header p { margin: 0 0 20px 0; color: var(--text-muted); font-size: 0.9rem; }
+
+.table-responsive { overflow-x: auto; }
+.styled-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.styled-table thead tr { background-color: #F9FAFB; text-align: left; border-bottom: 2px solid #E5E7EB; }
+.styled-table th, .styled-table td { padding: 12px 15px; }
+.styled-table th { color: var(--text-muted); font-weight: 600; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.03em; }
+.styled-table tbody tr { border-bottom: 1px solid #F3F4F6; transition: background 0.1s; }
+.styled-table tbody tr:hover { background-color: #F9FAFB; }
+.fw-bold { font-weight: 700; }
+.badge { padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; display: inline-block; }
+.badge-success { background: #ECFDF5; color: #047857; }
+.badge-primary { background: #EEF2FF; color: #4338CA; }
+.badge-warning { background: #FFFBEB; color: #B45309; }
+.badge-neutral { background: #F3F4F6; color: #4B5563; }
+
+/* NAVBAR STYLES */
+.navbar {
+    background: #FFFFFF;
+    border-bottom: 1px solid var(--border);
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.nav-logo {
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: var(--primary);
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: var(--text-muted);
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+
+.nav-item:hover {
+    background: #F3F4F6;
+    color: var(--text-main);
+}
+
+.nav-item.active {
+    background: #EEF2FF;
+    color: var(--primary);
+}
+
+/* STYLED DROPDOWNS */
+.styled-select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: #FFFFFF;
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.styled-select:focus {
+    outline: none;
+    border-color: var(--primary);
+}
+
+/* ADJUST HEIGHT */
+.app-layout {
+    /* Subtract Navbar Height (~65px) so it doesn't double scroll */
+    height: calc(100vh - 70px); 
+    display: flex;
+}
+/* --- TABLET DESIGN (Between 768px and 1200px) --- */
+@media (max-width: 1200px) {
+    
+    /* Keep sidebar on the left, but stack the charts to 1 column */
+    .chart-section {
+        grid-template-columns: 1fr !important; 
+        gap: 20px;
+    }
+    
+    /* Make charts taller so they don't look short and wide */
+    .chart-container {
+        height: 350px;
+    }
+}
+
+/* --- RESPONSIVE DESIGN (Mobile & Tablet) --- */
+@media (max-width: 768px) {
+
+    /* 1. Stack the Main Layout (Sidebar on top, Content below) */
+    .app-layout {
+        /* CHANGED: Use flex-direction instead of grid-template-columns */
+        flex-direction: column; 
+        height: auto; 
+        overflow: visible;
+    }
+/* 1. UNLOCK THE BODY SCROLLING */
+    body {
+        overflow: auto;   /* Allow scrolling */
+        height: auto;     /* Let the page grow as tall as needed */
+    }
+
+    /* 2. Your existing App Layout fixes */
+    .app-layout {
+        flex-direction: column;
+        height: auto;
+        overflow: visible;
+    }
+ 
+  /* 2. Adjust Sidebar to be a "Top Bar" */
+    .sidebar {
+        width: 100%; /* Make sure sidebar takes full width */
+        box-sizing: border-box; /* Ensures padding doesn't break width */
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        padding: 20px;
+    }
+
+    /* 3. Stack the Chart Sections */
+    /* Forces the 2-column grids to become 1-column */
+    .chart-section {
+        grid-template-columns: 1fr !important; 
+        gap: 15px;
+    }
+
+    /* 4. Fix Main View Padding */
+    .main-view {
+        padding: 15px; /* Reduce padding for smaller screens */
+        overflow: visible;
+    }
+
+    /* 5. Adjust Typography for Mobile */
+    h1#school-title {
+        font-size: 1.5rem; /* Smaller title */
+        line-height: 1.2;
+    }
+    
+    .chart-text h3 {
+        font-size: 1.1rem;
+    }
+
+    /* 6. Chart Containers */
+    /* Ensure charts don't get squished too thin */
+    .chart-container {
+        height: 300px; /* Slightly shorter for mobile viewing */
+    }
+
+    /* 7. Navbar Adjustments */
+    .navbar {
+        padding: 0 15px;
+    }
+    
+    .nav-logo {
+        font-size: 1.2rem;
+    }
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics | Happiness AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .info-dropdown {
+            margin-top: 10px;
+            font-size: 0.85rem;
+            color: #666;
+            cursor: pointer;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            padding: 8px;
+            background: #f9fafb;
+        }
+        .info-dropdown summary {
+            font-weight: 600;
+            outline: none;
+        }
+        .info-dropdown p {
+            margin-top: 8px;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-logo">✨ Happiness AI</div>
+    <div class="nav-links">
+        <a href="/" class="nav-item">Simulator</a>
+        <a href="/analytics" class="nav-item active">Analytics</a>
+    </div>
+</nav>
+
+<div class="app-layout">
+    
+    <aside class="sidebar">
+        <div class="brand">
+            <h2>Data Explorer</h2>
+        </div>
+
+        <div class="control-section">
+            <label class="section-label">Filter by State</label>
+            <select id="state-select" class="styled-select">
+                <option value="All">All States</option>
+                </select>
+        </div>
+
+        <div class="control-section">
+            <label class="section-label">Analyze Feature</label>
+            <p class="helper-text">Rank schools based on:</p>
+            <select id="feature-select" class="styled-select">
+                <option value="happiness">Overall Happiness</option>
+                <option value="food">Food Quality</option>
+                <option value="facilities">Facilities</option>
+                <option value="location">Location</option>
+                <option value="internet">Internet Speed</option>
+                <option value="safety">Safety</option>
+                <option value="clubs">Clubs</option>
+                <option value="social">Social Life</option>
+                <option value="opportunities">Opportunities</option>
+            </select>
+            
+            <details class="info-dropdown">
+                <summary>How is this weighted?</summary>
+                <p>
+                    <strong>School Ranking:</strong> We use an 85/15 split. The score is 85% based on the feature quality (e.g., Happiness) and 15% based on the number of student reviews.
+                </p>
+                <p>
+                    <strong>State Ranking:</strong> We calculate a "Weighted Average" of all schools in the state. Larger schools with more reviews have a proportionally higher impact on the state's score.
+                </p>
+            </details>
+        </div>
+        
+        </aside>
+
+    <main class="main-view">
+        <header>
+            <h1 id="school-title">Best Schools in <span id="state-title">the US</span></h1>
+            <p style="color: var(--text-muted)">Filtered by state and ranked by weighted quality score.</p>
+        </header>
+
+        <section class="chart-section" style="margin-top:0; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+            
+            <div class="glass-panel chart-panel">
+                <div class="chart-header-row">
+                    <div class="chart-text">
+                        <h3>Top 10 Schools</h3>
+                        <p>Best schools for <strong id="lead-feat">Feature</strong>.</p>
+                    </div>
+                </div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="barChart"></canvas>
+                </div>
+            </div>
+
+            <div class="glass-panel chart-panel">
+                <div class="chart-header-row">
+                    <div class="chart-text">
+                        <h3>Top 10 States</h3>
+                        <p>Best performing states overall in <strong id="state-feat">Feature</strong>.</p>
+                    </div>
+                </div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="stateBarChart"></canvas>
+                </div>
+            </div>
+
+        </section>
+
+        <section class="chart-section" style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px;">
+            
+            <div class="glass-panel chart-panel">
+                <div class="chart-header-row">
+                    <div class="chart-text">
+                        <h3>Score Distribution</h3>
+                        <p>How do schools score across the board <span id="dist-state">in the US</span> for <strong id="dist-feat">Feature</strong>?</p>
+                    </div>
+                </div>
+                <div class="chart-container" style="height: 300px;">
+                    <canvas id="distChart"></canvas>
+                </div>
+            </div>
+
+            <div class="glass-panel chart-panel">
+                <div class="chart-header-row">
+                    <div class="chart-text">
+                        <h3>avg. <span id="pie-score">0.0</span></h3>
+                        <p>Average Score for <strong id="avg-feat">Feature</strong> <span id="pie-state">for All States</span>.</p>
+                    </div>
+                </div>
+                <div class="chart-container" style="height: 250px; display:flex; justify-content:center;">
+                    <canvas id="pieChart"></canvas>
+                </div>
+            </div>
+
+        </section>
+    </main>
+</div>
+
+<script src="{{ url_for('static', filename='analytics.js') }}"></script>
+</body>
+</html>

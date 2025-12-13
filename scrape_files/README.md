@@ -1,15 +1,25 @@
-**File Explanations**
+# Data Scraper Documentation
 
-review_scrape (Selenium)
--------------------------------
+This project uses two separate scripts to build the final dataset. The first script finds the schools and student opinions, while the second script adds the official statistics.
 
-This script is a web scraper that automatically browses the Rate My Professors website using Selenium. It reads a list of school names from college_list.csv, searches for each one, and navigates to the school's review page. The main goal is to scrape and save the overall school ratings, categorical scores, and all available individual student reviews into two separate CSV files, school_ratings.csv and school_reviews.csv.
+---
 
-* * *
+## 1. `ratings_scrape.py` 
+**Goal:** Discover schools and collect student opinions.
 
-json_scrape (Requests/BeautifulSoup/JSON)
---------------------------------------------------
+This script acts like a robot browsing the web. Since we don't know every school's ID number, it uses a "brute force" method to find them.
+* **What it does:** It tries every ID number from `1` to `50,000` on the *RateMyProfessors* website.
+* **How it works:** It opens **15 invisible Chrome browsers** at the same time to work faster.
+* **Data Collected:** If it finds a valid school, it saves the "subjective" data: Happiness, Food Quality, Safety, Social Life, and Internet Speed.
+* **Output:** Saves everything to `school_ratings.csv`.
 
-This script is another web scraper that collects detailed college profile data like admissions statistics, financial aid, and student demographics. It works by first reading a list of college names and URLs from college_list.csv. Instead of interacting with the webpage elements, it makes a request to the URL, finds a specific embedded JSON data block within the HTML source code, and extracts all the information directly from that structured JSON. The script supports a resume feature and appends all the newly scraped data to the all_colleges_data.csv file.
+---
 
+## 2. `bs4_scrape.py` 
+**Goal:** Add official government statistics to the schools we found.
 
+This script takes the list of schools found by the first script and looks up their official records on the *National Center for Education Statistics (NCES)* website.
+* **What it does:** It reads `school_ratings.csv` to get the school names.
+* **How it works:** It searches for each specific school name on the government database.
+* **Data Collected:** It grabs the "hard" numbers: Tuition Costs, SAT/ACT Scores, Acceptance Rates, and Student Population size.
+* **Output:** It combines the ratings from step 1 with the stats from step 2 into the final file: `school_numeric.csv`.

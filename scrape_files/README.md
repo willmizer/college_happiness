@@ -10,7 +10,7 @@ This project uses two separate scripts to build the final dataset. The first scr
 This script acts like a robot browsing the web. Since we don't know every school's ID number, it uses a "brute force" method to find them.
 * **What it does:** It tries every ID number from `1` to `50,000` on the *RateMyProfessors* website.
 * **How it works:** It opens **15 invisible Chrome browsers** at the same time to work faster.
-* **Data Collected:** If it finds a valid school, it saves the "subjective" data: Happiness, Food Quality, Safety, Social Life, and Internet Speed.
+* **Data Collected:** If it finds a valid school, it saves the data: Happiness, Food Quality, Safety, Social Life, and Internet Speed.
 * **Output:** Saves everything to `school_ratings.csv`.
 
 ---

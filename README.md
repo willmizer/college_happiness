@@ -1,6 +1,6 @@
 # The College Happiness Simulator & Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/AWS-Live_Demo-FF9900?style=for-the-badge&logo=amazon-aws)](http://98.89.165.214/)
+[![Live Demo](https://img.shields.io/badge/AWS-Live_Demo-FF9900?style=for-the-badge&logo=amazon-aws)](https://collegehappiness.duckdns.org/)
 
 **A data-driven approach to quantifying student happiness.**
 This project scrapes data from over 5,000 universities, analyzes the correlation between campus amenities and student happiness, and provides a simulation platform for university administrators to optimize budget allocation for maximum student well-being.

@@ -302,9 +302,9 @@ function renderMarginalTable(data) {
         let type = 'Standard';
         let badgeClass = 'badge-neutral';
         
-        if (row.optimal_delta <= 10) { type = '⚡ Quick Win'; badgeClass = 'badge-success'; }
-        else if (row.optimal_delta >= 35) { type = '🏗️ Long Term'; badgeClass = 'badge-warning'; }
-        else { type = '📈 Strategic'; badgeClass = 'badge-primary'; }
+        if (row.optimal_delta <= 10) { type = 'Quick Win'; badgeClass = 'badge-success'; }
+        else if (row.optimal_delta >= 35) { type = 'Long Term'; badgeClass = 'badge-warning'; }
+        else { type = 'Strategic'; badgeClass = 'badge-primary'; }
 
         tr.innerHTML = `
             <td class="fw-bold" style="text-transform: capitalize">${row.feature}</td>

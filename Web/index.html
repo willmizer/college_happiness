@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happiness Impact Simulator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-logo">Happiness AI</div>
+    <div class="nav-links">
+        <a href="/" class="nav-item active">Simulator</a>
+        <a href="/analytics" class="nav-item">Analytics</a>
+    </div>
+</nav>
+
+<div class="app-layout">
+    <aside class="sidebar">
+        <div class="brand">
+            <h2>Simulator Controls</h2>
+        </div>
+        <div class="control-section">
+            <label class="section-label">Select University</label>
+            <div class="search-wrapper">
+                <input type="text" id="school-search" placeholder="Search schools...">
+                <div id="autocomplete-list" class="autocomplete-items"></div>
+            </div>
+        </div>
+        <div class="control-section">
+            <label class="section-label">Investment Level</label>
+            <p class="helper-text">How much do you want to improve features by?</p>
+            <div class="investment-input-group">
+                <input type="number" id="delta-input" value="10" min="1" max="50">
+                <span class="unit">%</span>
+            </div>
+            <input type="range" id="delta-slider" min="1" max="50" value="10">
+        </div>
+        <div class="glass-panel summary-panel">
+            <h4>Simulation Status</h4>
+            <div class="status-row">
+                <span>Baseline:</span>
+                <strong id="baseline-disp">--%</strong>
+            </div>
+            <div class="status-row">
+                <span>Active Boosts:</span>
+                <strong id="active-count">0</strong>
+            </div>
+        </div>
+    </aside>
+
+    <main class="main-view">
+        <header>
+            <h1 id="school-title">Choose a School</h1>
+            <div class="big-score-container">
+                <div class="score-label">Projected Happiness</div>
+                <div class="score-value" id="final-score">--%</div>
+                <div class="score-diff" id="score-diff">+0.00%</div>
+            </div>
+        </header>
+
+        <section class="results-area">
+            <div class="section-header">
+                <h3>Tap features to apply improvements</h3>
+                <button class="reset-btn" onclick="resetSelections()">Reset All</button>
+            </div>
+            <div id="cards-grid" class="cards-grid"></div>
+        </section>
+
+        <section class="chart-section">
+            <div class="glass-panel chart-panel">
+                <div class="chart-header-row">
+                    <div class="chart-text">
+                        <h3>Investment Strategy Map</h3>
+                        <p>Best feature to upgrade at each budget level.</p>
+                    </div>
+                    <div class="chart-controls">
+                        <span>Step Size:</span>
+                        <button class="step-btn" onclick="setStep(0.01, this)">1%</button>
+                        <button class="step-btn active" onclick="setStep(0.05, this)">5%</button> <button class="step-btn" onclick="setStep(0.10, this)">10%</button>
+                    </div>
+                </div>
+                <div id="custom-legend" class="custom-legend"></div>
+                <div class="chart-container">
+                    <canvas id="strategyChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section class="analysis-section">
+            <div class="glass-panel analysis-panel">
+                <div class="panel-header">
+                    <h3>Feature Planning Analysis</h3>
+                    <p>Where is the specific "sweet spot" for each feature?</p>
+                </div>
+                <div class="table-responsive">
+                    <table class="styled-table" id="marginal-table">
+                        <thead>
+                            <tr>
+                                <th>Feature</th>
+                                <th>Optimal Investment</th>
+                                <th>Projected Jump</th>
+                                <th>Recommendation</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

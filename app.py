@@ -9,6 +9,18 @@ import streamlit as st
 
 st.set_page_config(page_title="College Happiness Simulator", layout="wide")
 
+# Keep the modebar so Streamlit's own fullscreen-expand button (injected into it)
+# still shows, but strip every other Plotly tool (zoom, pan, select, download, etc).
+PLOTLY_CONFIG = {
+    "displaylogo": False,
+    "modeBarButtonsToRemove": [
+        "zoom2d", "pan2d", "select2d", "lasso2d",
+        "zoomIn2d", "zoomOut2d", "autoScale2d", "resetScale2d",
+        "toImage", "hoverClosestCartesian", "hoverCompareCartesian",
+        "toggleSpikelines",
+    ],
+}
+
 st.markdown(
     """
     <style>
@@ -130,7 +142,7 @@ with tab_analytics:
             labels={"x": feature_label, "y": "State"},
             title=f"Top 10 States - {feature_label}",
         )
-        st.plotly_chart(fig_states, use_container_width=True, config={"displayModeBar": False})
+        st.plotly_chart(fig_states, use_container_width=True, config=PLOTLY_CONFIG)
 
     st.subheader(f"Score distribution - {feature_choice}")
     bins = [1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.1]
@@ -139,7 +151,7 @@ with tab_analytics:
     if not vals.empty:
         hist_counts = pd.cut(vals, bins=bins, labels=labels, right=False).value_counts().reindex(labels).fillna(0)
         fig = px.bar(x=labels, y=hist_counts.values, labels={"x": "Score range", "y": "Number of schools"})
-        st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
+        st.plotly_chart(fig, use_container_width=True, config=PLOTLY_CONFIG)
         st.caption(f"{len(df_filtered)} schools · average score {vals.mean():.2f}")
 
 
@@ -204,7 +216,7 @@ with tab_simulator:
         labels={"feature": "Feature", "gain_percent": "Happiness gain (pts)"},
     )
     fig_rank.update_layout(showlegend=False, xaxis_title="Feature", yaxis_title="Happiness gain (pts)")
-    st.plotly_chart(fig_rank, use_container_width=True, config={"displayModeBar": False})
+    st.plotly_chart(fig_rank, use_container_width=True, config=PLOTLY_CONFIG)
     st.caption("Colors match the feature legend in the marginal-gain chart below.")
 
     # marginal sweep per feature: happiness vs delta line chart + optimal jump table
@@ -223,7 +235,7 @@ with tab_simulator:
         xaxis_title="Investment (%)",
         yaxis_title="Happiness gain (pts)",
     )
-    st.plotly_chart(fig2, use_container_width=True, config={"displayModeBar": False})
+    st.plotly_chart(fig2, use_container_width=True, config=PLOTLY_CONFIG)
 
     marginal_results = []
     for feat in controllable:

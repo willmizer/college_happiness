@@ -167,7 +167,9 @@ with tab_simulator:
     school_names = sorted(school_defaults.keys())
     col1, col2 = st.columns([2, 1])
     with col1:
-        school_name = st.selectbox("Select a university", school_names)
+        default_school = "Florida Polytechnic University"
+        default_school_index = school_names.index(default_school) if default_school in school_names else 0
+        school_name = st.selectbox("Select a university", school_names, index=default_school_index)
     with col2:
         delta_scaled = st.slider("Investment level (%)", 1, 50, 10) / 100.0
 

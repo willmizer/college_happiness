@@ -89,7 +89,16 @@ streamlit run app.py
 
 This launches both the Analytics and Simulator views (as tabs) at `http://localhost:8501`.
 
-*Originally deployed as a Flask app on an AWS EC2 free-tier instance (Nginx + Gunicorn); retired in favor of Streamlit Community Cloud's simpler, free hosting.*
+## Previously Hosted on AWS
+
+This app was originally deployed as a Flask app on AWS instead of Streamlit. It worked, but keeping a paid EC2 instance running around the clock wasn't worth it for a portfolio demo that just needs to be reachable when someone clicks the link, so it moved to Streamlit Community Cloud's free hosting instead.
+
+The original setup, briefly:
+- **Instance:** AWS EC2 `t4g.micro` (ARM64/Graviton), Ubuntu 24.04 LTS.
+- **Stack:** Nginx (reverse proxy) in front of Gunicorn (WSGI) running the Flask app.
+- **Memory:** a 2GB swap file to cover pandas/scikit-learn's overhead on the instance's 1GB of RAM.
+- **Process management:** a systemd service so the app auto-restarted on crash or reboot.
+- **Domain:** a free DuckDNS subdomain pointed at the instance's public IP.
 
 ## Future Improvements
 

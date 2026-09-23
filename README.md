@@ -1,7 +1,6 @@
 # College Happiness Simulator & Analytics Platform
 
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://collegehappiness.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
 **A data-driven simulator for what actually makes college students happy.**
 
@@ -12,7 +11,7 @@ Traditional college rankings lean on prestige or endowment size. This project sc
 ## Overview
 
 - **Analyze:** view aggregated stats on facilities, safety, social life, and happiness across the US, ranked by state or school.
-- **Simulate:** pick a school (e.g. *Florida Polytechnic University*) and a hypothetical investment level, and see which feature — Safety, Internet, Location, Opportunities, etc. — yields the biggest happiness gain per dollar.
+- **Simulate:** pick a school (e.g. *Florida Polytechnic University*) and a hypothetical investment level, and see which feature (Safety, Internet, Location, Opportunities, etc.) yields the biggest happiness gain per dollar.
 - Built on a scraped dataset of ~3,200 institutions with 27 features, after cleaning ~5,700 raw scraped records.
 
 ## Tech Stack
@@ -40,13 +39,13 @@ Three regression models were tested to predict a **Happiness Score (0.0–1.0)**
 
 | Model | Test R² | MAE | Notes |
 | :--- | :--- | :--- | :--- |
-| **Random Forest** | **0.75** | **0.063** | Best balance of accuracy and generalization — used in the app. |
+| **Random Forest** | **0.75** | **0.063** | Best balance of accuracy and generalization, used in the app. |
 | Linear Regression | 0.74 | 0.065 | Good baseline, missed non-linear relationships. |
 | XGBoost | 0.72 | 0.066 | Slight overfitting on the training set. |
 
 5-fold cross-validation on the Random Forest model: mean R² **0.744** (std 0.037).
 
-Feature importance showed **Opportunities** and **Facilities** are the strongest predictors of happiness — well ahead of Food or Clubs.
+Feature importance showed **Opportunities** and **Facilities** are the strongest predictors of happiness, well ahead of Food or Clubs.
 
 ### 4. The Application (`app.py`)
 - **Smart Weighting (Analytics tab):** school scores are weighted `0.85 × feature score + 0.15 × log-scaled review count`, so schools with 10,000 reviews carry more authority than ones with 5.
@@ -55,7 +54,7 @@ Feature importance showed **Opportunities** and **Facilities** are the strongest
 ## Key Results
 
 - Random Forest model: **R² 0.75**, MAE **0.063** on held-out test data.
-- **Opportunities** and **Facilities** dominate the happiness prediction — far more than Food or Clubs.
+- **Opportunities** and **Facilities** dominate the happiness prediction, far more than Food or Clubs.
 - Review-count weighting meaningfully changes rankings versus raw averages, preventing low-sample schools from dominating leaderboards.
 
 ## Project Structure
@@ -101,6 +100,6 @@ This launches both the Analytics and Simulator views (as tabs) at `http://localh
 
 ## License
 
-This project is shared for portfolio and educational purposes — feel free to explore the code. Please reach out before reusing it commercially.
+This project is shared for portfolio and educational purposes. Feel free to explore the code, but please reach out before reusing it commercially.
 
 © 2026 Will Mizer

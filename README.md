@@ -1,7 +1,6 @@
 # The College Happiness Simulator & Analytics Platform
 
-<!-- STREAMLIT_LIVE_URL_TBD: replace with the deployed Streamlit Community Cloud URL -->
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](#) (deploy pending)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://collegehappiness.streamlit.app/)
 
 **A data-driven approach to quantifying student happiness.**
 This project scrapes data from over 5,000 universities, analyzes the correlation between campus amenities and student happiness, and provides a simulation platform for university administrators to optimize budget allocation for maximum student well-being.

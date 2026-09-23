@@ -55,6 +55,10 @@ scaler = pipe.named_steps["preprocess"].named_transformers_["num"]
 numeric_cols = metadata["numeric_cols"]
 controllable = metadata["controllable_features"]
 school_defaults = metadata["school_defaults"]
+FEATURE_COLORS = {
+    feat: px.colors.qualitative.Plotly[i % len(px.colors.qualitative.Plotly)]
+    for i, feat in enumerate(controllable)
+}
 ALL_STATES = sorted(analytics_df["state"].dropna().unique().tolist())
 FEATURE_COLS = [c for c in analytics_df.columns if c in numeric_cols or c == "happiness"]
 
@@ -190,8 +194,18 @@ with tab_simulator:
     rankings_results.sort(key=lambda x: x["gain_percent"], reverse=True)
 
     st.subheader(f"Best features to invest in (at +{delta_scaled*100:.0f}%)")
-    rank_df = pd.DataFrame(rankings_results).set_index("feature")
-    st.bar_chart(rank_df["gain_percent"])
+    rank_df = pd.DataFrame(rankings_results)
+    fig_rank = px.bar(
+        rank_df,
+        x="feature",
+        y="gain_percent",
+        color="feature",
+        color_discrete_map=FEATURE_COLORS,
+        labels={"feature": "Feature", "gain_percent": "Happiness gain (pts)"},
+    )
+    fig_rank.update_layout(showlegend=False, xaxis_title="Feature", yaxis_title="Happiness gain (pts)")
+    st.plotly_chart(fig_rank, use_container_width=True)
+    st.caption("Colors match the feature legend in the marginal-gain chart below.")
 
     # marginal sweep per feature: happiness vs delta line chart + optimal jump table
     marginal_curve = pd.DataFrame(
@@ -200,7 +214,10 @@ with tab_simulator:
     fig2 = go.Figure()
     for feat in controllable:
         sub = marginal_curve[marginal_curve["feature"] == feat].sort_values("delta")
-        fig2.add_trace(go.Scatter(x=sub["delta"], y=(sub["pred"] - base_pred) * 100, mode="lines", name=feat))
+        fig2.add_trace(go.Scatter(
+            x=sub["delta"], y=(sub["pred"] - base_pred) * 100, mode="lines", name=feat,
+            line=dict(color=FEATURE_COLORS[feat]),
+        ))
     fig2.update_layout(
         title="Marginal happiness gain vs. investment level, per feature",
         xaxis_title="Investment (%)",

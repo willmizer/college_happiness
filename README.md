@@ -1,123 +1,106 @@
-# The College Happiness Simulator & Analytics Platform
+# College Happiness Simulator & Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://collegehappiness.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://collegehappiness.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
-**A data-driven approach to quantifying student happiness.**
-This project scrapes data from over 5,000 universities, analyzes the correlation between campus amenities and student happiness, and provides a simulation platform for university administrators to optimize budget allocation for maximum student well-being.
+**A data-driven simulator for what actually makes college students happy.**
 
----
-
-## Project Concept & Goals
-
-Traditional college rankings often rely on prestige or endowment size. I wanted to understand **what actually makes students happy**.
-
-**The Goal:** Build a full-stack ML application that allows users to:
-1.  **Analyze:** View aggregated stats on facilities, safety, social life, and happiness across the US.
-2.  **Simulate:** Take a specific school (e.g., *Florida Polytechnic University*) and determine: *"If we invest 10% more into Facilities vs. Food, which yields a higher return on student happiness?"*
+Traditional college rankings lean on prestige or endowment size. This project scrapes data from over 5,000 universities, models the relationship between campus amenities and student happiness, and lets a user simulate "what if we invested more in Facilities vs. Food?" for any specific school.
 
 ---
+
+## Overview
+
+- **Analyze:** view aggregated stats on facilities, safety, social life, and happiness across the US, ranked by state or school.
+- **Simulate:** pick a school (e.g. *Florida Polytechnic University*) and a hypothetical investment level, and see which feature — Safety, Internet, Location, Opportunities, etc. — yields the biggest happiness gain per dollar.
+- Built on a scraped dataset of ~3,200 institutions with 27 features, after cleaning ~5,700 raw scraped records.
+
+## Tech Stack
+
+- **App:** Python, Streamlit, Plotly
+- **Modeling:** scikit-learn (Random Forest Regressor in a Pipeline with `MinMaxScaler` preprocessing)
+- **Data Collection:** Selenium, BeautifulSoup4, `concurrent.futures`
+- **Data Cleaning:** pandas, scikit-learn `IterativeImputer` (MICE)
 
 ## Data Pipeline
 
-The dataset was constructed from scratch using a dual-scraping strategy to merge subjective reviews with objective university statistics.
-
-### 1. Scraping (`bs4_scrape.py` & `ratings_scrape.py`)
-* **Selenium:** Used to traverse *RateMyProfessors*, handling dynamic JavaScript loading to scrape subjective ratings (Happiness, Food, Safety, Clubs) for ~5,700 schools.
-* **BeautifulSoup4:** Used to scrape *NCES College Navigator* for hard data (Tuition, Student Population, Retention Rates).
-* **Concurrency:** Implemented `concurrent.futures` with 15 parallel workers to reduce scraping time from days to hours.
+### 1. Scraping (`scrape_files/bs4_scrape.py`, `scrape_files/ratings_scrape.py`)
+- **Selenium** traverses *RateMyProfessors*, handling dynamic JS loading to scrape subjective ratings (Happiness, Food, Safety, Clubs) for ~5,700 schools.
+- **BeautifulSoup4** scrapes *NCES College Navigator* for objective data (tuition, student population, retention rates).
+- 15 parallel workers via `concurrent.futures` cut scraping time from days to hours.
 
 ### 2. Data Cleaning (`clean_data.ipynb`)
-* **Merging:** Joined datasets on fuzzy string matching (School Name + City/State).
-* **Imputation:** Used `IterativeImputer` (MICE) to fill missing demographic data based on correlations with other features.
-* **Filtering:** Removed outliers, closed institutions, and non-US territories (Guam, Puerto Rico) to ensure model stability.
-* **Final Dataset:** ~3,200 viable institutions with 27 distinct features.
+- Merged datasets on fuzzy string matching (school name + city/state).
+- Imputed missing demographic data with `IterativeImputer` (MICE), using correlations with other features.
+- Removed outliers, closed institutions, and non-US territories to keep the model stable.
+- Final dataset: ~3,200 viable institutions, 27 features.
 
----
+### 3. Modeling (`model_testing.ipynb`)
+Three regression models were tested to predict a **Happiness Score (0.0–1.0)**:
 
-## Model Development & Testing
-
-I tested three distinct regression models to predict the target variable: **Happiness Score (0.0 - 1.0)**.
-
-### Model Performance (`model_testing.ipynb`)
-
-| Model | Test R² | MAE | Analysis |
+| Model | Test R² | MAE | Notes |
 | :--- | :--- | :--- | :--- |
-| **Random Forest** | **0.75** | **0.063** | **Best balance of accuracy and generalization.** |
-| Linear Regression | 0.74 | 0.065 | Good baseline, but missed non-linear relationships. |
+| **Random Forest** | **0.75** | **0.063** | Best balance of accuracy and generalization — used in the app. |
+| Linear Regression | 0.74 | 0.065 | Good baseline, missed non-linear relationships. |
 | XGBoost | 0.72 | 0.066 | Slight overfitting on the training set. |
 
-### Cross Validation testing 
+5-fold cross-validation on the Random Forest model: mean R² **0.744** (std 0.037).
 
-| Model | CV R² | Mean CV R² | std R² |
-| :--- | :--- | :--- | :--- |
-| **Random Forest** | **[0.80847141 0.71255238 0.76066599 0.70785308 0.73025952]** | **0.744** | **0.0372** |
+Feature importance showed **Opportunities** and **Facilities** are the strongest predictors of happiness — well ahead of Food or Clubs.
 
-### Key Insights
-Feature importance analysis revealed that **Opportunities** and **Facilities** are the strongest predictors of student happiness, significantly outweighing **Food** or **Clubs**. Also, for **ML insights** these cross validation scores are excellent for my project goal.
+### 4. The Application (`app.py`)
+- **Smart Weighting (Analytics tab):** school scores are weighted `0.85 × feature score + 0.15 × log-scaled review count`, so schools with 10,000 reviews carry more authority than ones with 5.
+- **Marginal Utility Engine (Simulator tab):** for a chosen school and investment delta, the app generates 50+ perturbations of its feature vector, batch-predicts happiness for each, and surfaces both the single biggest "quickest win" and the full marginal-gain curve per feature.
 
-*The final model (`model.pkl`) is a Random Forest Regressor integrated into a Scikit-Learn Pipeline with MinMaxScaler preprocessing.*
+## Key Results
 
----
+- Random Forest model: **R² 0.75**, MAE **0.063** on held-out test data.
+- **Opportunities** and **Facilities** dominate the happiness prediction — far more than Food or Clubs.
+- Review-count weighting meaningfully changes rankings versus raw averages, preventing low-sample schools from dominating leaderboards.
 
-## The Application 
+## Project Structure
 
-### Smart Weighting Algorithm (Analytics Page)
-Ranking isn't just about the raw score; it's about confidence. I implemented a weighted ranking system:
-$$\text{Score} = (0.85 \times \text{Feature Score}) + (0.15 \times \log(\text{Review Count}))$$
-This ensures schools with 10,000 reviews have higher authority than schools with 5 reviews.
+```
+college_biz/
+├── app.py                        # Streamlit app (Analytics + Simulator tabs)
+├── clean_data.ipynb              # Scraped-data cleaning & merging
+├── model_testing.ipynb           # Model comparison & cross-validation
+├── requirements.txt
+├── scrape_files/
+│   ├── bs4_scrape.py             # NCES College Navigator scraper
+│   ├── ratings_scrape.py         # RateMyProfessors scraper (Selenium)
+│   └── README.md
+└── Web/
+    ├── model.pkl                 # Trained Random Forest pipeline
+    ├── metadata.json             # School defaults + controllable features
+    ├── analysis_dataset.csv      # Cleaned, scraped dataset
+    └── train_model.py            # Training script (documents model provenance)
+```
 
-### Marginal Utility Engine
-When a user adjusts the "Investment Slider" on the frontend:
-1.  The backend generates **50+ perturbations** of the school's feature vector.
-2.  It runs batch predictions to calculate the **marginal happiness gain** for every 1% increase in specific features (Safety, Internet, Location, etc.).
-3.  **Result:** The app recommends the "Quickest Win" (*Fix the Internet first*) vs. "Long Term Strategic Investments" (*Improve Location/Opportunities*).
+## Run Locally
 
----
+```bash
+git clone https://github.com/willmizer/college_happiness.git
+cd college_happiness
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-## Infrastructure & Deployment
+This launches both the Analytics and Simulator views (as tabs) at `http://localhost:8501`.
 
-The app is now built with **Streamlit** and deployed on Streamlit Community Cloud, which deploys directly from this GitHub repo on push.
+*Originally deployed as a Flask app on an AWS EC2 free-tier instance (Nginx + Gunicorn); retired in favor of Streamlit Community Cloud's simpler, free hosting.*
 
-*The original version of this project was deployed as a Flask app on an AWS EC2 free-tier instance (Nginx + Gunicorn); that architecture has been retired in favor of Streamlit's simpler, free hosting.*
+## Future Improvements
 
----
+- **User accounts:** let university admins save their simulation scenarios.
+- **Cost analysis:** integrate a cost-of-living API to correlate happiness with financial stress.
+- **Sentiment analysis:** parse review *text* (NLP) rather than just numeric scores, to surface specific keywords ("small dorms," "parking nightmare").
+- **Feature engineering:** expand the feature set to capture more of what drives student happiness.
 
-## Local Installation
+## License
 
-1.  **Clone the Repo:**
-    ```bash
-    git clone https://github.com/willmizer/college_happiness.git
-    cd college_happiness
-    ```
+This project is shared for portfolio and educational purposes — feel free to explore the code. Please reach out before reusing it commercially.
 
-2.  **Create Virtual Environment:**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Run the App:**
-    ```bash
-    streamlit run app.py
-    ```
-    This launches both the Analytics and Simulator views (as tabs) at `http://localhost:8501`.
-
----
-
-## Future Work
-
-* **User Accounts:** Allow university admins to save their simulation scenarios.
-* **Cost Analysis:** Integrate cost-of-living API to correlate happiness with financial stress.
-* **Sentiment Analysis:** Upgrade the scraper to parse the *text* of reviews (NLP) rather than just the numeric scores to find specific keywords ("small dorms" or "parking nightmare").
-* **Feature Improvements and Engineering:** Upgrade the features used to try and account for more overall situations.
-
-
----
-
-### License
-This project is available for viewing and educational purposes only. All rights reserved.
+© 2026 Will Mizer

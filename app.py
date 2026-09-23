@@ -260,4 +260,9 @@ with tab_simulator:
     marginal_results.sort(key=lambda x: x["jump_size_pts"], reverse=True)
 
     st.subheader("Where's the sweet spot for each feature?")
-    st.dataframe(pd.DataFrame(marginal_results).set_index("feature").round(3), use_container_width=True)
+    sweet_spot_df = pd.DataFrame(marginal_results).round(3).rename(columns={
+        "feature": "Feature",
+        "optimal_delta_%": "Impact Percent",
+        "jump_size_pts": "Overall Happiness Jump Percentage",
+    })
+    st.dataframe(sweet_spot_df, hide_index=True, use_container_width=True)

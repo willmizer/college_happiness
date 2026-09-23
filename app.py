@@ -7,7 +7,24 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="College Happiness Simulator", page_icon="🎓", layout="wide")
+st.set_page_config(page_title="College Happiness Simulator", layout="wide")
+
+st.markdown(
+    """
+    <style>
+    @media (max-width: 768px) {
+        div[data-testid="stHorizontalBlock"] {
+            flex-direction: column;
+        }
+        div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"] {
+            width: 100% !important;
+            flex: 1 1 100% !important;
+        }
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 DATA_DIR = "Web"
 
@@ -41,14 +58,14 @@ school_defaults = metadata["school_defaults"]
 ALL_STATES = sorted(analytics_df["state"].dropna().unique().tolist())
 FEATURE_COLS = [c for c in analytics_df.columns if c in numeric_cols or c == "happiness"]
 
-st.title("🎓 The College Happiness Simulator")
+st.title("The College Happiness Simulator")
 st.caption(
-    "A data-driven look at what actually makes students happy — analyze ~2,800 US "
+    "A data-driven look at what actually makes students happy - analyze ~2,800 US "
     "colleges, then simulate how shifting a school's budget toward specific features "
     "moves predicted student happiness."
 )
 
-tab_analytics, tab_simulator = st.tabs(["📊 Analytics", "🧪 Simulator"])
+tab_analytics, tab_simulator = st.tabs(["Analytics", "Simulator"])
 
 
 def apply_weighting(df: pd.DataFrame, feat_col: str) -> pd.Series:
@@ -97,13 +114,21 @@ with tab_analytics:
 
     col1, col2 = st.columns(2)
     with col1:
-        st.subheader(f"Top 10 schools — {feature_choice}")
+        st.subheader(f"Top 10 schools - {feature_choice}")
         st.dataframe(top_schools.set_index("school_name").round(2), use_container_width=True)
     with col2:
-        st.subheader("Top 10 states (review-weighted average)")
-        st.bar_chart(state_stats.round(2))
+        feature_label = feature_choice.replace("_", " ").title()
+        state_stats_asc = state_stats.sort_values(ascending=True).round(2)
+        fig_states = px.bar(
+            x=state_stats_asc.values,
+            y=state_stats_asc.index,
+            orientation="h",
+            labels={"x": feature_label, "y": "State"},
+            title=f"Top 10 States - {feature_label}",
+        )
+        st.plotly_chart(fig_states, use_container_width=True)
 
-    st.subheader(f"Score distribution — {feature_choice}")
+    st.subheader(f"Score distribution - {feature_choice}")
     bins = [1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.1]
     labels = ["1.0-1.5", "1.5-2.0", "2.0-2.5", "2.5-3.0", "3.0-3.5", "3.5-4.0", "4.0-4.5", "4.5-5.0"]
     vals = df_sorted["_weighted_score"]

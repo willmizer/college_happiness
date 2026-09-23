@@ -1,6 +1,7 @@
 # The College Happiness Simulator & Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/AWS-Live_Demo-FF9900?style=for-the-badge&logo=amazon-aws)](https://collegehappiness.duckdns.org/) - currently down
+<!-- STREAMLIT_LIVE_URL_TBD: replace with the deployed Streamlit Community Cloud URL -->
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](#) (deploy pending)
 
 **A data-driven approach to quantifying student happiness.**
 This project scrapes data from over 5,000 universities, analyzes the correlation between campus amenities and student happiness, and provides a simulation platform for university administrators to optimize budget allocation for maximum student well-being.
@@ -76,28 +77,18 @@ When a user adjusts the "Investment Slider" on the frontend:
 
 ## Infrastructure & Deployment
 
-The application is deployed on AWS using a budget friendly architecture designed for maximum performance on the Free Tier.
+The app is now built with **Streamlit** and deployed on Streamlit Community Cloud, which deploys directly from this GitHub repo on push.
 
-* **Instance:** AWS EC2 `t4g.micro` (ARM64/Graviton).
-* **OS:** Ubuntu 24.04 LTS.
-* **Web Server:** Nginx (Reverse Proxy) $\rightarrow$ Gunicorn (WSGI) $\rightarrow$ Flask.
-* **Optimization:**
-    * **Swap Space:** Allocated 2GB swap file to handle the memory overhead of Pandas/Scikit-Learn on a 1GB RAM instance.
-    * **Systemd:** Configured as a background service for auto-healing/restarts.
-    * **Network:** Custom VPC settings for secure HTTP traffic handling.
-
-*See `aws_deployment.md` for full infrastructure documentation.*
+*The original version of this project was deployed as a Flask app on an AWS EC2 free-tier instance (Nginx + Gunicorn); that architecture has been retired in favor of Streamlit's simpler, free hosting.*
 
 ---
 
 ## Local Installation
 
-*Note: Source code is provided for educational purposes.*
-
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/college-happiness.git](https://github.com/YOUR_USERNAME/college-happiness.git)
-    cd college-happiness
+    git clone https://github.com/willmizer/college_happiness.git
+    cd college_happiness
     ```
 
 2.  **Create Virtual Environment:**
@@ -111,10 +102,11 @@ The application is deployed on AWS using a budget friendly architecture designed
     pip install -r requirements.txt
     ```
 
-4.  **Run the Server:**
+4.  **Run the App:**
     ```bash
-    python server.py
+    streamlit run app.py
     ```
+    This launches both the Analytics and Simulator views (as tabs) at `http://localhost:8501`.
 
 ---
 

@@ -27,10 +27,8 @@ Alfred University,New York,75.0,3.2,2.7,3.6,3.4,3.4,3.1,3.6,2.1,2.2
 Amherst College,Massachusetts,53.0,4.3,4.0,4.0,4.7,3.6,3.4,4.7,2.9,4.2
 Anna Maria College,Massachusetts,48.0,2.8,2.8,2.8,2.8,2.4,2.4,3.3,2.0,2.6
 Alice Lloyd College,Kentucky,20.0,3.4,2.4,3.2,3.2,2.5,2.7,4.0,2.7,2.5
-Anderson University,Indiana,78.0,3.4,3.1,3.8,3.7,3.4,3.5,4.4,2.6,2.9
 Angelo State University,Texas,165.0,3.7,3.4,3.9,3.5,3.2,3.4,4.3,3.0,3.1
 Antioch University,Washington,16.0,2.6,3.9,3.7,3.1,2.4,2.6,3.8,2.5,3.2
-Antioch University,New Hampshire,5.0,3.0,3.0,4.2,3.8,3.2,3.6,4.7,2.8,3.8
 Antioch College,Ohio,7.0,3.4,3.9,3.9,4.1,3.3,3.7,4.7,4.0,3.3
 Aquinas College,Michigan,92.0,3.8,4.4,3.8,3.5,3.1,3.2,3.6,2.6,3.2
 Art Center College of Design,California,52.0,2.9,3.1,2.9,3.4,1.8,1.8,2.7,2.1,3.4
@@ -73,7 +71,6 @@ Bemidji State University,Minnesota,138.0,3.8,4.1,3.8,3.3,3.2,3.3,4.1,2.9,3.4
 Benedictine College,Kansas,73.0,4.1,3.0,4.2,3.8,3.4,3.8,4.5,2.4,2.6
 Berea College,Kentucky,92.0,3.6,3.4,3.6,4.1,3.3,3.2,3.7,2.6,3.0
 Bentley University,Massachusetts,261.0,4.2,4.1,4.3,4.6,3.7,3.6,4.5,2.6,3.8
-Bethany College,Kansas,6.0,3.3,2.7,3.0,2.8,2.2,2.7,3.0,2.7,2.8
 Berklee College of Music,Massachusetts,218.0,3.5,4.3,4.1,4.4,3.5,3.7,3.5,3.0,3.6
 Bethune-Cookman University,Florida,45.0,3.0,3.0,3.4,3.4,3.7,3.5,3.5,2.5,2.9
 Bethel University,Indiana,26.0,3.7,3.8,3.9,3.3,2.8,3.3,4.4,2.7,3.5
@@ -207,9 +204,6 @@ Washington Adventist University,Maryland,21.0,2.4,2.6,2.6,2.4,2.3,2.5,3.2,2.4,2.
 Columbia University,New York,109.0,3.9,4.4,3.7,4.3,3.6,3.4,3.5,3.3,3.9
 Concord University,West Virginia,49.0,3.9,2.9,4.1,3.3,3.2,3.2,4.8,3.0,3.1
 Columbus State University,Georgia,159.0,3.7,3.6,3.6,3.6,3.3,3.3,3.8,2.9,3.2
-Concordia University,Michigan,19.0,2.9,3.6,3.0,2.9,2.7,2.5,3.8,1.8,2.1
-Concordia University,Texas,46.0,3.5,3.7,3.5,3.3,2.8,2.8,4.4,3.0,3.5
-Concordia University,Nebraska,15.0,3.5,3.0,3.9,3.3,2.8,3.3,4.5,3.1,3.0
 Concordia College,Minnesota,137.0,4.2,3.6,4.1,4.2,3.8,3.7,4.1,4.1,3.0
 Concordia University Chicago,Illinois,63.0,3.1,3.8,3.2,3.2,2.7,2.6,3.5,2.5,3.3
 Connecticut College,Connecticut,78.0,4.1,3.5,4.1,4.1,3.8,3.5,4.1,3.3,3.6
@@ -385,10 +379,9 @@ Lincoln University,Pennsylvania,25.0,2.6,1.9,2.6,3.0,3.7,3.7,3.0,2.5,2.8
 Lincoln Memorial University,Tennessee,49.0,3.0,2.8,2.9,2.8,2.2,2.3,4.1,2.3,3.2
 Life University,Georgia,41.0,3.7,3.9,3.3,3.3,3.6,3.1,3.6,3.6,3.4
 Linfield University,Oregon,65.0,4.0,3.4,3.9,3.8,3.2,3.1,3.4,2.2,3.0
-Lincoln University,California,4.0,4.0,4.5,5.0,4.8,4.3,4.5,4.8,4.0,4.8
 Lindenwood University,Missouri,235.0,3.9,3.8,3.6,3.5,3.0,2.9,4.1,2.5,2.7
 Loma Linda University,California,25.0,3.2,2.4,3.2,3.2,2.0,2.5,3.9,2.6,3.5
-Long Island University,New York,2.0,3.0,3.0,4.0,4.0,2.0,2.0,4.1,2.5,3.0
+Long Island University (Riverhead),New York,2.0,3.0,3.0,4.0,4.0,2.0,2.0,4.1,2.5,3.0
 Long Island University,New York,178.0,2.8,3.6,2.9,2.8,2.7,2.7,3.6,2.6,2.9
 Loras College,Iowa,42.0,3.5,3.4,3.7,3.6,3.3,3.3,3.8,2.5,2.4
 Longwood University,Virginia,262.0,4.1,3.2,4.0,3.7,3.6,3.8,3.9,2.5,2.9
@@ -458,9 +451,9 @@ Mississippi Valley State University,Mississippi,10.0,2.5,1.9,2.5,2.6,2.7,3.1,2.2
 Monmouth University,New Jersey,259.0,4.1,4.2,3.8,3.6,3.4,3.2,4.2,2.9,3.2
 Missouri Baptist University,Missouri,23.0,3.2,3.4,3.4,3.1,2.7,2.7,4.0,2.6,2.3
 Montana State University,Montana,298.0,3.9,4.4,4.1,3.8,3.6,3.7,4.1,3.2,3.2
-Montana State University,Montana,20.0,3.5,4.1,3.5,3.3,2.8,2.8,4.2,3.0,3.1
+Montana State University (Billings),Montana,20.0,3.5,4.1,3.5,3.3,2.8,2.8,4.2,3.0,3.1
 Monmouth College,Illinois,35.0,3.6,2.5,3.4,3.1,2.9,3.1,4.1,2.5,2.4
-Montana State University,Montana,9.0,3.2,3.7,3.9,3.2,3.2,3.0,4.3,2.8,3.2
+Montana State University (Havre),Montana,9.0,3.2,3.7,3.9,3.2,3.2,3.0,4.3,2.8,3.2
 Middlebury Institute of International Studies at Monterey,California,17.0,3.2,3.9,3.7,3.8,3.2,3.3,4.3,2.8,3.6
 Montclair State University,New Jersey,701.0,3.5,3.8,3.4,3.4,3.2,2.9,3.9,2.7,3.1
 Montreat College,North Carolina,17.0,2.8,4.2,3.8,3.2,2.4,3.4,4.6,1.9,2.4
@@ -522,7 +515,6 @@ Northwest Nazarene University,Idaho,39.0,3.5,3.4,3.7,3.3,3.3,3.5,4.3,2.7,2.5
 Northwestern College,Iowa,31.0,4.2,3.3,4.6,4.0,3.5,4.0,5.0,2.8,3.0
 Northwestern Michigan College,Michigan,82.0,3.8,4.1,3.8,3.3,2.8,2.9,4.0,3.0,3.2
 Northwood University,Michigan,147.0,3.9,3.9,4.5,4.6,4.2,4.1,4.9,2.5,3.3
-Northwood University,Florida,8.0,4.4,4.8,4.5,4.9,4.9,4.9,4.7,4.0,4.5
 Northwestern University,Illinois,42.0,4.2,4.2,4.0,4.4,3.9,3.7,4.3,3.6,4.3
 Norwich University,Vermont,93.0,3.4,2.6,3.3,3.6,3.4,2.8,3.6,2.2,2.7
 Nova Southeastern University,Florida,236.0,4.0,4.2,3.7,3.8,3.6,3.3,4.1,3.0,3.5
@@ -584,7 +576,6 @@ Radford University,Virginia,457.0,4.3,3.7,4.3,3.9,3.9,4.1,3.8,3.2,3.4
 Reed College,Oregon,49.0,4.6,4.5,4.0,3.8,3.6,3.6,4.1,3.9,4.0
 Randolph-Macon College,Virginia,92.0,3.6,3.8,3.9,3.8,3.3,3.5,4.2,2.2,2.7
 Regis University,Colorado,104.0,4.0,3.6,3.9,3.7,3.4,3.5,3.1,3.4,3.2
-Purdue University Northwest,Indiana,23.0,4.1,3.7,4.0,3.6,3.4,3.0,4.4,3.8,3.4
 Rensselaer Polytechnic Institute,New York,217.0,3.5,3.0,3.4,4.1,4.0,3.2,3.2,2.7,3.6
 Rhode Island College,Rhode Island,303.0,3.1,3.4,3.3,3.0,2.9,2.6,4.1,2.5,3.4
 Rhodes College,Tennessee,107.0,4.3,3.8,4.2,4.4,3.9,3.9,3.6,2.6,3.6
@@ -609,7 +600,7 @@ Rose-Hulman Institute of Technology,Indiana,137.0,4.3,2.8,3.8,4.6,4.0,3.6,4.9,2.
 Dominican University,Illinois,91.0,3.8,4.1,3.8,3.6,3.2,3.1,4.3,2.7,3.3
 Russell Sage College,New York,38.0,3.2,3.2,3.5,3.5,3.1,3.2,3.1,2.3,2.8
 Rutgers - State University of New Jersey,New Jersey,632.0,3.8,3.8,4.0,4.1,4.0,4.1,3.3,3.5,3.5
-Rutgers - State University of New Jersey,New Jersey,160.0,3.3,3.2,3.6,3.7,3.2,3.2,2.8,2.9,3.6
+Rutgers - State University of New Jersey (Newark),New Jersey,160.0,3.3,3.2,3.6,3.7,3.2,3.2,2.8,2.9,3.6
 Sacred Heart University,Connecticut,263.0,4.2,3.4,3.9,3.9,3.9,3.8,4.0,3.4,3.5
 Saginaw Valley State University,Michigan,475.0,4.2,3.6,3.8,3.6,3.5,3.3,4.1,3.2,3.1
 St. Ambrose University,Iowa,110.0,3.9,3.4,4.0,3.8,3.6,3.5,3.1,2.7,3.2
@@ -619,11 +610,9 @@ St. Edward's University,Texas,219.0,4.3,4.6,4.3,4.1,3.7,3.7,4.3,3.3,3.6
 Saint Anselm College,New Hampshire,88.0,4.1,3.6,3.9,4.0,3.4,3.5,4.3,4.3,2.9
 Saint Francis University,Pennsylvania,62.0,3.9,2.8,3.8,3.7,3.7,3.2,4.7,3.0,2.6
 College of Saint Benedict & Saint John's University,Minnesota,138.0,4.5,3.9,4.5,4.5,4.2,4.1,4.3,4.3,3.9
-St. Joseph's College,Indiana,5.0,3.0,2.6,4.0,3.2,2.8,3.8,5.0,2.0,2.4
 University of Saint Joseph,Connecticut,48.0,3.5,3.6,3.0,3.3,2.5,2.2,4.2,2.6,3.5
 St. John's College,Maryland,16.0,3.5,3.3,3.9,3.6,3.5,3.2,4.5,2.4,3.1
 Saint Joseph's College,Maine,38.0,3.3,3.3,3.0,3.0,2.9,2.9,4.5,3.4,3.0
-St. John's College,New Mexico,13.0,3.5,4.4,3.6,3.6,3.9,3.8,2.8,3.0,3.2
 Saint Joseph's University,Pennsylvania,233.0,3.9,3.9,3.9,3.9,3.6,3.5,3.2,2.5,3.1
 Saint Leo University,Florida,261.0,3.0,2.4,2.8,2.8,2.6,2.6,2.9,2.4,2.6
 Saint Martin's University,Washington,60.0,3.6,3.9,3.4,3.5,3.2,3.1,4.0,2.9,2.6
@@ -697,7 +686,6 @@ Southwest Baptist University,Missouri,35.0,3.4,3.4,4.1,3.9,3.6,3.7,4.5,2.7,3.3
 Southwestern Adventist University,Texas,33.0,3.1,3.0,3.0,3.2,2.7,2.9,4.4,2.6,2.8
 Southwestern College,California,286.0,3.8,4.1,3.8,3.7,3.3,3.2,4.3,3.3,3.6
 Southwestern Oklahoma State University,Oklahoma,76.0,3.5,2.9,3.7,3.3,2.8,3.0,4.4,3.1,3.0
-Southwestern College,Kansas,9.0,3.8,3.6,3.8,3.3,3.1,3.6,5.0,3.1,3.6
 Spalding University,Kentucky,16.0,3.7,3.6,4.9,4.3,3.0,3.5,3.6,3.4,4.2
 Southwestern University,Texas,122.0,4.0,3.8,4.0,4.2,3.5,3.5,4.2,2.5,3.1
 Spring Hill College,Alabama,49.0,4.1,4.0,4.2,3.8,3.6,3.6,4.1,3.0,3.1
@@ -753,7 +741,7 @@ Thiel College,Pennsylvania,34.0,3.3,2.7,3.6,3.4,3.5,3.5,3.9,2.7,2.9
 Tougaloo College,Mississippi,5.0,1.8,3.4,3.4,4.4,3.6,3.6,3.2,2.4,2.0
 Thomas More University,Kentucky,38.0,3.2,4.1,3.6,3.8,3.2,2.9,4.3,2.4,2.9
 Thomas Jefferson University,Pennsylvania,48.0,2.6,3.8,2.9,3.3,2.8,2.4,4.3,2.3,2.3
-Touro College,New York,41.0,3.3,4.2,4.0,3.7,2.6,2.9,4.4,2.9,3.9
+Touro College (New York),New York,41.0,3.3,4.2,4.0,3.7,2.6,2.9,4.4,2.9,3.9
 Transylvania University,Kentucky,48.0,3.6,4.1,3.8,4.1,3.6,3.9,3.5,2.8,3.4
 Toccoa Falls College,Georgia,31.0,2.8,3.5,3.6,2.8,2.9,3.2,4.1,2.5,2.4
 Trevecca Nazarene University,Tennessee,70.0,3.4,3.0,3.2,3.1,2.6,2.8,3.1,2.3,2.6
@@ -849,7 +837,7 @@ Washington & Jefferson College,Pennsylvania,62.0,3.4,2.9,3.8,4.1,3.5,3.4,3.7,3.1
 Washington College,Maryland,96.0,3.8,2.9,3.7,3.6,3.4,3.2,3.5,3.0,2.8
 Washington State University - Spokane,Washington,9.0,4.1,3.9,3.7,3.8,2.9,2.8,4.0,2.7,3.6
 Washington State University - Vancouver,Washington,115.0,4.1,4.3,3.9,3.5,3.2,3.3,4.3,3.0,3.6
-Wayland Baptist University,Texas,17.0,2.5,2.1,2.5,2.5,2.4,2.5,2.7,2.0,2.8
+Wayland Baptist University (Plainview),Texas,17.0,2.5,2.1,2.5,2.5,2.4,2.5,2.7,2.0,2.8
 Webb Institute,New York,7.0,4.4,4.1,4.4,4.9,4.3,4.0,4.6,3.7,4.6
 Wayne State College,Nebraska,69.0,3.8,3.2,3.9,3.7,3.7,3.4,4.0,3.0,3.6
 Webber International University,Florida,7.0,2.7,3.1,3.3,3.3,3.1,3.3,3.4,2.1,2.6
@@ -864,7 +852,7 @@ Wesleyan University,Connecticut,110.0,4.3,3.5,4.4,4.2,4.3,4.2,4.1,4.3,3.7
 West Liberty University,Pennsylvania,56.0,3.4,2.6,3.7,3.2,3.2,3.0,4.7,3.1,3.5
 West Chester University of Pennsylvania,Pennsylvania,498.0,3.9,4.3,4.1,3.8,3.9,3.8,4.0,3.0,3.2
 West Virginia University,West Virginia,552.0,4.2,3.9,4.4,4.1,4.3,4.5,3.6,3.5,3.6
-West Virginia University,West Virginia,28.0,3.5,3.7,3.5,3.3,2.8,2.8,4.4,3.0,3.2
+West Virginia University (Parkersburg),West Virginia,28.0,3.5,3.7,3.5,3.3,2.8,2.8,4.4,3.0,3.2
 West Virginia Wesleyan College,West Virginia,31.0,4.0,3.7,4.1,3.9,3.6,3.7,4.8,2.6,3.0
 West Texas A&M University,Texas,158.0,4.0,3.3,3.8,3.5,3.5,3.4,4.4,2.7,3.1
 West Virginia State University,West Virginia,52.0,3.7,3.4,3.8,3.2,2.6,2.9,2.4,3.0,2.7
@@ -883,8 +871,6 @@ Western Washington University,Washington,705.0,4.0,4.4,4.1,3.7,3.8,3.6,3.6,3.0,3
 Western Colorado University,Colorado,51.0,3.9,4.0,3.9,3.2,3.1,3.2,4.3,2.3,3.2
 Westminster College,Utah,96.0,4.0,4.3,3.8,3.8,3.4,3.4,3.8,2.6,3.5
 Westmont College,California,77.0,3.8,4.6,3.6,3.9,3.3,3.4,4.5,2.5,2.6
-Westminster College,Missouri,26.0,3.7,3.0,4.3,4.1,3.8,4.1,3.8,2.6,3.5
-Wheaton College,Massachusetts,105.0,3.8,2.9,3.8,3.9,3.6,3.4,4.1,3.0,3.8
 Wheaton College,Illinois,135.0,4.2,4.1,4.4,4.2,4.0,3.8,4.7,4.0,3.3
 Whitman College,Washington,56.0,4.4,3.3,4.3,3.9,4.0,3.9,4.1,3.9,4.1
 Whittier College,California,103.0,3.3,3.2,3.2,3.3,3.0,3.0,3.6,2.6,2.9
@@ -979,7 +965,6 @@ University of Northern Iowa,Iowa,346.0,4.2,4.0,4.2,4.0,3.9,3.8,4.2,3.9,3.6
 Palmer College of Chiropractic,Iowa,10.0,2.8,2.2,2.6,3.4,3.6,2.9,2.3,2.6,2.8
 San Antonio College,Texas,308.0,3.6,3.6,3.8,3.7,3.3,3.3,3.3,2.9,3.5
 Drew University,New Jersey,79.0,4.0,4.3,4.2,4.0,3.6,3.5,4.4,2.3,3.5
-Columbia College,South Carolina,39.0,3.9,2.9,3.9,3.9,3.7,3.6,3.9,3.1,2.9
 Fullerton College,California,313.0,4.2,4.3,4.3,4.0,3.5,3.5,4.3,3.7,3.4
 Beacon College,Florida,7.0,2.6,2.4,2.9,2.9,3.1,2.1,2.8,1.9,2.3
 University of Vermont,Vermont,478.0,4.0,4.4,4.2,3.8,4.0,3.8,3.8,2.9,3.4
@@ -1048,7 +1033,6 @@ Ventura College,California,192.0,3.6,4.1,3.8,3.5,2.9,2.8,3.9,2.5,3.3
 Santa Rosa Junior College,California,443.0,4.3,4.2,4.3,4.0,3.4,3.3,3.9,3.5,3.7
 Oxnard College,California,78.0,3.8,3.7,3.8,3.5,3.1,3.1,4.2,3.3,3.3
 Moorpark College,California,359.0,4.0,4.0,4.0,3.6,3.1,2.9,4.2,2.5,3.4
-Emmanuel College,Georgia,25.0,3.2,2.8,3.6,3.0,3.0,3.2,3.5,2.9,2.5
 Eastern Maine Community College,Maine,16.0,3.6,4.2,3.8,3.4,2.4,2.7,4.2,2.8,2.4
 University of Massachusetts - Amherst,Massachusetts,754.0,3.8,3.6,4.1,3.9,3.9,4.1,4.1,4.5,3.2
 University of Texas at San Antonio,Texas,814.0,4.0,4.0,3.9,3.9,3.8,3.7,4.1,3.7,3.5
@@ -1062,7 +1046,6 @@ Cincinnati State,Ohio,137.0,3.6,3.8,4.0,3.6,2.9,2.8,4.2,3.5,3.6
 Olympic College,Washington,159.0,3.7,3.5,3.8,3.3,2.9,2.9,4.2,3.2,3.1
 University of Washington,Washington,783.0,4.3,4.4,3.9,4.1,3.8,3.5,3.0,3.3,4.1
 Florida Agricultural and Mechanical University,Florida,272.0,3.7,3.8,4.2,4.2,4.3,4.4,3.2,3.6,3.5
-Tidewater Community College,Virginia,70.0,3.6,3.7,3.5,3.5,3.0,3.1,3.9,3.1,3.8
 University of Michigan - Dearborn,Michigan,343.0,3.8,3.7,3.6,3.6,3.2,2.9,3.9,3.0,3.6
 Hudson Valley Community College,New York,205.0,3.8,3.6,4.0,3.8,3.4,3.2,3.9,3.2,3.7
 SUNY Broome,New York,173.0,3.1,3.4,3.3,3.2,2.8,2.7,4.0,2.8,3.1
@@ -1124,7 +1107,6 @@ Allen Community College,Kansas,12.0,3.8,2.8,4.0,3.1,2.8,3.1,3.4,3.2,3.5
 Alpena Community College,Michigan,16.0,3.1,3.3,3.1,3.0,2.3,2.2,4.6,2.7,3.3
 Alvin Community College,Texas,93.0,4.0,3.9,4.2,3.7,3.4,3.5,4.6,3.6,3.9
 Allan Hancock College,California,117.0,3.8,4.0,4.1,3.8,3.2,3.3,4.6,3.2,3.6
-American Academy of Dramatic Arts,California,1.0,4.0,5.0,5.0,5.0,4.0,4.0,4.9,1.0,4.0
 American Academy of Dramatic Arts,New York,11.0,2.2,3.9,2.8,2.4,2.1,2.9,3.6,1.6,2.5
 Amarillo College,Texas,60.0,3.7,3.8,4.0,3.6,3.3,3.3,3.6,2.4,3.7
 Andrew College,Georgia,8.0,2.4,2.0,3.1,2.5,2.8,2.8,3.1,1.8,1.8
@@ -1163,7 +1145,6 @@ Black Hawk College,Illinois,50.0,3.7,4.0,3.5,3.3,3.0,2.9,4.1,2.5,3.0
 Blackhawk Technical College,Wisconsin,18.0,3.8,4.0,3.5,3.3,3.0,2.9,5.0,3.2,3.7
 Blackfeet Community College,Montana,1.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,4.0
 Bladen Community College,North Carolina,3.0,3.0,3.0,3.0,3.3,4.0,2.3,3.0,1.0,3.3
-Blinn College,Texas,77.0,3.2,3.1,2.8,2.8,2.6,2.6,3.4,2.7,2.6
 Blue Ridge Community College,North Carolina,27.0,3.5,3.7,3.6,3.0,2.9,3.0,4.5,2.6,3.6
 Blue Mountain Community College,Oregon,10.0,3.1,3.0,2.8,2.2,1.8,1.9,4.0,3.1,3.2
 Bossier Parish Community College,Louisiana,84.0,4.0,3.8,3.7,3.5,2.9,3.0,4.2,2.7,3.6
@@ -1233,8 +1214,7 @@ Clovis Community College,New Mexico,27.0,3.4,3.7,3.8,3.0,2.7,2.8,3.3,3.1,2.9
 College of Coastal Georgia,Georgia,103.0,3.6,3.4,3.3,3.1,3.1,2.8,3.5,2.7,3.1
 Coastal Bend College,Texas,17.0,2.1,2.6,2.3,2.3,1.6,1.7,2.6,2.6,3.3
 Coastal Carolina Community College,North Carolina,100.0,3.3,3.7,3.4,3.2,2.7,2.6,4.1,2.8,3.4
-Clinton Community College,New York,7.0,3.3,3.1,3.0,2.9,2.7,2.3,1.3,3.0,3.0
-Cochise College,Arizona,5.0,3.4,4.2,3.2,2.4,2.6,3.0,5.0,3.0,3.0
+Cochise College (Douglas),Arizona,5.0,3.4,4.2,3.2,2.4,2.6,3.0,5.0,3.0,3.0
 Coffeyville Community College,Kansas,5.0,2.8,2.2,3.0,2.4,1.6,2.2,2.5,2.6,2.4
 College of Alameda,California,46.0,3.3,4.2,3.7,3.2,2.7,2.6,4.1,2.9,3.3
 College of DuPage,Illinois,510.0,4.2,4.0,3.9,3.8,3.3,3.0,4.2,3.3,3.7
@@ -1252,7 +1232,6 @@ Colorado Mountain College,Colorado,7.0,3.7,4.0,3.7,3.0,3.1,3.9,4.7,2.3,2.0
 Colorado School of Trades,Colorado,1.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0
 Columbia Basin College,Washington,142.0,3.8,3.6,3.6,3.5,3.4,3.2,4.2,3.0,3.3
 Colorado Northwestern Community College,Colorado,4.0,2.5,2.0,2.5,3.3,1.3,2.5,3.5,2.3,2.8
-Columbia College,California,63.0,4.2,4.2,4.2,3.5,2.8,3.1,4.2,3.8,3.7
 Commonwealth Institute of Funeral Service,Texas,7.0,2.1,2.3,2.6,2.1,1.3,1.6,3.0,1.3,2.3
 Columbia Gorge Community College,Oregon,9.0,3.0,3.2,3.6,2.0,1.6,1.7,4.7,2.9,3.0
 Columbus Technical College,Georgia,34.0,3.4,3.5,3.1,3.2,2.1,2.3,4.0,2.6,3.6
@@ -1267,7 +1246,6 @@ Community College of Denver,Colorado,112.0,3.6,4.2,3.5,3.4,2.8,2.9,3.6,3.0,3.0
 Community College of Rhode Island,Rhode Island,99.0,3.3,4.0,3.9,3.5,3.1,2.8,3.9,3.0,3.5
 Community College of Philadelphia,Pennsylvania,286.0,3.4,3.8,3.6,3.4,2.8,2.9,3.8,3.0,3.2
 Compton College,California,97.0,3.1,3.7,3.7,3.8,2.8,3.0,4.3,3.2,3.5
-Community College of Vermont,Vermont,2.0,4.0,4.5,4.5,4.5,1.0,4.0,4.0,2.0,4.5
 Copiah-Lincoln Community College,Mississippi,6.0,2.7,2.5,3.3,2.5,2.8,2.7,2.5,2.3,4.2
 Community College of Baltimore County - Dundalk,Maryland,35.0,4.1,4.3,4.5,3.9,3.7,3.6,3.1,3.3,3.8
 Louisiana Culinary Institute,Louisiana,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -1312,16 +1290,14 @@ East Arkansas Community College,Arkansas,7.0,3.4,3.7,3.0,3.1,2.6,2.9,4.3,2.4,3.3
 ECPI University,Virginia,18.0,3.7,4.2,3.9,4.3,3.1,3.1,4.4,3.3,3.7
 Eastern Oklahoma State College,Oklahoma,10.0,3.5,2.9,3.8,3.4,3.4,3.3,4.7,3.5,3.9
 Eastern Arizona College,Arizona,25.0,4.0,3.8,4.1,3.5,3.3,3.8,4.3,3.3,3.8
-ECPI University,Virginia,1.0,3.0,4.0,3.0,4.0,2.0,1.0,4.0,2.0,4.0
 Eastern Wyoming College,Wyoming,3.0,2.7,2.0,2.7,3.0,2.0,3.0,3.7,1.7,3.0
 Eastern Shore Community College,Virginia,3.0,3.3,3.7,3.3,3.3,3.7,3.0,4.0,2.0,3.7
-ECPI University,Virginia,17.0,2.2,3.1,3.0,2.9,1.8,1.8,3.9,1.5,2.8
+ECPI University (Richmond),Virginia,17.0,2.2,3.1,3.0,2.9,1.8,1.8,3.9,1.5,2.8
 Edgecombe Community College,North Carolina,6.0,3.0,3.0,3.8,2.8,2.0,2.7,3.5,1.8,3.2
 Edmonds College,Washington,190.0,3.6,3.7,3.7,3.3,3.1,3.0,3.5,2.9,3.2
 Edison State Community College,Ohio,29.0,3.6,3.9,3.3,3.3,2.7,2.7,4.1,2.9,3.4
 Florida Southwestern State College,Florida,310.0,3.9,3.9,3.8,3.5,3.2,3.2,4.0,3.3,3.5
 Remington College,Tennessee,3.0,4.0,3.7,4.7,4.3,1.0,2.0,4.8,1.0,3.7
-Remington College,Ohio,2.0,2.5,3.0,1.0,1.5,2.0,2.0,2.0,2.0,2.5
 Elizabethtown Community and Technical College,Kentucky,50.0,3.3,3.4,3.3,2.7,2.2,2.3,4.1,2.2,3.5
 El Paso Community College,Texas,288.0,3.3,4.0,3.1,3.2,2.6,2.7,3.4,2.8,3.2
 Empire College,California,3.0,4.0,3.7,3.7,3.0,1.7,1.7,4.2,1.3,3.0
@@ -1425,13 +1401,12 @@ Jefferson Community College,New York,29.0,3.9,3.5,3.8,3.4,3.1,3.0,4.3,3.2,3.2
 Jefferson State Community College,Alabama,106.0,3.2,3.6,3.5,3.4,2.7,2.6,4.2,2.8,3.2
 JNA Institute of Culinary Arts,Pennsylvania,4.0,2.3,3.8,4.0,3.5,3.3,3.0,4.0,3.3,4.0
 John Wood Community College,Illinois,17.0,3.8,3.6,3.9,3.2,3.1,2.9,5.0,2.9,3.9
-John Tyler Community College,Virginia,57.0,3.4,3.9,3.7,3.4,2.9,2.7,4.5,2.1,3.8
+John Tyler Community College (Chester),Virginia,57.0,3.4,3.9,3.7,3.4,2.9,2.7,4.5,2.1,3.8
 Johnson County Community College,Kansas,400.0,4.4,4.5,4.4,4.2,3.8,3.6,4.6,3.8,4.1
 Johnson College,Pennsylvania,2.0,3.5,4.0,3.0,3.0,3.0,3.5,3.8,3.0,3.5
 Jones County Junior College,Mississippi,46.0,3.8,3.6,4.2,3.7,3.0,3.2,4.6,3.3,3.3
 Johnston Community College,North Carolina,46.0,3.4,3.7,3.6,3.3,2.8,2.8,4.3,2.7,3.3
 Kankakee Community College,Illinois,23.0,3.3,3.2,3.3,3.1,2.7,2.9,4.4,2.7,3.3
-Keiser University,Florida,10.0,2.3,2.4,2.3,2.2,1.6,2.0,2.6,1.8,2.2
 Kaskaskia College,Illinois,22.0,2.8,2.1,2.3,2.3,2.0,2.0,3.6,2.5,2.6
 Kansas City Kansas Community College,Kansas,46.0,3.3,3.4,3.5,3.3,3.2,2.9,3.4,3.1,3.5
 Kennebec Valley Community College,Maine,6.0,3.2,3.2,3.7,3.5,3.0,2.8,2.0,2.7,3.7
@@ -1470,7 +1445,6 @@ Lincoln College,Illinois,7.0,2.6,2.6,3.1,2.7,3.0,2.9,3.5,3.1,3.3
 Lincoln Land Community College,Illinois,105.0,3.8,3.7,3.7,3.6,3.2,3.0,4.2,2.9,3.6
 Lorain County Community College,Ohio,163.0,3.9,4.1,4.0,3.7,3.2,3.2,4.2,3.5,3.9
 Rhodes State College,Ohio,13.0,3.6,3.8,3.4,3.2,2.5,3.2,4.8,2.5,2.8
-Lincoln Technical Institute,Pennsylvania,1.0,3.0,5.0,1.0,2.0,1.0,1.0,3.4,1.0,5.0
 Long Beach City College,California,290.0,4.0,4.2,4.1,3.8,3.5,3.4,4.2,3.3,4.0
 Linn-Benton Community College,Oregon,75.0,3.2,3.2,3.6,3.1,2.7,2.7,3.6,3.6,3.2
 Little Big Horn College,Montana,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.9,1.0,1.0
@@ -1509,8 +1483,7 @@ Mid-State Technical College,Wisconsin,3.0,4.3,4.3,4.3,4.0,1.3,2.3,5.0,3.3,4.0
 Miles Community College,Montana,2.0,2.0,2.0,2.0,2.0,1.5,1.5,4.0,2.0,4.0
 Midlands Technical College,South Carolina,194.0,3.3,3.6,3.2,3.2,2.2,2.3,4.1,2.4,3.4
 Midland College,Texas,23.0,3.3,3.7,3.0,2.9,2.5,2.5,3.8,2.9,3.4
-Middlesex Community College,Connecticut,30.0,3.4,3.7,3.7,3.5,3.1,3.1,3.9,2.7,3.4
-Middlesex Community College,Massachusetts,39.0,3.6,3.7,3.9,3.5,3.0,3.0,3.6,2.8,3.4
+Middlesex Community College (Lowell),Massachusetts,39.0,3.6,3.7,3.9,3.5,3.0,3.0,3.6,2.8,3.4
 Milwaukee Area Technical College,Wisconsin,87.0,3.0,3.4,3.4,3.3,2.6,2.6,3.4,2.9,3.7
 Mineral Area College,Missouri,20.0,4.0,4.0,4.2,3.1,3.1,3.6,3.8,2.9,3.5
 Minneapolis Community and Technical College,Minnesota,161.0,3.7,4.3,3.7,3.3,3.2,3.0,3.2,2.9,3.7
@@ -1518,7 +1491,6 @@ Wade College,Texas,7.0,2.6,2.4,3.4,3.1,2.4,2.4,4.0,2.1,2.9
 Mississippi Delta Community College,Mississippi,1.0,2.0,1.0,3.0,3.0,3.0,3.0,2.8,3.0,2.0
 Dakota College at Bottineau,North Dakota,2.0,5.0,4.5,4.0,2.5,2.0,3.0,3.5,1.0,3.0
 Mitchell Community College,North Carolina,57.0,3.8,3.6,3.7,3.2,3.1,3.0,3.8,2.5,3.8
-Moberly Area Community College,Missouri,10.0,3.2,3.3,3.2,2.9,2.2,2.1,4.0,2.8,3.4
 Modesto Junior College,California,276.0,3.6,3.6,3.8,3.5,3.1,3.0,3.5,3.1,3.7
 Mohave Community College,Arizona,30.0,4.3,4.1,4.1,4.0,3.8,3.6,4.2,3.3,4.2
 Mohawk Valley Community College,New York,84.0,3.5,3.4,3.6,3.4,3.4,3.2,3.3,2.7,3.4
@@ -1531,7 +1503,6 @@ Morrison Institute of Technology,Illinois,3.0,2.7,3.0,3.3,2.7,1.7,3.3,4.7,2.7,4.
 Mount Wachusett Community College,Massachusetts,59.0,3.9,3.9,4.0,3.7,3.4,3.5,4.6,3.3,3.6
 Mountain Empire Community College,Virginia,17.0,3.7,3.4,3.6,3.4,2.4,2.6,4.4,4.1,2.9
 Morgan Community College,Colorado,3.0,2.7,2.3,2.7,2.0,1.7,2.0,3.3,1.0,3.3
-Motlow State Community College,Tennessee,40.0,4.0,4.1,4.3,3.5,3.1,3.2,4.4,3.1,3.3
 Nash Community College,North Carolina,19.0,4.0,3.8,4.0,3.9,3.2,3.4,4.3,3.8,3.6
 Murray State College,Oklahoma,13.0,3.5,3.8,4.3,3.5,3.4,3.2,4.5,2.7,4.0
 Napa Valley College,California,103.0,3.3,3.7,3.4,3.1,2.6,2.5,4.0,2.8,3.1
@@ -1554,7 +1525,6 @@ North Central Missouri College,Missouri,10.0,3.2,2.5,3.5,2.7,2.6,2.2,4.4,2.2,3.6
 North Country Community College,New York,2.0,2.0,3.5,2.5,2.5,2.0,1.5,3.0,1.5,2.0
 North Central State College,Ohio,21.0,3.2,3.3,3.7,3.0,2.4,2.5,3.8,2.6,3.0
 North Florida College,Florida,10.0,4.3,3.9,4.5,3.8,3.5,3.4,4.4,4.0,4.2
-North Central Texas College,Texas,23.0,3.7,4.0,4.0,3.5,2.9,2.8,4.9,3.1,3.5
 North Hennepin Community College,Minnesota,106.0,3.8,3.9,4.0,3.7,3.4,3.2,4.1,3.2,3.8
 North Dakota State College of Science,North Dakota,13.0,3.2,2.7,3.5,3.8,2.8,2.5,3.5,2.2,3.1
 North Iowa Area Community College,Iowa,21.0,3.6,3.2,3.5,3.1,2.8,3.0,4.0,2.9,3.0
@@ -1564,21 +1534,20 @@ Northampton Community College,Pennsylvania,191.0,3.7,4.0,3.8,3.8,3.5,3.3,4.0,3.3
 Northeast Alabama Community College,Alabama,36.0,3.8,3.9,3.8,3.7,3.1,3.1,4.7,3.4,3.5
 Northeast Community College,Nebraska,12.0,3.3,3.3,2.7,3.1,2.4,2.6,4.1,2.1,3.0
 Northcentral Technical College,Wisconsin,17.0,4.1,4.2,4.2,3.6,3.2,3.2,4.6,3.4,4.4
-Northeast Iowa Community College,Iowa,4.0,4.5,4.3,3.8,3.5,3.0,3.0,4.4,4.3,3.5
+Northeast Iowa Community College (Calmar),Iowa,4.0,4.5,4.3,3.8,3.5,3.0,3.0,4.4,4.3,3.5
 Northeast Texas Community College,Texas,22.0,2.8,2.7,3.3,2.9,2.8,2.7,3.4,2.4,3.0
 Northeast Mississippi Community College,Mississippi,18.0,3.3,3.3,3.3,3.2,2.7,2.9,4.0,2.8,2.9
 Northeastern Junior College,Colorado,7.0,3.3,2.4,3.6,3.6,3.3,4.1,4.8,2.1,4.3
 Northeast State Community College,Tennessee,156.0,4.0,3.8,4.1,3.6,3.2,3.1,4.4,3.0,3.6
 Northern Essex Community College,Massachusetts,75.0,3.7,4.1,4.1,3.8,3.5,3.1,4.4,3.0,3.6
 Northeast Wisconsin Technical College,Wisconsin,39.0,4.0,3.9,3.9,3.7,2.6,2.8,4.5,3.1,3.9
-Northland Community and Technical College,Minnesota,2.0,3.5,3.5,5.0,4.0,2.5,3.0,5.0,3.5,4.5
+Northland Community and Technical College (Thief River Falls),Minnesota,2.0,3.5,3.5,5.0,4.0,2.5,3.0,5.0,3.5,4.5
 Northern New Mexico College,New Mexico,8.0,2.6,3.0,3.8,3.0,2.3,2.0,3.0,2.0,3.4
 Northern Maine Community College,Maine,2.0,2.5,2.0,3.0,2.5,1.0,1.0,4.0,2.5,3.0
-Northern Oklahoma College,Oklahoma,6.0,3.0,2.8,3.2,3.2,2.3,2.8,4.5,3.0,3.0
 Northwest Iowa Community College,Iowa,2.0,5.0,4.5,5.0,5.0,5.0,5.0,5.0,4.5,5.0
 Northwest Indian College,Washington,3.0,4.0,3.3,3.7,4.0,3.0,3.3,5.0,3.7,3.3
 Northland Pioneer College,Arizona,18.0,3.1,3.1,3.5,3.1,2.0,1.7,3.5,1.6,3.5
-Northwest Mississippi Community College,Mississippi,27.0,2.9,3.2,3.6,3.0,2.4,2.3,3.7,2.6,3.0
+Northwest Mississippi Community College (Senatobia),Mississippi,27.0,2.9,3.2,3.6,3.0,2.4,2.3,3.7,2.6,3.0
 Northwest State Community College,Ohio,33.0,3.5,3.2,3.6,3.1,2.3,2.5,4.7,3.6,3.4
 Nossi College of Art,Tennessee,4.0,3.3,3.3,2.8,3.3,2.8,2.8,3.3,3.5,3.3
 Northwest Vista College,Texas,315.0,4.4,4.3,4.3,3.9,3.5,3.6,4.4,3.1,3.8
@@ -1644,7 +1613,7 @@ Richmond Community College,North Carolina,10.0,3.7,2.8,3.8,3.5,2.0,2.7,3.3,3.0,3
 Rio Hondo College,California,241.0,3.7,3.8,4.1,3.9,3.3,3.2,4.0,3.0,3.2
 Rio Salado College,Arizona,89.0,2.4,2.9,2.6,2.4,1.8,1.8,3.6,2.2,2.9
 Robeson Community College,North Carolina,11.0,2.9,2.7,2.5,1.9,1.5,1.6,3.0,1.6,3.6
-Roane State Community College,Tennessee,24.0,4.0,3.6,3.9,3.7,3.3,3.5,4.5,3.3,3.5
+Roane State Community College (Harriman),Tennessee,24.0,4.0,3.6,3.9,3.7,3.3,3.5,4.5,3.3,3.5
 Rochester Community and Technical College,Minnesota,88.0,3.0,3.3,2.9,2.9,2.5,2.5,3.6,2.6,3.2
 Rockford Career College,Illinois,4.0,2.5,2.0,3.0,2.8,1.8,2.3,2.3,2.0,2.5
 Rockingham Community College,North Carolina,21.0,3.6,3.4,3.6,3.3,3.0,2.7,3.4,2.8,3.9
@@ -1676,7 +1645,6 @@ Shelton State Community College,Alabama,86.0,4.2,4.0,4.2,3.8,3.0,3.1,4.5,3.1,3.5
 Sheridan College,Wyoming,8.0,3.8,3.5,3.1,3.0,2.3,2.4,4.6,2.5,3.3
 Sitting Bull College,North Dakota,3.0,3.7,3.7,3.7,4.0,2.7,2.7,5.0,2.0,4.3
 Seward County Community College,Kansas,5.0,3.2,3.0,3.0,2.8,2.2,2.4,4.0,1.8,2.6
-Wyotech,California,1.0,3.0,3.0,1.0,1.0,1.0,1.0,2.6,1.0,1.0
 Seminole State College,Oklahoma,15.0,3.8,3.9,4.5,3.7,3.4,3.7,4.5,3.6,3.3
 Shawnee Community College,Illinois,7.0,4.0,3.3,4.4,4.0,3.9,3.9,4.5,3.6,4.0
 Scottsdale Community College,Arizona,116.0,4.4,4.3,4.1,3.8,3.4,3.2,4.4,3.3,3.4
@@ -1697,7 +1665,6 @@ Southeastern Community College,North Carolina,11.0,2.5,2.5,3.5,3.1,2.5,2.2,3.8,2
 Southern State Community College,Ohio,21.0,3.8,4.2,4.0,3.7,2.0,2.7,4.6,2.1,3.7
 Southern Arkansas University Tech,Arkansas,3.0,2.3,2.7,4.0,2.3,1.3,2.3,5.0,3.3,2.7
 Southeast Technical Institute,South Dakota,8.0,3.8,3.6,3.1,4.1,2.3,2.3,4.5,1.8,4.1
-Southern Union State Community College,Alabama,9.0,3.2,2.8,3.3,2.9,2.7,2.8,5.0,2.7,2.4
 Southeastern Illinois College,Illinois,12.0,3.3,3.7,3.8,3.1,3.0,2.8,4.0,3.3,3.7
 Southern Maine Community College,Maine,157.0,3.7,4.2,3.7,3.4,2.8,2.7,3.7,2.9,3.3
 Southwest Florida College,Florida,15.0,2.1,2.3,2.5,2.0,1.8,2.0,2.9,1.7,2.3
@@ -1708,7 +1675,6 @@ Southwest Virginia Community College,Virginia,18.0,3.1,3.3,2.8,2.8,2.5,2.4,4.1,2
 Southwest Wisconsin Technical College,Wisconsin,10.0,3.0,2.5,2.6,2.9,2.5,2.4,3.5,3.2,2.6
 Southwest Mississippi Community College,Mississippi,7.0,3.7,3.9,3.7,4.3,3.7,3.6,4.5,3.3,3.1
 Southwestern Community College,North Carolina,22.0,4.1,4.0,4.0,3.7,2.8,3.3,4.6,2.3,4.1
-Southwestern Community College,Iowa,9.0,4.0,2.7,3.3,3.1,2.1,2.6,4.6,3.4,3.4
 Southwestern Michigan College,Michigan,47.0,3.8,3.0,3.8,3.2,2.7,2.8,3.5,3.1,3.1
 Southwestern Illinois College,Illinois,145.0,3.4,3.7,3.7,3.2,2.7,2.8,3.5,2.8,2.8
 Southwestern Indian Polytechnic Institute,New Mexico,7.0,1.7,3.0,2.7,2.4,1.7,1.7,3.3,1.9,1.6
@@ -1718,7 +1684,7 @@ Spokane Community College,Washington,95.0,3.4,3.2,3.5,3.2,3.0,2.7,3.0,3.0,3.1
 St. Cloud Technical & Community College,Minnesota,44.0,3.3,3.4,3.2,3.5,2.4,2.5,3.3,2.9,3.7
 Spokane Falls Community College,Washington,164.0,3.4,3.6,3.5,3.0,3.0,2.9,3.8,2.6,3.1
 Springfield Technical Community College,Massachusetts,86.0,3.5,3.0,3.9,3.5,3.0,3.0,3.3,2.7,3.5
-St. Johns River State College,Florida,35.0,3.7,3.6,3.9,3.3,2.8,2.9,3.9,3.4,3.4
+St. Johns River State College (Palatka),Florida,35.0,3.7,3.6,3.9,3.3,2.8,2.9,3.9,3.4,3.4
 Saint Paul College,Minnesota,75.0,3.7,4.1,3.6,3.4,2.8,3.0,3.6,3.4,3.8
 Stark State College,Ohio,105.0,3.8,4.0,3.9,3.4,2.6,2.4,4.2,3.1,3.8
 Suffolk County Community College,New York,266.0,3.4,3.7,3.8,3.5,3.4,2.9,3.8,3.1,3.2
@@ -1747,7 +1713,6 @@ Trocaire College,New York,35.0,3.2,3.1,3.1,3.4,2.7,2.8,3.7,2.2,3.5
 Tyler Junior College,Texas,199.0,3.7,3.8,3.8,3.7,3.4,3.4,3.8,3.1,3.1
 Tulsa Community College,Oklahoma,406.0,3.8,4.1,3.9,3.6,3.1,3.1,4.2,3.2,3.7
 Universal Technical Institute,Arizona,5.0,1.6,2.4,2.0,2.2,1.0,1.8,4.0,1.0,1.6
-Universal Technical Institute,Texas,2.0,2.5,2.0,2.0,3.0,1.5,2.0,2.8,1.0,1.0
 University of Arkansas Community College at Hope,Arkansas,4.0,3.5,3.8,3.8,3.3,2.8,3.3,5.0,2.5,3.5
 University of Cincinnati Blue Ash College,Ohio,104.0,3.4,3.9,3.9,3.4,2.8,2.9,4.4,2.8,3.4
 University of Hawaii Maui College,Hawaii,31.0,3.4,4.2,3.6,3.1,2.5,2.5,4.4,3.5,3.9
@@ -1755,7 +1720,7 @@ Leeward Community College,Hawaii,97.0,3.6,3.8,3.8,3.8,3.1,3.1,3.8,3.3,3.6
 Valley College of Technology,West Virginia,1.0,4.0,3.0,4.0,3.0,3.0,3.0,4.0,3.0,2.0
 Valley Forge Military College,Pennsylvania,10.0,2.1,3.1,2.5,3.5,1.9,2.1,4.3,1.7,1.9
 Vance-Granville Community College,North Carolina,14.0,2.8,2.5,3.1,3.3,2.2,2.4,2.6,2.1,3.1
-Vernon College,Texas,5.0,4.4,3.0,4.4,2.0,1.8,2.2,5.0,2.0,3.2
+Vernon College (Vernon),Texas,5.0,4.4,3.0,4.4,2.0,1.8,2.2,5.0,2.0,3.2
 Urban College of Boston,Massachusetts,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Virginia Western Community College,Virginia,108.0,3.6,3.6,3.6,3.3,2.6,2.7,4.3,2.8,3.4
 Victoria College,Texas,61.0,3.9,3.8,4.0,3.4,3.0,3.1,3.8,3.2,3.6
@@ -1772,7 +1737,6 @@ Warren County Community College,New Jersey,37.0,3.6,3.7,3.9,2.9,3.1,3.0,4.3,3.6,
 Weatherford College,Texas,96.0,3.7,3.8,3.8,3.5,2.9,3.1,4.6,3.2,3.8
 Washtenaw Community College,Michigan,289.0,4.1,4.2,4.3,3.9,3.3,3.2,4.2,3.3,3.4
 Wayne County Community College,Michigan,201.0,3.0,3.5,3.0,2.8,2.3,2.6,3.6,2.5,3.0
-Webster University,Florida,1.0,5.0,5.0,5.0,4.0,2.0,3.0,5.0,3.0,5.0
 Wenatchee Valley College,Washington,50.0,3.5,3.9,3.5,3.1,2.7,2.6,4.1,2.9,3.4
 West Los Angeles College,California,153.0,3.6,3.9,3.7,3.4,2.8,2.9,4.4,2.7,3.1
 West Valley College,California,190.0,4.2,4.4,4.1,3.6,3.1,3.2,4.2,3.6,3.5
@@ -1786,7 +1750,6 @@ Western Nebraska Community College,Nebraska,6.0,3.7,3.8,4.2,4.0,2.5,2.5,4.7,4.0,
 Western Piedmont Community College,North Carolina,24.0,4.1,4.3,4.1,3.5,3.0,3.3,4.9,3.0,3.6
 Western Texas College,Texas,12.0,2.8,2.6,3.5,2.8,2.4,2.6,2.7,2.6,3.0
 Western Wyoming Community College,Wyoming,15.0,4.2,3.7,4.1,3.8,3.7,3.6,4.3,2.8,3.7
-Wharton County Junior College,Texas,24.0,3.5,4.0,4.0,3.4,2.5,2.6,3.4,3.0,3.5
 Whatcom Community College,Washington,163.0,4.1,4.2,4.3,3.7,3.5,3.3,4.5,2.9,3.5
 Wilkes Community College,North Carolina,26.0,4.2,4.1,4.3,3.5,3.0,3.0,4.6,2.8,3.6
 Westmoreland County Community College,Pennsylvania,56.0,3.5,3.6,3.8,3.4,3.1,2.9,4.6,2.8,3.1
@@ -1803,11 +1766,10 @@ University of Missouri - Kansas City,Missouri,268.0,3.7,4.0,3.5,3.5,3.1,2.8,3.6,
 Louisiana State University,Louisiana,577.0,4.3,3.9,4.3,4.2,4.2,4.4,3.0,3.8,3.8
 University of Redlands,California,126.0,4.0,3.6,3.7,3.7,3.5,3.6,3.7,3.0,3.2
 Franciscan University of Steubenville,Ohio,154.0,3.6,2.7,4.1,3.5,3.7,3.8,4.0,2.6,2.7
-St. Joseph's College,New York,29.0,3.5,3.8,3.0,3.1,2.9,2.8,3.9,3.1,3.6
+St. Joseph's College (Brooklyn),New York,29.0,3.5,3.8,3.0,3.1,2.9,2.8,3.9,3.1,3.6
 St. Joseph's College,New York,132.0,3.3,3.5,3.5,3.5,3.4,3.1,4.1,2.8,3.7
 Waldorf University,Iowa,14.0,3.4,3.0,3.1,3.4,3.1,2.9,3.3,2.6,3.2
 Spartan College of Aeronautics & Technology,Oklahoma,7.0,2.1,2.1,2.3,3.3,2.3,2.4,1.5,2.0,2.7
-Eastern Michigan University,Michigan,128.0,3.8,3.5,3.9,3.7,3.6,3.5,3.3,3.1,3.8
 University of Tulsa,Oklahoma,173.0,4.2,3.7,4.1,4.1,3.7,3.7,4.1,3.1,3.2
 Furman University,South Carolina,191.0,4.5,4.2,4.0,4.2,3.7,3.5,4.4,3.3,3.3
 University of West Florida,Florida,315.0,3.9,4.1,4.0,3.7,3.6,3.5,4.1,3.1,3.5
@@ -1832,7 +1794,6 @@ Franklin and Marshall College,Pennsylvania,111.0,4.2,3.7,4.1,4.2,3.8,3.5,4.2,3.0
 Fitchburg State University,Massachusetts,178.0,3.5,2.6,3.6,3.5,3.4,3.3,3.5,2.7,3.4
 Vanderbilt University,Tennessee,320.0,4.6,4.7,4.6,4.5,4.5,4.5,4.5,4.0,4.2
 Viterbo University,Wisconsin,71.0,3.6,3.4,3.7,3.5,2.9,3.1,3.0,2.9,3.2
-DeVry University,Ohio,6.0,3.5,2.7,2.8,3.3,1.8,1.7,4.0,2.8,3.7
 Utah State University,Utah,624.0,4.4,4.2,4.4,4.0,3.8,4.0,4.6,3.6,3.9
 The University of Texas at El Paso,Texas,336.0,3.7,3.5,3.5,3.5,3.2,3.1,4.2,3.2,3.5
 Alfred State College of Technology,New York,99.0,2.9,2.6,3.2,3.1,3.2,3.1,3.5,2.5,2.2
@@ -1848,11 +1809,8 @@ Drury University,Missouri,52.0,3.9,3.6,4.2,4.1,3.7,3.8,2.8,3.1,3.5
 School of Visual Arts,New York,124.0,3.2,4.4,3.9,3.9,2.9,3.2,4.0,2.6,3.4
 Lander University,South Carolina,134.0,3.8,3.0,3.8,3.6,3.3,3.3,4.0,2.7,3.1
 Florida Institute of Technology,Florida,171.0,3.4,3.6,3.5,3.8,3.5,3.1,4.2,3.1,2.8
-Northwood University,Texas,5.0,3.6,3.6,4.4,3.6,2.8,3.4,5.0,3.0,4.4
 Community College of Baltimore County,Maryland,129.0,3.4,3.7,3.6,3.5,3.0,3.0,3.7,2.7,3.2
 Denison University,Ohio,158.0,3.7,3.7,3.6,3.7,3.4,3.2,4.3,2.6,3.3
-Mississippi Gulf Coast Community College,Mississippi,30.0,4.3,4.2,4.5,4.0,3.5,3.5,4.6,3.8,4.3
-Mississippi Gulf Coast Community College,Mississippi,12.0,4.0,3.5,4.3,3.9,3.5,3.7,4.4,3.1,3.9
 Mississippi Gulf Coast Community College,Mississippi,44.0,4.1,4.2,3.9,3.7,3.3,3.2,4.3,3.3,3.8
 University of Wisconsin - River Falls,Wisconsin,290.0,3.9,3.9,3.8,3.5,3.6,3.3,4.2,2.7,3.5
 University of Houston Downtown,Texas,328.0,3.6,3.7,3.8,3.6,3.3,3.2,3.3,3.3,4.1
@@ -1873,8 +1831,6 @@ Morris Brown College,Georgia,6.0,3.3,4.3,4.5,4.3,3.5,3.3,4.3,3.7,3.5
 University of Montevallo,Alabama,148.0,4.2,3.5,4.0,3.7,3.5,3.5,4.5,2.8,2.5
 Florida Southern College,Florida,104.0,3.7,4.0,3.6,3.8,3.6,3.4,3.9,2.8,2.6
 Walsh College,Michigan,71.0,3.2,3.4,3.2,3.3,2.6,2.5,3.9,2.6,3.3
-ECPI University,South Carolina,1.0,4.0,5.0,5.0,4.0,3.0,4.0,4.9,3.0,5.0
-DeVry University,Texas,3.0,3.7,3.7,3.3,3.0,2.7,3.3,4.0,3.0,4.3
 University of Science and Arts of Oklahoma,Oklahoma,23.0,3.6,3.0,3.9,3.6,3.3,3.2,3.1,2.6,3.1
 Berkeley College,New York,65.0,3.1,4.2,3.2,3.2,2.9,2.8,4.3,2.4,3.3
 Upper Iowa University,Iowa,26.0,3.4,2.6,3.1,2.9,2.8,3.0,3.5,2.8,2.9
@@ -1890,10 +1846,9 @@ Fairmont State University,West Virginia,89.0,4.0,3.4,3.8,3.2,2.8,3.1,3.9,3.1,2.9
 Dalton State College,Georgia,166.0,3.8,3.8,3.6,3.1,2.8,2.9,4.4,3.2,3.4
 Delaware Valley University,Pennsylvania,116.0,3.2,3.6,3.4,3.7,3.6,2.8,4.0,2.0,2.7
 University of Wisconsin - Stevens Point,Wisconsin,297.0,3.8,3.8,3.9,3.8,3.7,3.5,4.2,3.3,3.4
-Lincoln University,Missouri,19.0,3.3,3.2,3.6,3.3,3.3,3.2,3.7,2.8,3.0
 Sherman College of Chiropractic,South Carolina,9.0,2.8,3.0,2.9,3.1,3.0,2.4,3.4,3.0,3.0
 Freed-Hardeman University,Tennessee,45.0,3.5,3.1,3.9,3.6,4.0,3.9,4.7,2.8,3.3
-Suffolk County Community College,New York,56.0,3.3,3.4,3.2,3.2,2.8,2.8,3.9,2.6,3.5
+Suffolk County Community College (Riverhead),New York,56.0,3.3,3.4,3.2,3.2,2.8,2.8,3.9,2.6,3.5
 SUNY Polytechnic Institute,New York,104.0,3.3,2.9,3.0,2.9,2.9,2.4,4.5,2.6,2.8
 San Diego Miramar College,California,111.0,4.2,4.3,4.0,3.6,2.8,2.7,4.4,3.3,3.9
 Brevard College,North Carolina,22.0,2.8,4.0,3.6,3.1,2.8,2.9,3.8,2.3,2.4
@@ -1912,13 +1867,13 @@ University of Wyoming,Wyoming,168.0,4.1,3.5,3.9,3.6,3.5,3.7,4.2,3.2,3.6
 University of Minnesota Morris,Minnesota,114.0,3.9,2.5,3.9,3.6,3.6,3.3,4.6,2.5,3.2
 Blinn College,Texas,219.0,3.1,3.4,3.4,3.0,2.4,2.5,4.0,2.6,2.8
 University of Nevada - Reno,Nevada,633.0,4.2,3.9,4.1,3.7,3.8,3.8,3.5,3.3,3.6
-Front Range Community College,Colorado,48.0,3.0,3.4,3.7,3.2,2.8,2.8,3.6,2.8,3.2
+Front Range Community College (Boulder County),Colorado,48.0,3.0,3.4,3.7,3.2,2.8,2.8,3.6,2.8,3.2
 Arkansas State University Mid-South,Arkansas,9.0,4.2,3.9,4.3,3.7,2.8,3.2,5.0,3.3,3.9
 University of New England,Maine,145.0,3.7,4.1,3.6,3.7,3.4,3.0,4.5,2.4,3.0
 Lipscomb University,Tennessee,113.0,4.0,4.5,3.9,4.0,3.3,3.5,4.6,3.2,3.4
 Pillar College,New Jersey,7.0,3.4,3.9,4.3,3.7,2.9,3.6,4.0,2.7,4.4
 Lasell University,Massachusetts,87.0,3.7,4.1,3.7,3.8,3.6,3.4,4.7,2.9,3.6
-Suffolk County Community College,New York,134.0,3.7,3.9,3.9,3.8,3.4,3.1,4.4,3.3,3.5
+Suffolk County Community College (Brentwood),New York,134.0,3.7,3.9,3.9,3.8,3.4,3.1,4.4,3.3,3.5
 Valdosta State University,Georgia,290.0,4.0,3.5,3.8,3.4,3.5,3.4,3.4,3.0,2.9
 Park University,Missouri,47.0,3.7,3.9,3.8,3.4,3.2,3.0,4.4,2.8,3.4
 Lake Erie College of Osteopathic Medicine,Pennsylvania,24.0,2.5,2.6,2.0,2.7,2.6,2.1,4.3,2.3,2.4
@@ -1934,7 +1889,7 @@ Friends University,Kansas,24.0,4.0,3.8,3.8,3.3,3.2,3.3,4.2,2.8,2.8
 Mission College,California,142.0,3.6,4.0,3.6,3.5,2.8,2.9,4.2,3.1,3.5
 Mount Mary University,Wisconsin,28.0,3.5,3.7,3.5,3.4,2.7,2.3,4.8,2.1,2.3
 Barton College,North Carolina,14.0,2.4,2.3,3.1,3.0,2.6,3.0,4.1,2.1,2.8
-Davenport University,Michigan,7.0,3.4,3.6,3.3,2.7,2.6,2.9,3.5,1.4,3.9
+Davenport University (Warren),Michigan,7.0,3.4,3.6,3.3,2.7,2.6,2.9,3.5,1.4,3.9
 Naropa University,Colorado,11.0,3.0,3.5,3.6,3.2,3.1,3.6,4.3,4.3,3.6
 Benedictine University,Illinois,110.0,3.1,3.4,3.2,3.2,2.8,2.5,4.5,2.6,2.9
 Lawrence Technological University,Michigan,108.0,3.3,3.1,3.6,3.7,2.8,2.8,4.0,2.1,3.1
@@ -1953,7 +1908,6 @@ Graduate Theological Union,California,2.0,2.5,5.0,3.5,4.5,3.5,4.0,3.5,4.5,2.5
 University of Texas of the Permian Basin,Texas,80.0,3.6,3.1,3.4,3.1,2.9,2.9,4.1,3.0,3.7
 Center for Advanced Legal Studies,Texas,6.0,2.0,2.7,2.8,2.2,1.0,1.7,2.3,1.0,3.8
 Midwestern University,Arizona,11.0,3.0,3.5,2.3,2.6,2.4,2.2,3.4,2.6,2.5
-Midwestern University,Illinois,7.0,4.4,4.4,4.1,4.3,4.0,3.4,4.8,3.9,4.4
 University of Pikeville,Kentucky,17.0,3.1,3.1,3.8,3.2,2.5,3.2,3.7,2.8,2.8
 Cascadia College,Washington,131.0,4.0,4.0,3.7,3.2,3.0,3.0,4.3,3.0,3.4
 South Texas College of Law Houston,Texas,33.0,3.0,3.3,3.0,3.1,2.9,3.1,2.5,2.2,3.3
@@ -1966,7 +1920,6 @@ Franklin Pierce University,New Hampshire,34.0,3.4,3.3,3.6,3.5,3.6,3.4,4.2,2.5,3.
 Manhattan School of Music,New York,26.0,2.8,3.5,3.2,3.0,2.3,2.6,4.0,2.1,2.8
 Northeast Iowa Community College,Iowa,9.0,3.4,3.3,4.2,3.9,2.3,2.9,5.0,2.8,3.7
 University of the Pacific,California,139.0,4.4,2.6,4.1,3.8,3.6,3.6,3.6,3.2,3.8
-Robert Morris University,Pennsylvania,14.0,3.1,4.1,3.0,3.1,2.3,2.3,4.3,2.4,2.7
 Copper Mountain College,California,36.0,3.5,3.3,3.5,2.9,2.5,2.4,4.1,3.3,3.6
 Amberton University,Texas,32.0,3.7,4.2,4.3,3.8,2.7,2.9,4.5,3.0,4.2
 Faith Baptist Bible College,Iowa,1.0,3.0,5.0,5.0,4.0,2.0,4.0,3.0,5.0,3.0
@@ -1977,7 +1930,6 @@ Northwest University,Washington,26.0,3.2,4.3,3.4,3.1,2.6,3.0,4.4,2.3,2.7
 West Coast University,California,75.0,3.0,2.9,2.6,3.1,1.7,2.2,2.9,1.8,3.0
 Otis College of Art and Design,California,40.0,3.4,2.9,3.3,3.7,2.4,2.4,3.2,2.5,3.8
 Estrella Mountain Community College,Arizona,163.0,4.3,4.3,4.1,3.8,3.3,3.4,4.4,3.4,4.2
-ECPI University,Virginia,5.0,2.4,4.0,3.4,3.4,1.8,1.8,4.5,2.8,4.0
 SUNY Delhi,New York,52.0,3.1,2.8,3.3,3.3,3.5,3.1,3.3,2.5,2.8
 Klamath Community College,Oregon,12.0,3.5,2.8,3.3,3.3,3.3,2.9,3.3,2.8,3.3
 Massachusetts School of Law,Massachusetts,21.0,3.0,3.8,3.7,3.3,2.5,2.6,4.0,2.3,3.4
@@ -1990,22 +1942,20 @@ Boise Bible College,Idaho,7.0,3.9,4.7,4.1,4.0,3.6,3.7,2.5,3.7,3.4
 Ogeechee Technical College,Georgia,9.0,3.9,3.6,3.1,3.2,2.9,2.7,4.5,2.9,2.8
 Touro College,New York,64.0,2.9,3.7,3.2,2.9,1.8,2.3,3.6,2.4,3.1
 New Orleans Baptist Theological Seminary,Louisiana,7.0,3.6,4.0,4.3,4.3,2.6,3.6,3.8,3.7,3.3
-Florida State University,Florida,37.0,3.6,3.6,3.4,3.1,2.9,3.0,2.7,2.7,3.5
 University of Wisconsin- Parkside,Wisconsin,138.0,3.7,3.5,3.4,3.2,3.0,2.7,4.3,3.0,3.3
 Cincinnati College of Mortuary Science,Ohio,5.0,3.8,4.0,4.2,3.6,2.8,2.8,3.5,3.0,4.2
 Helena College University of Montana,Montana,4.0,3.5,4.5,3.5,2.5,1.5,2.0,4.0,2.5,4.0
 Lindsey Wilson College,Kentucky,27.0,3.1,2.5,3.6,2.9,2.8,2.7,3.8,2.7,3.1
 Denver Seminary,Colorado,2.0,5.0,3.5,5.0,3.5,3.5,3.0,5.0,5.0,4.5
 Ohio University Southern,Ohio,17.0,3.9,4.1,3.5,2.9,1.8,2.3,4.5,2.9,4.2
-Missouri State University,Missouri,17.0,3.2,3.1,2.7,2.3,2.6,2.8,3.0,2.7,3.3
+Missouri State University (West Plains),Missouri,17.0,3.2,3.1,2.7,2.3,2.6,2.8,3.0,2.7,3.3
 Young Harris College,Georgia,68.0,4.1,4.0,4.1,3.5,3.9,3.7,4.3,2.8,3.4
-University of Washington,Washington,169.0,3.8,3.7,3.8,3.6,3.0,2.8,4.3,2.6,4.2
+University of Washington (Bothell),Washington,169.0,3.8,3.7,3.8,3.6,3.0,2.8,4.3,2.6,4.2
 Pennsylvania College of Art & Design,Pennsylvania,26.0,2.8,3.9,3.0,2.7,3.0,3.2,3.5,1.6,2.8
 Northwestern Oklahoma State University,Oklahoma,25.0,3.7,3.0,3.5,3.5,3.5,3.6,4.4,3.0,3.3
 Bay Path University,Massachusetts,54.0,3.6,3.2,3.2,3.2,3.0,2.5,4.4,2.6,3.1
-Mercer University,Georgia,11.0,3.1,3.1,3.5,2.8,2.8,2.4,3.2,2.7,3.2
-Northwestern Oklahoma State University,Oklahoma,2.0,4.0,4.5,4.5,4.5,4.5,4.5,4.5,2.0,3.5
-Hennepin Technical College,Minnesota,12.0,2.8,3.1,2.6,2.3,1.8,1.6,2.8,2.5,3.3
+Mercer University (Atlanta),Georgia,11.0,3.1,3.1,3.5,2.8,2.8,2.4,3.2,2.7,3.2
+Northwestern Oklahoma State University (Enid),Oklahoma,2.0,4.0,4.5,4.5,4.5,4.5,4.5,4.5,2.0,3.5
 Bloomfield College,New Jersey,28.0,3.0,3.5,2.8,3.0,2.8,2.6,4.0,2.4,2.5
 Delta State University,Mississippi,22.0,3.2,2.9,3.4,3.1,2.7,2.8,3.3,2.5,2.9
 University of New Mexico - Los Alamos,New Mexico,4.0,3.8,4.5,4.5,2.5,2.0,2.3,4.5,2.0,4.0
@@ -2014,7 +1964,7 @@ Mitchell College,Connecticut,25.0,2.4,3.2,3.3,2.5,2.3,2.2,3.8,1.9,2.0
 Keuka College,New York,70.0,2.6,2.8,2.4,2.4,2.6,2.3,3.3,1.8,2.3
 Dominican University of California,California,54.0,4.1,4.3,4.0,3.9,3.1,3.0,3.8,3.3,3.0
 Chowan University,North Carolina,22.0,2.8,1.9,2.5,3.0,2.6,2.3,2.4,2.1,2.6
-Delaware Technical Community College,Delaware,15.0,2.9,3.5,3.3,2.5,2.3,2.3,3.5,2.1,3.5
+Delaware Technical Community College (Dover),Delaware,15.0,2.9,3.5,3.3,2.5,2.3,2.3,3.5,2.1,3.5
 University of Rio Grande,Ohio,16.0,3.3,2.9,3.6,2.8,2.8,2.5,4.6,2.8,4.1
 Cornish College of the Arts,Washington,23.0,3.7,3.8,3.7,3.6,2.9,3.3,3.6,3.3,3.5
 Rio Grande Community College,Ohio,4.0,3.3,2.3,3.5,3.0,3.5,3.3,4.0,2.5,4.3
@@ -2058,7 +2008,6 @@ Virginia Union University,Virginia,12.0,2.3,2.8,3.3,3.3,3.2,3.3,3.0,2.3,2.3
 Lees-McRae College,North Carolina,22.0,3.5,4.4,3.7,3.4,3.0,3.2,4.2,2.0,2.7
 University of the Ozarks,Arkansas,29.0,3.8,3.4,3.7,3.8,3.3,3.2,4.3,2.1,3.2
 University of Minnesota - Crookston,Minnesota,34.0,3.4,2.7,3.4,3.3,3.0,2.8,4.6,2.5,3.3
-DeVry University,Georgia,3.0,5.0,4.3,3.7,4.0,3.0,3.0,4.4,3.0,4.0
 Southern University at New Orleans,Louisiana,21.0,2.9,3.7,3.0,3.2,2.8,2.5,3.2,2.4,3.1
 Coconino Community College,Arizona,29.0,4.1,4.2,4.1,3.6,2.6,2.7,4.5,2.6,3.7
 Fort Valley State University,Georgia,33.0,3.5,2.5,3.5,3.2,3.3,3.4,3.5,3.2,3.0
@@ -2066,11 +2015,9 @@ Arkansas State University Newport,Arkansas,8.0,2.5,3.1,2.8,2.8,2.1,2.3,3.9,1.9,3
 Lamar Institute of Technology,Texas,22.0,3.7,3.4,3.9,4.0,2.7,3.0,4.3,3.4,3.5
 Mercy College,Ohio,35.0,3.1,2.6,3.0,3.2,2.3,2.6,3.1,2.9,3.0
 Holy Family University,Pennsylvania,132.0,3.2,3.5,3.2,3.3,3.0,2.7,4.4,2.9,2.9
-Florida SouthWestern State College,Florida,72.0,3.9,4.0,4.1,3.4,3.3,3.2,4.3,3.4,3.5
-Brooklyn Law School,New York,17.0,4.2,3.4,3.5,3.1,3.8,3.7,4.4,3.2,3.6
 Minnesota State University Moorhead,Minnesota,179.0,3.8,3.7,3.9,3.7,3.4,3.4,4.3,2.8,3.3
 Northland Community and Technical College,Minnesota,8.0,3.5,2.9,3.5,3.0,3.1,2.8,3.5,3.1,3.3
-Southwest Baptist University,Missouri,4.0,3.5,3.3,4.0,3.0,3.3,2.8,4.0,2.5,3.3
+Southwest Baptist University (Salem),Missouri,4.0,3.5,3.3,4.0,3.0,3.3,2.8,4.0,2.5,3.3
 University of Connecticut Avery Point,Connecticut,26.0,4.2,4.7,4.1,3.7,2.9,3.2,4.8,3.3,4.2
 University of Valley Forge,Pennsylvania,21.0,3.6,3.7,4.1,4.0,3.6,3.7,3.5,2.5,3.7
 Faulkner University,Alabama,17.0,3.0,3.3,3.4,3.2,2.9,3.1,4.0,2.9,2.4
@@ -2080,31 +2027,25 @@ Paine College,Georgia,4.0,2.0,2.0,2.5,2.0,1.8,2.5,2.8,2.0,1.3
 New York Medical College,New York,7.0,3.1,2.6,3.9,3.6,2.9,2.6,4.0,2.6,4.0
 University of Mobile,Alabama,27.0,3.6,3.9,3.9,3.5,2.9,3.6,4.9,2.9,3.1
 Peirce College,Pennsylvania,16.0,3.6,3.7,4.1,3.5,2.2,2.9,5.0,2.5,3.8
-Tidewater Community College,Virginia,75.0,3.7,3.8,3.9,3.8,3.1,3.2,4.0,2.6,3.4
-Troy University,Alabama,1.0,5.0,4.0,2.0,3.0,1.0,1.0,3.0,1.0,4.0
 Weill Medical College of Cornell University,New York,1.0,5.0,5.0,2.0,5.0,2.0,2.0,3.0,2.0,4.0
 Medical University of South Carolina,South Carolina,4.0,3.8,4.8,4.0,3.5,4.5,4.3,5.0,4.3,4.3
 Laguna College of Art and Design,California,28.0,3.3,3.5,3.6,3.3,1.9,2.8,4.2,1.5,3.1
 Cleveland Institute of Art,Ohio,19.0,3.5,3.4,3.3,3.8,2.8,3.1,2.5,2.7,3.5
 Folsom Lake College,California,111.0,4.3,4.4,4.1,3.5,3.1,2.9,4.5,3.0,3.7
 Montserrat College of Art,Massachusetts,24.0,2.8,3.6,3.1,2.9,2.2,2.3,2.6,2.1,2.4
-DeVry University,Florida,4.0,3.5,3.8,3.0,3.5,3.5,3.3,3.7,2.8,3.3
 University of Arkansas Community College,Arkansas,10.0,3.4,3.7,2.9,2.7,2.0,2.3,4.6,3.2,2.9
 University of New Hampshire School of Law,New Hampshire,2.0,4.0,4.0,3.0,2.0,3.5,2.5,1.0,2.5,4.0
 Southwestern Law School,California,23.0,3.7,3.3,3.3,2.9,3.3,3.2,2.9,2.9,4.0
 Norco College,California,158.0,3.9,3.8,3.9,3.4,3.1,3.0,4.2,3.2,3.6
-Blinn College,Texas,5.0,4.0,4.6,4.8,3.2,2.0,2.8,4.0,3.8,3.8
 Hope International University,California,13.0,3.0,3.8,3.3,3.3,2.2,2.6,3.9,2.5,3.5
 University of Texas Health Science Center,Texas,15.0,2.4,3.7,2.5,2.9,2.1,2.2,3.5,2.5,3.1
 New York Law School,New York,18.0,4.3,4.7,3.8,3.2,3.6,3.5,3.7,3.4,4.0
 Grambling State University,Louisiana,21.0,3.0,2.8,3.2,3.3,3.2,3.7,2.2,2.8,2.7
 Chestnut Hill College,Pennsylvania,38.0,3.3,3.7,3.6,3.5,3.3,3.0,3.5,2.2,2.4
-University of Washington,Washington,153.0,3.8,3.8,4.0,3.6,3.3,3.2,3.3,2.9,4.3
+University of Washington (Tacoma),Washington,153.0,3.8,3.8,4.0,3.6,3.3,3.2,3.3,2.9,4.3
 "Big Sandy Community & Technical College, Mayo",Kentucky,1.0,4.0,4.0,4.0,3.0,3.0,3.0,4.2,3.0,3.0
-Tidewater Community College,Virginia,81.0,4.1,3.9,4.2,3.6,3.3,3.4,3.8,2.9,4.0
 University of the Southwest,New Mexico,6.0,3.8,2.8,4.0,4.0,3.2,3.3,4.8,3.8,4.2
-University of Texas Health Science Center,Texas,11.0,3.9,3.8,3.2,4.0,3.1,2.9,5.0,2.7,3.7
-Bevill State Community College,Alabama,3.0,3.7,3.3,4.3,4.0,2.3,3.0,5.0,3.7,3.7
+University of Texas Health Science Center (San Antonio),Texas,11.0,3.9,3.8,3.2,4.0,3.1,2.9,5.0,2.7,3.7
 California State University Channel Islands,California,295.0,3.9,3.7,3.9,3.4,3.0,2.8,4.3,3.4,3.7
 University of California Merced,California,278.0,4.0,2.9,3.9,3.9,3.6,3.5,4.3,2.8,3.6
 Black River Technical College,Arkansas,4.0,3.0,3.8,4.8,4.0,2.3,2.3,5.0,4.0,2.8
@@ -2113,19 +2054,18 @@ Baton Rouge Community College,Louisiana,182.0,3.3,3.2,3.3,3.1,2.5,2.5,3.6,2.6,2.
 San Diego Christian College,California,8.0,2.5,2.6,3.3,2.4,2.9,2.9,2.7,2.4,2.6
 Defiance College,Ohio,14.0,3.1,2.9,3.9,3.6,3.1,3.0,4.5,2.3,2.1
 Tennessee Wesleyan University,Tennessee,16.0,3.6,3.4,3.8,3.7,3.2,3.4,4.5,3.6,2.9
-Community College of Rhode Island,Rhode Island,67.0,3.4,4.0,3.8,3.4,2.8,2.7,4.0,3.0,3.2
+Community College of Rhode Island (Lincoln),Rhode Island,67.0,3.4,4.0,3.8,3.4,2.8,2.7,4.0,3.0,3.2
 Cairn University,Pennsylvania,39.0,3.7,4.1,4.2,3.6,3.2,3.4,4.3,2.3,3.3
 Harris-Stowe State University,Missouri,7.0,2.7,3.7,2.9,3.0,2.6,2.7,2.3,2.1,2.4
 Virginia Military Institute,Virginia,51.0,3.0,2.7,2.9,4.5,3.5,2.7,4.4,1.6,2.5
 Wisconsin Lutheran College,Wisconsin,47.0,3.8,3.7,3.7,3.8,2.9,3.0,4.1,2.6,3.0
 Wharton School,Pennsylvania,3.0,3.0,3.7,4.0,4.3,3.7,4.0,4.0,3.3,3.7
-University of South Florida,Florida,49.0,4.2,4.0,4.2,3.5,3.4,3.3,4.5,3.4,4.2
 Southern Baptist Theological Seminary,Kentucky,28.0,4.4,4.7,4.3,4.0,3.0,3.5,4.4,3.6,3.8
 Gordon Conwell Theological Seminary,Massachusetts,1.0,5.0,4.0,5.0,3.0,3.0,3.0,4.9,3.0,5.0
 St. Johns River State College,Florida,80.0,3.9,4.1,3.7,3.3,2.9,3.1,4.0,3.5,3.6
 Mercy College of Health Sciences,Iowa,31.0,2.6,3.3,2.5,2.9,1.7,2.0,3.9,1.5,3.6
 Mount Carmel College of Nursing,Ohio,15.0,2.8,2.1,2.3,3.5,1.9,1.9,3.0,2.9,3.5
-St. Johns River State College,Florida,60.0,3.5,3.7,3.4,2.8,2.7,2.6,3.6,3.4,3.5
+St. Johns River State College (St. Augustine),Florida,60.0,3.5,3.7,3.4,2.8,2.7,2.6,3.6,3.4,3.5
 Abraham Lincoln University,California,4.0,3.8,3.8,5.0,4.0,3.0,4.0,4.6,3.5,4.3
 Culinary Institute of America,New York,33.0,3.8,3.5,3.7,4.1,3.1,2.9,3.6,4.0,3.1
 Alliant International University,California,25.0,2.4,3.4,2.8,3.0,2.5,2.3,3.1,2.5,2.7
@@ -2136,50 +2076,43 @@ Soka University,California,54.0,4.7,3.9,4.3,4.1,4.1,3.7,4.6,4.0,4.4
 Conservatory of Recording Arts & Sciences,Arizona,3.0,3.3,3.3,3.7,2.7,3.0,3.7,3.7,2.0,3.3
 ATI Career Training Center,Texas,2.0,1.5,2.5,1.0,1.0,1.0,1.0,2.3,2.0,2.5
 California Western School of Law,California,21.0,3.0,3.5,3.1,2.9,3.0,3.0,3.6,2.4,3.8
-Bevill State Community College,Alabama,3.0,3.3,3.3,3.0,3.3,3.0,3.3,5.0,3.0,1.3
 Parker University,Texas,12.0,3.3,1.7,2.3,3.3,3.5,3.1,3.1,2.3,3.1
-Wharton County Junior College,Texas,21.0,3.2,3.9,3.6,3.2,2.2,2.4,3.3,2.1,2.9
-Florida Atlantic University,Florida,35.0,3.8,4.0,3.7,3.4,3.0,2.7,4.2,3.3,3.9
+Florida Atlantic University (Davie),Florida,35.0,3.8,4.0,3.7,3.4,3.0,2.7,4.2,3.3,3.9
 Talladega College,Alabama,9.0,2.7,2.3,3.3,3.3,2.4,2.4,1.8,2.8,3.0
 Paul Smith's College,New York,40.0,2.7,3.5,3.0,2.7,2.4,2.4,2.6,1.7,2.1
 University of Oklahoma - Health Sciences Center,Oklahoma,4.0,2.5,2.5,1.5,2.3,3.3,4.0,2.0,2.5,2.5
 Claremont School Of Theology,California,2.0,2.0,4.0,5.0,3.5,3.5,4.5,4.2,4.0,3.0
 Merritt College,California,57.0,3.9,4.3,4.1,3.7,3.1,3.1,4.5,3.3,3.8
-Bethel University,Tennessee,26.0,3.7,3.1,3.9,3.5,2.8,3.5,3.8,2.8,3.4
 Medical College of Wisconsin,Wisconsin,4.0,2.0,2.8,2.3,3.0,1.3,2.0,2.7,2.8,3.5
 Ohio Center for Broadcasting,Ohio,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.9,1.0,1.0
 Dominican School of Philosophy,California,1.0,3.0,3.0,3.0,2.0,4.0,4.0,2.0,3.0,3.0
 Point University,Georgia,21.0,2.7,2.1,3.0,3.0,1.9,2.9,3.0,2.3,3.5
 Oakland City University,Indiana,7.0,3.7,3.6,4.0,3.9,3.9,4.0,4.0,4.0,4.1
-University of Connecticut,Connecticut,33.0,3.8,3.2,3.7,3.2,2.5,3.2,4.2,2.5,4.1
+University of Connecticut (Waterbury),Connecticut,33.0,3.8,3.2,3.7,3.2,2.5,3.2,4.2,2.5,4.1
 Albany Medical College,New York,3.0,3.7,3.3,3.7,3.7,3.3,4.0,4.0,4.0,4.3
 Great Basin College,Nevada,30.0,3.4,3.0,3.6,3.0,2.3,2.4,3.6,2.6,3.6
-State College of Florida Manatee-Sarasota,Florida,54.0,4.2,3.9,4.1,3.4,3.4,3.1,4.8,3.4,4.0
+State College of Florida Manatee-Sarasota (Venice),Florida,54.0,4.2,3.9,4.1,3.4,3.4,3.1,4.8,3.4,4.0
 Cleary University,Michigan,9.0,3.4,3.2,3.1,2.8,2.4,2.8,4.2,2.8,3.3
 Fuller Theological Seminary,California,9.0,3.8,3.7,3.9,3.4,3.2,3.1,3.7,3.3,3.2
 Wilmington University,Delaware,20.0,3.6,3.6,3.4,3.1,2.6,2.6,3.4,3.1,3.1
-Davenport University,Michigan,5.0,3.6,4.2,4.2,3.8,3.6,3.2,5.0,2.2,4.6
+Davenport University (Lansing),Michigan,5.0,3.6,4.2,4.2,3.8,3.6,3.2,5.0,2.2,4.6
 Southcentral Kentucky Community and Technical College,Kentucky,29.0,3.8,4.0,3.7,3.5,3.3,2.8,4.6,2.0,3.1
-Bevill State Community College,Alabama,4.0,3.5,3.8,4.0,3.5,2.8,3.3,4.5,3.0,4.0
-King's College,North Carolina,1.0,4.0,4.0,1.0,3.0,1.0,1.0,3.2,5.0,1.0
 VanderCook College of Music,Illinois,2.0,3.5,5.0,3.0,5.0,3.0,3.0,2.0,3.0,3.5
 Woodland Community College,California,48.0,3.4,3.6,3.5,2.9,2.4,2.3,4.1,1.8,2.9
-Mohave Community College,Arizona,9.0,3.2,3.7,3.2,2.7,2.1,1.9,3.5,2.7,3.4
+Mohave Community College (Lake Havasu City),Arizona,9.0,3.2,3.7,3.2,2.7,2.1,1.9,3.5,2.7,3.4
 Trinity Baptist College,Florida,3.0,4.7,3.7,4.0,3.3,3.0,2.3,4.0,3.0,3.0
-Florida Atlantic University,Florida,15.0,4.2,4.3,4.4,4.1,2.9,3.3,4.7,2.9,4.2
+Florida Atlantic University (Jupiter),Florida,15.0,4.2,4.3,4.4,4.1,2.9,3.3,4.7,2.9,4.2
 Pacific Oaks College,California,6.0,4.3,4.7,4.8,4.2,2.7,3.5,5.0,2.3,4.3
 Northpoint Bible College,Massachusetts,7.0,4.3,4.3,4.1,4.0,3.0,3.7,4.4,3.0,2.7
 Cox College,Missouri,13.0,2.2,2.1,2.2,2.6,1.5,1.8,2.3,2.2,3.5
 Manhattan Christian College,Kansas,10.0,2.4,4.5,3.7,2.8,2.6,3.2,1.5,1.9,1.4
-Ottawa University,Wisconsin,3.0,4.0,4.0,5.0,3.0,2.0,2.3,4.8,2.7,5.0
-University of Connecticut,Connecticut,57.0,3.2,3.5,3.4,3.3,2.7,2.8,4.2,2.4,3.8
+University of Connecticut (Hartford),Connecticut,57.0,3.2,3.5,3.4,3.3,2.7,2.8,4.2,2.4,3.8
 Ursuline College,Ohio,29.0,3.3,3.7,3.5,3.6,2.8,2.8,4.3,3.1,3.0
 Northwestern Technical College,Georgia,2.0,2.0,2.5,4.5,3.0,2.0,2.0,4.0,1.5,3.0
 LIM College,New York,40.0,3.9,4.4,4.0,4.4,3.8,3.9,4.1,3.1,3.5
-Savannah College of Art and Design,Georgia,79.0,3.9,4.1,3.9,4.0,3.0,3.1,4.1,2.7,3.7
 Mount Aloysius College,Pennsylvania,50.0,3.1,2.4,2.9,3.0,2.6,2.5,4.3,2.2,2.3
 Brewton-Parker College,Georgia,6.0,3.3,2.0,4.0,3.5,2.3,3.0,5.0,3.0,3.3
-Des Moines Area Community College,Iowa,13.0,4.0,4.0,4.5,3.8,3.4,3.5,4.9,3.1,3.9
+Des Moines Area Community College (Boone),Iowa,13.0,4.0,4.0,4.5,3.8,3.4,3.5,4.9,3.1,3.9
 MGH Institute of Health Professions,Massachusetts,7.0,2.3,3.3,1.7,2.4,1.3,1.9,3.3,1.9,3.3
 Southern Union State Community College,Alabama,84.0,2.9,3.3,3.2,2.9,2.0,2.3,4.3,2.7,3.0
 Union Theological Seminary,New York,2.0,4.5,5.0,4.5,4.0,4.0,4.5,5.0,2.5,3.5
@@ -2200,24 +2133,22 @@ Lanier Technical College,Georgia,37.0,3.4,3.7,3.4,3.6,2.5,2.6,4.6,2.1,3.8
 Hellenic College,Massachusetts,7.0,2.6,4.0,3.9,3.0,2.4,3.0,4.0,2.3,2.4
 Blackburn College,Illinois,11.0,3.5,3.1,3.8,3.7,4.1,3.9,3.6,2.3,2.9
 Columbia International University,South Carolina,27.0,3.3,3.3,3.9,3.3,2.8,3.2,4.1,3.2,3.7
-University of South Florida,Florida,13.0,3.4,3.1,3.7,3.2,3.2,3.1,4.5,2.6,3.6
+University of South Florida (Lakeland),Florida,13.0,3.4,3.1,3.7,3.2,3.2,3.1,4.5,2.6,3.6
 SUNY Ulster,New York,57.0,3.5,3.2,3.7,3.2,2.9,2.8,4.2,2.9,3.1
 Hostos Community College,New York,187.0,3.4,3.6,3.6,3.4,3.1,3.2,3.7,2.7,3.3
 Oklahoma Wesleyan University,Oklahoma,22.0,3.5,3.4,3.6,3.4,2.5,3.2,4.5,2.4,3.0
 Community College of Vermont,Vermont,8.0,3.1,3.8,3.4,3.6,1.9,2.6,4.0,2.0,3.5
 Maranatha Baptist University,Wisconsin,14.0,3.3,3.0,4.2,3.4,2.5,3.1,4.0,3.6,3.0
-Lake Michigan College,Michigan,3.0,3.7,3.7,3.7,3.7,4.0,4.0,4.1,3.0,4.7
 University of South Carolina Salkehatchie,South Carolina,8.0,2.8,1.9,3.6,3.4,2.4,2.4,5.0,1.8,3.8
 Strayer University,Virginia,6.0,3.7,4.7,4.3,3.2,2.5,2.7,4.6,2.8,4.3
 Piedmont Community College,North Carolina,2.0,4.5,4.0,4.0,3.0,3.0,3.0,4.3,3.0,3.0
-Texas Woman's University,Texas,17.0,3.8,3.9,3.8,3.6,2.5,2.4,3.8,2.2,4.2
 CUNY School of Law,New York,7.0,3.3,4.1,4.7,3.3,3.7,3.9,5.0,2.9,3.9
 Mid-America Christian University,Oklahoma,21.0,2.9,3.2,3.1,3.0,2.5,3.2,3.8,2.2,2.8
 Albany Law School,New York,26.0,3.2,3.3,3.4,3.2,3.2,3.2,3.6,2.2,3.7
 Kansas City Art Institute,Missouri,49.0,2.9,3.2,2.8,3.1,2.1,2.3,2.3,2.4,2.3
 Free Will Baptist Bible College,Tennessee,2.0,2.0,4.5,4.0,3.5,3.0,3.0,4.0,2.0,3.0
 Pittsburgh Theological Seminary,Pennsylvania,1.0,2.0,3.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0
-Long Island University,New York,3.0,3.3,3.7,3.7,3.0,3.0,2.7,1.0,2.0,3.0
+Long Island University (Brentwood),New York,3.0,3.3,3.7,3.7,3.0,3.0,2.7,1.0,2.0,3.0
 Sowela Technical Community College,Louisiana,34.0,3.9,3.7,3.7,3.5,3.0,3.3,4.3,3.2,4.0
 Allen University,South Carolina,2.0,2.0,4.5,2.5,2.0,2.0,1.0,3.5,2.5,2.0
 Fisk University,Tennessee,20.0,2.5,3.2,3.0,3.6,2.9,3.0,2.4,2.4,2.1
@@ -2225,16 +2156,13 @@ Prairie View A&M University: College of Nursing,Texas,12.0,1.8,3.3,1.8,2.0,1.8,1
 Dallas Theological Seminary,Texas,8.0,4.1,4.3,4.4,4.3,3.4,3.6,3.6,3.8,4.1
 Southern College of Optometry,Tennessee,3.0,4.7,1.7,4.7,4.7,4.7,5.0,2.0,4.3,4.3
 Moore Norman Technology Center,Oklahoma,3.0,3.3,3.7,4.7,4.0,4.0,3.3,4.5,4.3,4.0
-San Joaquin Valley College,California,2.0,4.5,4.5,4.5,5.0,3.0,4.0,5.0,4.5,4.5
-Roosevelt University,Illinois,26.0,3.1,3.5,3.0,3.0,2.7,2.7,3.8,3.0,3.3
+San Joaquin Valley College (Bakersfield),California,2.0,4.5,4.5,4.5,5.0,3.0,4.0,5.0,4.5,4.5
 Georgia Military College - Augusta,Georgia,29.0,3.4,4.0,3.9,3.3,3.1,3.3,4.4,2.6,3.2
 Ridgewater College,Minnesota,13.0,3.0,3.2,2.5,2.4,2.3,1.9,3.7,2.7,3.2
 Trinity Bible College,North Dakota,3.0,4.0,2.3,3.7,3.7,3.0,3.7,5.0,3.0,3.7
-Siena Heights University,Michigan,1.0,5.0,5.0,5.0,4.0,4.0,4.0,4.9,4.0,4.0
 Louisiana State University Health Sciences Center,Louisiana,2.0,3.0,2.0,2.5,3.0,2.5,3.0,2.0,2.0,2.5
 University of Virginia College at Wise,Virginia,49.0,3.9,2.9,3.9,3.3,3.5,3.4,4.5,2.5,3.2
 Goodwin University,Connecticut,44.0,3.8,3.8,3.5,3.5,2.5,2.8,4.5,3.4,3.7
-Moody Bible Institute,Washington,10.0,2.7,3.5,4.2,3.6,1.8,3.5,1.0,2.3,2.9
 Palo Alto University,California,5.0,2.4,3.6,2.4,3.0,2.2,2.2,2.8,2.4,3.2
 Middlesex Community College,Massachusetts,92.0,3.8,3.8,3.9,3.5,2.7,2.8,4.1,2.6,3.2
 California Institute of Integral Studies,California,10.0,2.8,3.1,3.3,3.0,2.9,3.5,3.4,3.1,2.8
@@ -2244,88 +2172,80 @@ PCI Health Training Center,Texas,1.0,3.0,2.0,3.0,3.0,1.0,3.0,3.2,3.0,1.0
 Great Lakes Christian College,Michigan,9.0,3.7,4.2,3.9,3.4,2.7,3.4,4.3,3.3,1.9
 Livingstone College,North Carolina,12.0,2.2,2.8,3.2,2.5,3.0,2.9,1.7,2.6,1.7
 Lutheran School of Theology at Chicago,Illinois,1.0,4.0,5.0,5.0,3.0,4.0,5.0,4.0,5.0,3.0
-Community College of Rhode Island,Rhode Island,17.0,3.8,4.5,3.5,3.7,2.4,2.9,4.3,3.9,3.7
+Community College of Rhode Island (Newport),Rhode Island,17.0,3.8,4.5,3.5,3.7,2.4,2.9,4.3,3.9,3.7
 Life Chiropractic College West,California,2.0,3.0,3.0,3.0,3.0,3.0,3.0,3.5,3.0,3.0
-University of Phoenix,Arkansas,2.0,4.5,4.5,4.0,5.0,3.5,3.5,4.6,4.5,4.5
 Cranbrook Academy of Art,Michigan,6.0,4.3,3.5,3.8,4.0,3.3,3.5,4.8,3.5,3.8
 St. Francis School of Nursing,New Jersey,5.0,2.2,2.8,3.2,3.2,1.0,2.8,2.7,2.0,2.0
-ECPI University,North Carolina,1.0,5.0,5.0,5.0,5.0,5.0,5.0,4.9,5.0,4.0
 Central Georgia Technical College,Georgia,15.0,3.5,3.5,3.1,2.8,2.7,2.2,4.3,2.8,4.1
 Los Angeles County College of Nursing,California,11.0,2.5,2.2,3.2,4.4,1.2,3.1,2.9,2.1,3.4
 Gordon-Conwell Theological Seminary,Massachusetts,9.0,4.2,4.2,4.0,3.7,2.8,3.3,4.7,3.0,2.4
 Texas A&M University-San Antonio,Texas,199.0,3.9,3.4,3.9,3.6,3.1,3.1,4.3,2.9,4.0
 New York School of Interior Design,New York,11.0,2.6,4.1,3.1,3.4,1.8,2.0,4.7,2.5,2.9
-Keiser University,Florida,6.0,3.5,4.5,4.2,3.7,3.0,3.0,4.7,2.3,3.7
+Keiser University (Melbourne),Florida,6.0,3.5,4.5,4.2,3.7,3.0,3.0,4.7,2.3,3.7
 Union County College,New Jersey,33.0,3.4,3.4,3.7,3.6,3.2,3.1,3.2,2.9,3.7
 New York Film Academy,New York,6.0,3.2,4.2,3.7,3.7,2.2,3.5,3.7,2.7,3.7
 University of Texas Southwestern Medical Center,Texas,2.0,2.0,2.0,2.5,2.0,2.5,2.0,3.0,2.5,2.5
 State Technical College of Missouri,Missouri,6.0,3.7,3.2,3.7,3.8,2.0,3.2,3.8,2.2,2.5
-Hinds Community College,Mississippi,5.0,3.0,3.0,3.2,2.8,3.2,2.4,3.5,2.0,3.6
+Hinds Community College (Jackson),Mississippi,5.0,3.0,3.0,3.2,2.8,3.2,2.4,3.5,2.0,3.6
 New York Academy of Art,New York,3.0,3.7,5.0,5.0,4.0,1.7,4.0,4.0,3.0,4.0
 Wharton County Junior College,Texas,69.0,3.7,4.2,3.9,3.3,2.4,2.6,4.4,2.4,3.7
 Brooklyn Law School,New York,22.0,3.3,4.3,3.5,3.4,3.7,3.6,4.0,3.0,3.4
 Thomas University,Georgia,15.0,2.9,2.9,3.1,2.4,2.1,2.3,3.3,2.9,2.5
-Keiser University,Florida,15.0,2.1,2.6,2.5,2.7,1.5,1.9,3.8,1.2,2.5
+Keiser University (Orlando),Florida,15.0,2.1,2.6,2.5,2.7,1.5,1.9,3.8,1.2,2.5
 Garrett-Evangelical Theological Seminary,Illinois,1.0,4.0,5.0,4.0,5.0,5.0,5.0,4.4,3.0,4.0
-University of Central Florida,Florida,2.0,3.5,5.0,4.0,4.0,4.5,4.5,3.0,3.5,2.0
+University of Central Florida (Cocoa),Florida,2.0,3.5,5.0,4.0,4.0,4.5,4.5,3.0,3.5,2.0
 Barnes Jewish College - Goldfarb School of Nursing,Missouri,4.0,3.5,3.8,4.5,4.5,3.0,3.0,4.4,2.5,3.8
 Erwin Technical College,Florida,8.0,2.3,2.6,3.3,3.9,2.3,2.8,3.0,3.0,2.8
 Catholic Theological Union,Illinois,4.0,3.0,4.0,2.5,2.5,1.5,1.8,3.5,2.3,3.3
-University of New Mexico,New Mexico,16.0,4.1,3.6,4.1,3.8,3.3,3.6,3.3,3.5,3.6
+University of New Mexico (Los Lunas),New Mexico,16.0,4.1,3.6,4.1,3.8,3.3,3.6,3.3,3.5,3.6
 Southern California University of Health Sciences,California,11.0,3.7,3.8,4.4,3.6,3.7,4.0,4.2,3.3,3.9
-Lake-Sumter State College,Florida,27.0,3.7,4.1,3.7,3.3,3.2,2.9,3.8,3.3,3.8
+Lake-Sumter State College (Clermont),Florida,27.0,3.7,4.1,3.7,3.3,3.2,2.9,3.8,3.3,3.8
 University of Arkansas Grantham,Kansas,6.0,3.5,4.8,4.2,4.2,2.7,3.0,3.0,2.7,4.8
-Iowa Lakes Community College,Iowa,3.0,1.7,2.0,2.3,2.0,2.0,2.0,3.5,2.0,2.3
-Des Moines Area Community College,Iowa,3.0,3.0,3.7,4.0,3.0,3.3,3.3,5.0,1.7,4.3
+Iowa Lakes Community College (Emmetsburg),Iowa,3.0,1.7,2.0,2.3,2.0,2.0,2.0,3.5,2.0,2.3
+Des Moines Area Community College (Newton),Iowa,3.0,3.0,3.7,4.0,3.0,3.3,3.3,5.0,1.7,4.3
 National University of Health Sciences,Illinois,8.0,3.3,3.5,3.6,3.5,3.6,3.9,3.8,1.5,2.1
 Madera Community College,California,40.0,3.8,3.5,4.0,3.1,2.6,2.6,4.3,3.2,3.3
 Ave Maria School of Law,Florida,17.0,2.6,3.8,2.3,2.5,2.6,2.5,5.0,1.4,2.2
-Strayer University,Pennsylvania,1.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,4.0,5.0
 Eastern Virginia Medical School,Virginia,2.0,3.5,3.5,2.5,3.5,3.0,2.5,2.5,3.0,3.0
 Johnson & Wales University,North Carolina,32.0,3.1,4.1,3.4,3.8,3.0,3.4,2.7,2.3,2.8
-Fashion Institute of Design and Merchandising,California,4.0,4.3,2.8,4.5,3.5,2.3,2.5,4.4,3.8,3.3
+Fashion Institute of Design and Merchandising (San Francisco),California,4.0,4.3,2.8,4.5,3.5,2.3,2.5,4.4,3.8,3.3
 Nashville State Community College,Tennessee,106.0,3.4,3.6,3.3,2.8,2.4,2.5,3.9,2.5,3.0
 Northwood Technical College,Wisconsin,2.0,5.0,4.0,4.0,4.0,3.5,4.0,3.0,4.5,4.5
 Ave Maria University,Florida,86.0,3.7,3.3,4.1,3.6,3.6,3.5,4.7,2.5,3.4
-Community College of Rhode Island,Rhode Island,15.0,3.0,3.7,3.6,3.3,2.9,3.1,2.8,2.3,3.3
-ECPI University,Virginia,8.0,2.4,2.8,2.8,2.4,1.8,2.1,3.3,1.9,3.6
+Community College of Rhode Island (Providence),Rhode Island,15.0,3.0,3.7,3.6,3.3,2.9,3.1,2.8,2.3,3.3
+ECPI University (Manassas),Virginia,8.0,2.4,2.8,2.8,2.4,1.8,2.1,3.3,1.9,3.6
 Boston Baptist College,Massachusetts,3.0,3.7,4.0,4.0,3.7,2.7,3.0,5.0,3.0,3.0
 Neumont College of Computer Science,Utah,30.0,3.7,4.3,4.1,4.6,3.2,3.1,4.4,2.6,4.0
-Fashion Institute of Design and Merchandising,California,5.0,4.4,4.6,4.4,4.2,3.6,4.0,4.6,3.8,4.0
+Fashion Institute of Design and Merchandising (San Diego),California,5.0,4.4,4.6,4.4,4.2,3.6,4.0,4.6,3.8,4.0
 Roane State Community College,Tennessee,43.0,3.9,4.0,3.8,3.6,2.7,3.0,4.3,2.8,3.7
 National University - Los Angeles,California,2.0,2.5,2.0,3.0,2.0,1.0,1.0,3.4,1.5,3.0
 Mayo Clinic College of Medicine,Minnesota,1.0,5.0,4.0,5.0,5.0,4.0,5.0,4.9,5.0,5.0
 Concordia Theological Seminary,Indiana,1.0,5.0,4.0,5.0,5.0,5.0,5.0,4.9,5.0,5.0
 Gateway Community and Technical College,Kentucky,52.0,3.2,3.3,3.1,2.8,2.2,2.4,4.2,2.0,3.5
-Webster University,Arizona,1.0,3.0,4.0,3.0,3.0,1.0,1.0,3.9,2.0,3.0
-William Carey University,Mississippi,2.0,4.0,4.5,5.0,4.5,2.0,3.0,4.9,3.0,4.0
+William Carey University (Gulfport),Mississippi,2.0,4.0,4.5,5.0,4.5,2.0,3.0,4.9,3.0,4.0
 Curtis Institute of Music,Pennsylvania,1.0,5.0,5.0,4.0,5.0,2.0,3.0,4.7,3.0,3.0
-ECPI University,North Carolina,5.0,3.0,3.6,3.2,3.8,3.6,3.4,2.0,1.2,3.4
-University of Central Florida,Florida,14.0,3.9,4.0,3.9,4.1,3.9,3.9,4.5,3.1,3.4
+University of Central Florida (Daytona Beach),Florida,14.0,3.9,4.0,3.9,4.1,3.9,3.9,4.5,3.1,3.4
 Eastwick College,New Jersey,6.0,3.2,3.7,2.7,3.0,2.0,2.3,3.0,2.7,3.7
 Thomas More College of Liberal Arts,New Hampshire,5.0,3.6,3.8,4.0,3.6,3.2,4.0,3.7,3.8,2.4
 Metropolitan College of New York,New York,15.0,3.0,4.0,3.3,3.2,1.7,2.2,4.1,1.8,3.5
-Carrington College,Idaho,2.0,3.5,3.0,2.5,3.0,2.0,1.5,4.5,2.5,4.0
 Los Angeles Film School,California,3.0,4.0,4.0,4.3,4.3,4.0,5.0,5.0,4.3,5.0
 Penn Commercial Business & Tech,Pennsylvania,1.0,5.0,5.0,5.0,4.0,5.0,5.0,4.9,5.0,5.0
 University of West Los Angeles,California,5.0,3.6,3.6,3.2,3.6,1.6,2.0,3.7,2.2,2.8
 Excelsior University,New York,35.0,4.3,4.6,4.7,4.3,4.0,4.1,4.7,4.2,4.6
 Concorde Career College,California,5.0,1.8,3.0,2.0,2.8,1.4,1.4,2.7,1.6,2.6
 Riverland Community College,Minnesota,24.0,3.4,3.9,3.8,3.4,2.9,2.9,3.5,2.5,4.0
-Central Piedmont Community College,North Carolina,41.0,3.9,3.9,3.9,3.5,3.1,3.0,4.3,2.7,3.3
+Central Piedmont Community College (Matthews),North Carolina,41.0,3.9,3.9,3.9,3.5,3.1,3.0,4.3,2.7,3.3
 National Louis University,Illinois,8.0,3.8,4.0,3.1,2.9,2.6,2.5,2.8,1.9,3.8
-Pima Medical Institute,California,6.0,3.5,2.8,3.0,3.3,1.8,2.5,2.3,2.8,4.2
 Touro University,Nevada,11.0,2.8,3.8,3.2,3.0,2.5,2.6,3.6,2.0,3.1
 Lane College,Tennessee,5.0,2.6,2.6,3.4,3.8,3.6,2.6,2.3,2.6,3.0
 Western Seminary,Oregon,2.0,4.5,5.0,5.0,3.0,3.0,2.5,5.0,4.0,3.5
 Blue Mountain College,Mississippi,6.0,3.5,2.5,3.3,3.0,3.8,3.2,4.5,2.8,1.8
 Chipola College,Florida,14.0,2.9,2.9,2.9,2.8,2.6,2.4,4.4,3.3,3.3
-George Mason University,Virginia,15.0,3.7,3.9,4.2,3.9,3.3,3.1,3.8,3.4,3.8
+George Mason University (Prince William),Virginia,15.0,3.7,3.9,4.2,3.9,3.3,3.1,3.8,3.4,3.8
 NewSchool of Architecture and Design,California,16.0,2.1,3.4,2.9,2.8,2.3,2.6,3.6,1.7,2.8
 Alaska Bible College,Alaska,3.0,3.3,3.3,3.7,3.3,3.3,3.3,3.9,3.3,3.3
-George Mason University,Virginia,6.0,4.5,4.7,3.7,4.0,4.3,4.3,4.0,4.0,4.3
-American Musical and Dramatic Academy,New York,12.0,3.2,4.6,4.0,3.7,2.8,3.1,4.2,2.6,2.5
-Ozarks Technical Community College,Missouri,4.0,4.5,5.0,4.5,4.3,2.8,3.5,4.8,2.5,4.0
+George Mason University (Arlington),Virginia,6.0,4.5,4.7,3.7,4.0,4.3,4.3,4.0,4.0,4.3
+Ozarks Technical Community College (Lebanon),Missouri,4.0,4.5,5.0,4.5,4.3,2.8,3.5,4.8,2.5,4.0
 New York Conservatory for Dramatic Arts,New York,9.0,3.7,4.7,4.0,3.8,3.2,3.8,5.0,3.2,2.9
 Rowan College at Burlington County,New Jersey,141.0,3.5,4.0,3.3,3.2,2.6,2.8,4.1,3.0,3.3
 Ilisagvik College,Alaska,4.0,3.8,2.5,4.0,3.5,1.8,2.0,4.0,3.3,2.8
@@ -2341,18 +2261,16 @@ West Kentucky Community and Technical College,Kentucky,17.0,3.4,3.5,3.4,2.8,2.4,
 William Jessup University,California,38.0,4.2,3.7,4.2,3.9,2.9,3.6,4.5,4.2,3.5
 The Christ College of Nursing and Health Sciences,Ohio,23.0,3.1,3.2,3.0,3.5,2.3,2.5,3.1,3.3,3.1
 Trinity College of Health Sciences,Illinois,2.0,2.0,3.5,2.5,3.0,1.0,1.5,3.4,2.0,2.5
-Keiser University,Florida,12.0,4.3,4.8,4.6,4.2,3.4,3.5,5.0,3.8,4.3
+Keiser University (Miami),Florida,12.0,4.3,4.8,4.6,4.2,3.4,3.5,5.0,3.8,4.3
 University of Mississippi Medical Center,Mississippi,2.0,4.0,3.5,4.0,4.0,2.5,3.5,2.0,4.0,4.5
-Southwestern Illinois College,Illinois,11.0,3.5,4.5,4.2,3.9,3.3,3.5,4.0,3.0,3.4
+Southwestern Illinois College (Granite City),Illinois,11.0,3.5,4.5,4.2,3.9,3.3,3.5,4.0,3.0,3.4
 College of Biblical Studies,Texas,6.0,4.3,4.2,4.7,4.5,3.0,4.0,4.0,2.7,4.3
 Design Institute of San Diego,California,4.0,2.3,2.8,3.5,3.0,2.8,3.0,5.0,2.5,2.8
-Trinity Valley Community College,Texas,13.0,3.3,3.6,4.1,3.4,2.4,2.6,4.6,2.7,3.9
 North Georgia Technical College,Georgia,26.0,2.5,2.9,2.9,2.7,1.9,2.2,3.6,2.4,2.8
 Midwestern Baptist Theological Seminary,Missouri,3.0,4.0,4.0,4.7,4.0,3.3,4.3,5.0,3.7,4.0
 Boyce College,Kentucky,26.0,4.1,4.2,3.9,3.7,2.5,3.4,4.4,2.5,2.8
 Manhattan Area Technical College,Kansas,4.0,3.8,4.0,3.8,3.5,2.5,3.5,3.7,3.3,3.8
-Concorde Career College,Tennessee,1.0,2.0,1.0,2.0,3.0,2.0,2.0,2.0,2.0,2.0
-Mohave Community College,Arizona,10.0,3.2,3.5,3.4,2.6,2.8,2.8,2.3,2.3,3.8
+Mohave Community College (Bullhead City),Arizona,10.0,3.2,3.5,3.4,2.6,2.8,2.8,2.3,2.3,3.8
 SUNY State College of Optometry,New York,1.0,2.0,5.0,4.0,5.0,5.0,5.0,4.0,3.0,4.0
 Emperor's College of Traditional Oriental Medicine,California,2.0,3.5,4.5,5.0,4.0,4.5,4.5,4.6,4.5,4.0
 Heritage Christian University,Alabama,4.0,3.0,3.0,3.5,3.5,2.8,2.5,5.0,2.5,3.0
@@ -2365,20 +2283,18 @@ University of North Texas Health Science Center,Texas,43.0,4.5,4.8,4.5,4.6,4.2,4
 Atlanta Technical College,Georgia,14.0,2.1,3.4,2.4,2.5,2.2,2.2,2.8,2.1,2.7
 Tillamook Bay Community College,Oregon,3.0,4.7,4.7,4.0,3.3,2.7,3.3,4.7,1.3,4.7
 Arkansas Northeastern College,Arkansas,3.0,4.0,3.7,4.0,4.0,3.0,3.3,3.5,3.7,4.0
-Georgia Military College,Georgia,23.0,3.3,3.5,3.7,3.1,2.9,2.3,3.8,1.9,3.8
+Georgia Military College (Warner Robins),Georgia,23.0,3.3,3.5,3.7,3.1,2.9,2.3,3.8,1.9,3.8
 Aquinas Institute of Theology,Missouri,2.0,4.5,4.0,3.0,4.0,3.0,3.0,4.0,4.0,3.5
 Oblate School of Theology,Texas,2.0,4.5,4.5,5.0,4.5,1.5,3.0,4.0,5.0,5.0
 Saginaw Chippewa Tribal College,Michigan,2.0,5.0,5.0,5.0,4.5,5.0,5.0,5.0,4.5,4.0
-Horry-Georgetown Technical College,South Carolina,4.0,4.0,4.0,4.5,4.3,2.5,2.8,5.0,3.0,3.5
-Black River Technical College,Arkansas,3.0,3.7,4.0,4.3,3.3,2.3,3.3,5.0,1.3,3.7
+Horry-Georgetown Technical College (Georgetown),South Carolina,4.0,4.0,4.0,4.5,4.3,2.5,2.8,5.0,3.0,3.5
+Black River Technical College (Paragould),Arkansas,3.0,3.7,4.0,4.3,3.3,2.3,3.3,5.0,1.3,3.7
 Baptist University of The Americas,Texas,3.0,2.7,3.7,3.7,2.7,3.3,3.7,3.6,1.7,3.0
 Wesley Biblical Seminary,Mississippi,2.0,4.5,4.5,5.0,4.5,4.5,4.5,5.0,4.5,4.5
 Erikson Institute,Illinois,1.0,5.0,5.0,5.0,5.0,2.0,2.0,5.0,5.0,5.0
 SAE Institute of Technology,New York,2.0,4.5,5.0,4.0,4.5,2.0,4.0,4.6,2.5,3.5
 Allen College,Iowa,8.0,3.3,2.9,3.1,3.9,2.3,2.9,3.7,2.1,3.1
 Cal Northern School of Law,California,3.0,2.7,4.0,3.7,3.0,3.0,2.7,4.1,2.0,4.7
-Robert Morris University,Pennsylvania,2.0,1.5,3.0,3.0,1.5,2.0,1.0,3.3,1.0,3.5
-Siena Heights University,Michigan,1.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,3.0,4.0
 Benjamin Franklin Institute of Technology,Massachusetts,7.0,3.0,3.9,3.4,3.4,2.0,2.3,3.4,1.6,3.0
 Reading Hospital School of Health Sciences,Pennsylvania,22.0,3.7,3.8,3.5,3.5,1.8,2.3,2.3,2.0,3.1
 Iliff School of Theology,Colorado,6.0,3.5,4.3,3.3,3.2,3.0,3.0,4.0,2.8,3.5
@@ -2390,29 +2306,26 @@ Harrisburg University of Science and Technology,Pennsylvania,30.0,3.2,3.4,3.6,3.
 Mid-Atlantic Christian University,North Carolina,2.0,4.0,4.0,3.0,2.5,2.0,3.5,3.0,3.5,4.0
 Lake Forest Graduate School of Management,Illinois,1.0,1.0,1.0,1.0,1.0,5.0,2.0,1.0,1.0,1.0
 Martin University,Indiana,2.0,3.5,4.0,4.0,4.0,4.0,3.5,4.0,3.5,4.0
-Florida Atlantic University,Florida,3.0,3.0,3.3,3.7,2.7,3.3,3.3,4.0,3.0,3.7
-Concorde Career College,Oregon,1.0,1.0,5.0,3.0,3.0,1.0,1.0,4.0,2.0,4.0
+Florida Atlantic University (Fort Lauderdale),Florida,3.0,3.0,3.3,3.7,2.7,3.3,3.3,4.0,3.0,3.7
 William & Mary School of Law,Virginia,4.0,5.0,4.8,5.0,4.3,4.5,4.5,5.0,4.5,4.3
-Carrington College,Arizona,1.0,4.0,3.0,3.0,5.0,1.0,3.0,4.0,3.0,3.0
 Edward Via College of Osteopathic Medicine,Virginia,1.0,3.0,4.0,1.0,2.0,4.0,4.0,5.0,1.0,4.0
-Camden County College,New Jersey,9.0,3.0,4.0,3.4,3.0,1.9,2.0,3.5,2.6,3.3
+Camden County College (Cherry Hill),New Jersey,9.0,3.0,4.0,3.4,3.0,1.9,2.0,3.5,2.6,3.3
 Charleston School of Law,South Carolina,7.0,3.3,4.6,4.3,3.6,4.3,4.1,3.7,3.6,3.9
 Emily Griffith Technical College,Colorado,2.0,2.5,2.5,3.0,3.0,2.0,2.0,2.0,3.5,3.0
 John Tyler Community College,Virginia,97.0,4.1,3.9,3.9,3.5,3.0,2.8,4.6,2.3,3.6
-Nashville State Community College,Tennessee,11.0,3.4,3.5,3.4,3.0,2.2,2.5,4.0,2.5,3.0
+Nashville State Community College (Cookeville),Tennessee,11.0,3.4,3.5,3.4,3.0,2.2,2.5,4.0,2.5,3.0
 Musicians Institute,California,7.0,3.7,4.1,4.4,3.0,4.0,4.1,3.2,2.9,3.9
 South Baylo University,California,1.0,3.0,3.0,5.0,3.0,3.0,4.0,4.2,3.0,4.0
-Concorde Career College,California,4.0,2.3,2.3,1.8,2.3,1.0,1.8,3.0,1.8,2.5
-Indian Hills Community College,Iowa,1.0,5.0,4.0,5.0,4.0,1.0,4.0,5.0,5.0,5.0
+Concorde Career College (San Bernardino),California,4.0,2.3,2.3,1.8,2.3,1.0,1.8,3.0,1.8,2.5
+Indian Hills Community College (Centerville),Iowa,1.0,5.0,4.0,5.0,4.0,1.0,4.0,5.0,5.0,5.0
 Pomeroy College of Nursing at Crouse Hospital,New York,24.0,2.3,2.8,1.6,2.9,1.2,1.5,2.2,2.1,2.0
 Morehouse School of Medicine,Georgia,4.0,2.8,2.5,2.5,3.5,2.8,3.0,3.3,2.3,2.0
 Ner Israel Rabbinical College,Maryland,6.0,4.0,4.7,4.3,3.7,3.7,3.0,5.0,3.8,1.0
 Hebrew Theological College,Illinois,8.0,2.4,3.3,3.3,2.8,2.3,2.6,4.5,3.3,2.3
 South Georgia Technical College,Georgia,3.0,3.7,3.3,3.7,3.7,2.7,2.7,4.2,4.0,3.0
 Shasta Bible College,California,4.0,3.0,4.3,4.8,3.5,2.5,4.3,4.5,2.0,3.8
-Rappahannock Community College,Virginia,3.0,3.3,2.7,2.7,2.7,1.7,2.3,4.0,1.7,3.0
-Sullivan University,Kentucky,6.0,3.2,3.8,3.7,3.0,1.8,2.2,4.0,1.5,3.8
-Southern Union State Community College,Alabama,3.0,2.7,3.3,3.0,2.3,2.0,2.0,3.6,2.0,3.0
+Rappahannock Community College (Saluda),Virginia,3.0,3.3,2.7,2.7,2.7,1.7,2.3,4.0,1.7,3.0
+Sullivan University (Lexington),Kentucky,6.0,3.2,3.8,3.7,3.0,1.8,2.2,4.0,1.5,3.8
 Elim Bible Institute,New York,5.0,2.8,3.4,3.2,2.6,2.6,3.4,4.0,2.6,2.4
 Adler University,Illinois,16.0,2.7,3.3,2.6,3.1,2.9,2.3,3.5,1.9,2.7
 The Seattle School of Theology & Psychology,Washington,1.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0
@@ -2422,51 +2335,43 @@ Southeastern Technical College,Georgia,5.0,4.0,4.2,4.0,4.2,3.2,3.6,4.3,2.2,3.6
 College For Creative Studies,Michigan,63.0,3.4,3.6,3.3,3.8,2.7,3.0,3.6,2.2,3.0
 New Hope Christian College,Oregon,10.0,3.6,4.5,4.1,3.8,2.1,3.9,4.4,3.4,2.4
 Purdue University - Fort Wayne,Indiana,228.0,3.7,3.8,3.6,3.5,3.1,2.9,4.2,2.8,3.2
-Strayer University,Georgia,3.0,4.3,4.7,5.0,4.3,3.3,3.7,4.9,3.3,4.3
 Wayland Baptist University,Texas,28.0,3.1,3.9,3.6,3.3,1.8,2.4,4.0,1.9,3.2
 University Of Nebraska Medical Center,Nebraska,6.0,4.2,3.7,3.5,3.8,2.0,2.5,2.8,2.7,3.7
-Nova Southeastern University,Florida,5.0,3.4,3.8,4.0,3.4,3.2,3.2,4.0,2.6,3.6
-San Joaquin Valley College,California,1.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0
+Nova Southeastern University (Orlando),Florida,5.0,3.4,3.8,4.0,3.4,3.2,3.2,4.0,2.6,3.6
 Holy Name Medical Center School of Nursing,New Jersey,4.0,3.5,3.8,2.0,2.0,1.3,1.3,4.5,3.5,3.0
-National University,California,1.0,5.0,5.0,3.0,5.0,1.0,1.0,5.0,1.0,3.0
-New River Community and Technical College,West Virginia,2.0,2.5,2.5,3.0,3.5,1.5,1.0,3.5,1.0,1.5
-University of Phoenix,California,5.0,4.4,4.4,3.8,3.4,1.6,1.6,4.0,2.2,4.2
+New River Community and Technical College (Lewisburg),West Virginia,2.0,2.5,2.5,3.0,3.5,1.5,1.0,3.5,1.0,1.5
 Strayer University - South Charlotte,North Carolina,2.0,4.0,3.5,5.0,2.0,3.0,1.5,4.6,3.0,4.0
-California College of the Arts,California,7.0,3.6,4.1,4.4,3.7,2.3,3.3,3.5,3.1,2.9
-Point Loma Nazarene University,California,4.0,3.5,4.3,3.8,3.3,2.3,3.0,3.7,3.0,2.5
+California College of the Arts (Oakland),California,7.0,3.6,4.1,4.4,3.7,2.3,3.3,3.5,3.1,2.9
+Point Loma Nazarene University (Bakersfield),California,4.0,3.5,4.3,3.8,3.3,2.3,3.0,3.7,3.0,2.5
 MSKCC School of Radiation Therapy,New York,1.0,2.0,3.0,3.0,5.0,1.0,4.0,3.0,5.0,2.0
 American Musical and Dramatic Academy,California,13.0,3.2,3.8,3.8,3.4,2.6,3.5,3.0,4.2,2.8
-Keiser University,Florida,10.0,2.5,3.6,2.4,2.0,1.6,1.2,4.0,1.5,3.0
 Oakland Community College,Michigan,12.0,3.4,3.5,3.4,3.1,2.2,2.8,4.0,2.3,3.7
 Everglades University,Florida,1.0,4.0,5.0,5.0,3.0,5.0,5.0,4.3,4.0,1.0
 School for International Training,Vermont,4.0,2.0,2.3,3.0,2.0,2.0,3.5,1.0,1.3,2.5
-Fashion Institute of Design and Merchandising,California,1.0,5.0,4.0,5.0,4.0,3.0,3.0,4.8,5.0,3.0
+Fashion Institute of Design and Merchandising (Orange County),California,1.0,5.0,4.0,5.0,4.0,3.0,3.0,4.8,5.0,3.0
 Trinity College of Florida,Florida,4.0,2.8,3.5,2.8,3.0,2.3,2.5,1.0,2.8,2.3
 St. Francis College of Nursing,Illinois,4.0,3.5,3.8,5.0,5.0,3.8,3.3,4.7,4.3,3.8
-Walden University,Maryland,4.0,4.0,4.0,4.0,3.8,4.0,4.0,1.0,4.0,4.0
-John Marshall Law School,Georgia,17.0,2.2,2.6,2.2,2.3,2.8,2.5,4.5,2.0,3.1
-Mohawk Valley Community College,New York,5.0,3.0,3.4,3.2,2.8,2.8,2.8,3.5,2.2,2.6
-San Joaquin Valley College,California,4.0,3.5,3.0,3.0,3.0,3.3,3.5,3.5,3.0,3.0
+Mohawk Valley Community College (Rome),New York,5.0,3.0,3.4,3.2,2.8,2.8,2.8,3.5,2.2,2.6
+San Joaquin Valley College (Ontario),California,4.0,3.5,3.0,3.0,3.0,3.3,3.5,3.5,3.0,3.0
 Georgia Gwinnett College,Georgia,518.0,4.0,3.9,3.8,3.5,3.2,3.1,4.1,3.5,3.4
-University of La Verne,California,4.0,4.5,4.8,3.5,4.0,3.3,3.3,5.0,2.8,3.8
+University of La Verne (Ventura),California,4.0,4.5,4.8,3.5,4.0,3.3,3.3,5.0,2.8,3.8
 The University of Tennessee Southern,Tennessee,16.0,2.8,1.9,3.3,2.9,2.7,2.9,4.0,2.3,2.4
 West Virginia School of Osteopathic Medicine,West Virginia,2.0,5.0,4.0,4.5,4.5,4.5,2.5,5.0,3.0,5.0
 Michigan College Of Beauty,Michigan,1.0,4.0,2.0,5.0,5.0,5.0,5.0,4.2,3.0,5.0
 WSU Tech,Kansas,14.0,3.1,3.5,3.4,3.4,2.3,2.4,4.6,2.6,3.3
 Nazarene Theological Seminary,Missouri,2.0,3.0,3.0,4.5,3.5,2.5,5.0,3.0,4.0,3.5
-Bluegrass Community & Technical College,Kentucky,7.0,3.4,3.6,3.6,2.9,1.3,1.4,4.0,1.6,3.1
+Bluegrass Community & Technical College (Danville),Kentucky,7.0,3.4,3.6,3.6,2.9,1.3,1.4,4.0,1.6,3.1
 St. Anthony College of Nursing,Illinois,1.0,1.0,2.0,1.0,1.0,3.0,2.0,3.0,3.0,2.0
 New River Community and Technical College,West Virginia,3.0,3.0,4.0,4.0,3.0,2.3,2.7,4.0,2.3,3.3
 Minnesota State Community Technical College,Minnesota,16.0,3.8,3.4,3.6,3.3,2.9,2.8,4.8,3.1,3.9
 Des Moines University,Iowa,3.0,4.3,3.3,3.7,4.0,3.7,3.3,5.0,3.3,4.0
 Georgia Highlands College,Georgia,133.0,3.5,3.5,3.7,3.1,2.7,2.6,4.2,2.6,3.6
 Bon Secours Memorial College of Nursing,Virginia,5.0,2.4,2.6,3.4,3.4,1.4,2.6,5.0,1.6,2.6
-Alliant International University,California,4.0,2.3,3.5,3.3,3.3,3.0,2.5,3.5,2.0,3.3
+Alliant International University (Sacramento),California,4.0,2.3,3.5,3.3,3.3,3.0,2.5,3.5,2.0,3.3
 Tulsa Technology Center,Oklahoma,12.0,3.8,3.6,3.4,4.2,2.2,2.8,4.5,3.3,3.8
 National Holistic Institute,California,2.0,4.5,4.5,5.0,5.0,4.5,4.5,4.6,3.0,2.0
-Faulkner University,Alabama,1.0,4.0,4.0,5.0,5.0,4.0,4.0,4.9,5.0,5.0
+Faulkner University (Mobile),Alabama,1.0,4.0,4.0,5.0,5.0,4.0,4.0,4.9,5.0,5.0
 Swedish Institute,New York,4.0,3.5,4.5,4.5,3.8,4.0,4.0,5.0,2.3,4.3
-Champlain College,Vermont,35.0,3.6,3.9,3.9,3.3,3.7,3.5,4.2,2.7,2.5
 University of St. Augustine,Florida,13.0,2.2,2.9,1.7,2.2,1.4,1.5,2.5,1.8,2.8
 Orlando Tech,Florida,5.0,1.8,2.2,1.0,1.2,1.0,1.0,1.5,1.4,1.8
 San Joaquin College of Law,California,5.0,2.8,3.8,4.0,3.6,4.0,3.4,3.0,1.8,3.6
@@ -2475,13 +2380,11 @@ Longy School of Music,Massachusetts,6.0,2.5,4.7,2.8,2.3,1.7,1.7,4.0,1.3,2.3
 Rosedale Bible College,Ohio,5.0,3.0,3.2,5.0,3.8,2.8,4.6,5.0,2.6,2.4
 Pennsylvania State University - World Campus,Pennsylvania,51.0,4.0,4.5,4.2,4.0,3.7,3.9,3.6,3.6,4.3
 Clear Creek Baptist Bible College,Kentucky,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.5,4.5
-Wallace Community College,Alabama,7.0,3.0,3.1,3.4,3.0,2.4,2.1,4.0,3.1,2.9
+Wallace Community College (Selma),Alabama,7.0,3.0,3.1,3.4,3.0,2.4,2.1,4.0,3.1,2.9
 Pace University,New York,31.0,3.2,4.1,2.6,3.5,2.7,2.7,3.9,2.2,3.1
 University of North Texas at Dallas,Texas,75.0,3.7,3.8,3.8,3.4,2.8,2.7,4.2,3.0,3.9
-Mid-State Technical College,Wisconsin,1.0,3.0,2.0,2.0,2.0,2.0,2.0,3.0,1.0,3.0
 Cochran School of Nursing,New York,8.0,2.3,3.3,2.6,3.5,1.5,1.8,3.0,2.8,2.9
-Central Alabama Community College,Alabama,7.0,2.4,2.6,2.7,2.7,2.7,2.1,4.0,1.9,2.7
-Alliant International University,California,1.0,3.0,5.0,5.0,4.0,2.0,1.0,5.0,1.0,4.0
+Alliant International University (Irvine),California,1.0,3.0,5.0,5.0,4.0,2.0,1.0,5.0,1.0,4.0
 High Plains Technology Center,Oklahoma,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Los Angeles Pierce College,California,19.0,4.7,4.6,4.3,4.4,4.2,3.6,4.4,3.6,4.3
 Bates Technical College,Washington,9.0,2.6,2.8,2.9,3.6,2.1,2.4,3.8,2.6,2.7
@@ -2490,18 +2393,16 @@ Dallas Christian College,Texas,8.0,2.1,3.3,2.8,2.6,2.1,2.3,2.5,1.8,2.9
 Berkeley City College,California,105.0,3.6,4.3,3.8,3.3,3.1,3.0,3.4,2.6,3.5
 Ellis College,New York,1.0,1.0,4.0,1.0,1.0,3.0,1.0,2.3,3.0,2.0
 Illinois College of Optometry,Illinois,27.0,2.3,2.0,1.5,2.9,2.5,2.4,1.8,2.0,2.2
-Union County College,New Jersey,4.0,2.8,3.5,3.3,3.5,3.0,2.8,3.7,2.8,3.8
 Sacred Heart Major Seminary,Michigan,2.0,4.0,2.0,3.0,3.5,2.5,3.0,3.0,3.0,3.5
 Corban University,Oregon,35.0,3.6,3.9,4.2,3.6,3.5,3.8,4.4,2.5,3.4
 Blue Ridge Community & Technical College,West Virginia,27.0,3.5,3.6,3.9,3.3,2.3,2.5,4.2,3.2,3.7
 Eagle Gate College,Utah,3.0,2.0,2.7,1.0,1.0,1.0,1.0,2.6,1.3,2.3
 Moberly Area Community College,Missouri,24.0,2.6,3.2,2.6,2.2,1.8,2.0,4.1,1.6,3.0
 Virginia University of Lynchburg,Virginia,5.0,1.8,2.4,2.0,2.4,1.4,1.6,2.7,1.4,2.4
-Colorado Northwestern Community College,Colorado,1.0,4.0,2.0,3.0,2.0,3.0,3.0,3.5,4.0,4.0
+Colorado Northwestern Community College (Craig),Colorado,1.0,4.0,2.0,3.0,2.0,3.0,3.0,3.5,4.0,4.0
 Phillips Theological Seminary,Oklahoma,2.0,4.0,3.0,5.0,4.0,2.0,3.0,5.0,3.0,4.0
-Delaware County Community College,Pennsylvania,11.0,3.0,2.8,2.8,2.4,1.9,1.9,3.7,1.6,2.9
-Roane State Community College,Tennessee,8.0,3.3,3.9,3.4,2.9,1.5,1.9,5.0,2.5,3.3
-Central Piedmont Community College,North Carolina,3.0,4.3,4.7,4.7,4.3,2.7,4.3,4.0,4.3,5.0
+Roane State Community College (Crossville),Tennessee,8.0,3.3,3.9,3.4,2.9,1.5,1.9,5.0,2.5,3.3
+Central Piedmont Community College (Huntersville),North Carolina,3.0,4.3,4.7,4.7,4.3,2.7,4.3,4.0,4.3,5.0
 Austin Presbyterian Theological Seminary,Texas,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Fielding Graduate University,California,4.0,3.0,4.3,3.5,4.0,3.5,3.5,3.0,3.0,3.8
 Northwestern Health Sciences University,Minnesota,5.0,4.4,4.2,4.8,4.4,4.6,4.4,5.0,3.8,4.4
@@ -2509,8 +2410,7 @@ St. Joseph's College of Nursing,New York,4.0,2.8,1.3,2.0,2.5,1.3,1.8,1.8,1.8,2.8
 Brockton Hospital School of Nursing,Massachusetts,2.0,4.0,3.5,3.0,3.5,3.0,4.0,4.0,3.0,4.0
 Good Samaritan College of Nursing,Ohio,8.0,2.5,2.8,2.5,3.1,1.5,2.1,3.5,3.0,2.0
 Central Christian College of Kansas,Kansas,4.0,2.8,3.0,3.0,2.8,3.3,3.0,5.0,1.5,2.5
-Southwestern Illinois College,Illinois,4.0,4.3,4.5,4.8,4.0,2.8,3.5,5.0,2.8,4.0
-Indian River State College,Florida,36.0,4.0,4.3,4.1,3.9,3.4,3.3,4.7,3.1,4.3
+Southwestern Illinois College (Red Bud),Illinois,4.0,4.3,4.5,4.8,4.0,2.8,3.5,5.0,2.8,4.0
 St. Augustine College,Illinois,4.0,4.0,4.8,5.0,3.5,3.0,4.0,4.8,4.0,4.5
 Roxborough Memorial Hospital School of Nursing,Pennsylvania,2.0,3.5,4.0,5.0,3.5,3.0,3.5,4.6,4.0,4.0
 Clover Park Technical College,Washington,18.0,3.4,2.8,2.8,3.2,2.5,2.5,4.4,2.8,3.0
@@ -2519,17 +2419,17 @@ Stanbridge University,California,28.0,2.6,2.9,3.0,2.7,2.2,2.4,3.8,2.4,3.2
 Northeast Lakeview College,Texas,107.0,4.0,4.1,3.9,3.5,3.0,3.1,4.4,3.0,3.6
 Augusta Technical College,Georgia,32.0,2.8,3.0,3.2,3.0,1.9,2.2,3.4,2.5,3.1
 Keck Graduate Institute,California,8.0,2.3,2.6,2.3,2.5,2.3,2.5,3.9,1.3,2.6
-Roane State Community College,Tennessee,1.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,4.0,5.0
+Roane State Community College (Huntsville),Tennessee,1.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,4.0,5.0
 University of Western States,Oregon,5.0,2.2,2.2,1.8,1.8,2.6,2.4,2.5,3.0,2.8
 Purdue University - Kokomo,Indiana,2.0,4.0,4.0,3.5,5.0,2.0,3.0,4.0,2.5,4.0
-Keiser University,Florida,7.0,3.9,4.0,4.3,3.9,3.9,3.4,5.0,2.4,4.0
+Keiser University (Jacksonville),Florida,7.0,3.9,4.0,4.3,3.9,3.9,3.4,5.0,2.4,4.0
 Bluegrass Community & Technical College,Kentucky,74.0,3.0,3.5,3.5,3.1,2.4,2.5,3.7,2.3,3.5
 Pacifica Graduate Institute,California,19.0,4.3,4.1,3.8,3.3,2.7,3.2,3.7,3.8,3.8
 John Paul the Great Catholic University,California,24.0,2.3,2.3,2.5,2.4,1.9,2.3,2.0,1.8,2.9
 Coastal Pines Technical College,Georgia,4.0,3.8,3.8,3.0,3.0,2.3,1.8,3.0,1.5,3.8
 Southwestern Christian University,Oklahoma,10.0,3.2,3.7,2.9,2.7,2.2,2.8,3.5,2.6,1.8
-Utah State University,Utah,20.0,4.5,4.5,4.7,3.9,3.5,3.9,4.8,3.2,4.0
-Georgia Military College,Georgia,17.0,3.7,4.1,4.1,3.6,2.8,2.8,4.8,2.5,3.2
+Utah State University (Tooele),Utah,20.0,4.5,4.5,4.7,3.9,3.5,3.9,4.8,3.2,4.0
+Georgia Military College (Valdosta),Georgia,17.0,3.7,4.1,4.1,3.6,2.8,2.8,4.8,2.5,3.2
 Sheridan Technical College,Florida,9.0,2.1,2.4,1.7,2.0,1.3,1.4,1.3,2.1,2.6
 Flint Hills Technical College,Kansas,2.0,4.5,4.0,4.5,4.0,1.5,1.0,4.0,4.5,4.0
 Word of Life Bible Institute,New York,9.0,4.1,2.7,4.6,3.2,2.6,3.4,4.8,2.8,3.3
@@ -2541,60 +2441,49 @@ Northwest Mississippi Community College,Mississippi,29.0,3.1,3.8,3.4,3.0,2.3,2.5
 Motlow State Community College,Tennessee,50.0,3.4,3.9,3.7,3.5,2.7,2.8,4.1,2.1,3.6
 Zane State College,Ohio,8.0,4.3,4.4,4.5,4.0,3.3,3.4,4.8,3.9,4.1
 Northeastern Technical College,South Carolina,6.0,3.2,4.0,2.7,2.5,1.7,2.0,5.0,1.0,3.2
-Minnesota State Community and Technical College,Minnesota,2.0,3.5,4.5,4.0,3.5,3.0,3.0,4.2,1.5,2.0
-Word of Life Bible Institute,Florida,3.0,3.0,3.0,3.7,2.3,3.3,3.7,4.0,3.0,3.0
+Minnesota State Community and Technical College (Detroit Lakes),Minnesota,2.0,3.5,4.5,4.0,3.5,3.0,3.0,4.2,1.5,2.0
 Columbia Southern University,Alabama,47.0,4.0,4.4,4.5,4.0,3.7,3.7,4.4,3.9,4.2
 Hult International Business School,Massachusetts,18.0,4.3,4.6,4.2,2.8,3.1,3.9,4.6,3.5,4.3
 Luther Rice College & Seminary,Georgia,5.0,4.2,4.0,4.6,4.0,3.2,3.6,5.0,2.8,4.0
 Aultman College of Nursing,Ohio,6.0,3.7,3.0,3.8,3.8,2.5,3.0,3.0,3.5,3.3
-Indian River State College,Florida,41.0,3.6,3.7,3.8,3.6,2.7,3.1,4.3,3.2,3.6
 Beulah Heights University,Georgia,5.0,3.2,3.8,4.6,3.0,2.2,3.2,5.0,2.4,3.8
 Pennsylvania Highlands Community College,Pennsylvania,18.0,3.1,3.3,3.1,2.9,2.8,2.4,4.0,2.9,3.6
-Moberly Area Community College,Missouri,4.0,3.5,4.0,5.0,4.3,2.3,2.8,5.0,2.3,4.0
 Arizona State University - West,Arizona,77.0,4.1,3.3,3.8,3.4,2.9,2.9,4.0,2.9,3.6
 Oglala Lakota College,South Dakota,3.0,2.3,2.7,3.7,2.0,2.0,2.0,3.5,1.7,2.0
 Graham School of Nursing,Illinois,1.0,1.0,5.0,2.0,3.0,1.0,3.0,5.0,1.0,2.0
 University of New Mexico - Gallup,New Mexico,14.0,2.9,3.1,2.6,3.1,2.4,2.5,3.3,2.4,3.3
-Alliant International University,California,3.0,3.7,4.0,3.7,3.3,3.3,3.0,4.1,2.7,4.0
-Chamberlain College of Nursing,Ohio,5.0,3.0,3.6,3.8,3.2,2.6,3.0,4.0,3.2,3.6
 Five Branches University,California,2.0,5.0,5.0,5.0,5.0,3.0,3.0,5.0,4.5,5.0
-North Central Texas College,Texas,1.0,5.0,5.0,5.0,5.0,5.0,5.0,4.9,4.0,4.0
+North Central Texas College (Denton),Texas,1.0,5.0,5.0,5.0,5.0,5.0,5.0,4.9,4.0,4.0
 Nashua Community College,New Hampshire,19.0,3.5,3.7,3.4,3.3,2.6,2.6,4.2,3.3,4.1
 Providence Christian College,California,8.0,3.6,4.4,3.8,3.4,2.6,3.9,3.8,3.0,3.3
-Keiser University,Florida,11.0,3.4,3.7,2.8,2.9,1.9,2.2,3.8,2.0,3.0
+Keiser University (West Palm Beach),Florida,11.0,3.4,3.7,2.8,2.9,1.9,2.2,3.8,2.0,3.0
 Aspen University,Colorado,10.0,3.7,4.1,3.7,3.5,3.4,3.1,3.8,3.7,3.9
 Raritan Valley Community College,New Jersey,188.0,3.6,3.9,3.9,3.8,3.4,3.1,4.5,3.4,3.5
 New Saint Andrews College,Idaho,5.0,4.2,4.2,4.2,4.0,3.8,4.2,5.0,3.8,3.8
 University of Hawaii West Oahu,Hawaii,64.0,3.8,4.1,3.5,3.2,2.5,2.8,4.4,3.2,3.8
 Western Seminary Sacramento,California,2.0,3.0,4.0,5.0,4.5,3.0,4.0,5.0,3.0,3.0
 Barclay College,Kansas,4.0,4.5,2.3,3.5,3.0,2.8,3.5,3.7,4.5,2.5
-Blinn College,Texas,6.0,3.0,3.2,3.7,3.0,1.8,2.2,5.0,1.8,3.5
 Great Bay Community College,New Hampshire,27.0,3.4,3.8,3.5,3.6,3.0,3.0,4.7,3.4,3.9
 Community Care College,Oklahoma,7.0,3.9,4.4,3.3,3.3,2.0,2.6,4.0,2.4,3.1
 Clary Sage College,Oklahoma,3.0,4.3,4.0,3.7,4.0,4.0,4.0,4.2,4.0,4.3
-Camden County College,New Jersey,18.0,3.7,3.6,4.0,3.6,2.7,2.9,4.5,2.7,3.5
+Camden County College (Camden),New Jersey,18.0,3.7,3.6,4.0,3.6,2.7,2.9,4.5,2.7,3.5
 Full Sail University,Florida,102.0,3.8,3.6,3.7,3.7,3.1,3.4,3.7,3.1,3.8
 Yo San University of Traditional Chinese Medicine,California,8.0,3.4,3.9,3.6,3.5,1.9,2.9,3.0,2.5,2.3
 University of Saint Francis,Indiana,34.0,3.4,3.5,3.3,3.4,3.1,2.7,4.2,2.4,3.0
-LeTourneau University,Texas,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.3,2.0,2.0
+LeTourneau University (Houston),Texas,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.3,2.0,2.0
 Bauman College,California,4.0,4.8,5.0,4.8,4.8,4.0,4.5,5.0,4.8,4.8
 Gemological Institute of America,California,2.0,5.0,5.0,5.0,5.0,2.5,4.5,5.0,4.5,4.0
-Mercer University,Georgia,8.0,3.9,3.3,4.3,3.9,3.8,4.0,4.3,3.0,3.5
+Mercer University (McDonough),Georgia,8.0,3.9,3.3,4.3,3.9,3.8,4.0,4.3,3.0,3.5
 Vernon College,Texas,27.0,3.5,3.8,3.9,3.5,2.6,2.8,4.2,2.7,3.7
-Mohave Community College,Arizona,1.0,5.0,3.0,5.0,5.0,2.0,3.0,5.0,3.0,5.0
+Mohave Community College (Colorado City),Arizona,1.0,5.0,3.0,5.0,5.0,2.0,3.0,5.0,3.0,5.0
 Umpqua Community College,Oregon,30.0,3.7,3.6,3.1,2.6,2.2,2.1,3.1,2.4,2.7
-Columbia College,Missouri,4.0,4.0,4.5,4.3,2.8,3.0,3.3,5.0,2.8,4.0
-Ozarks Technical Community College,Missouri,11.0,4.4,4.5,4.7,3.5,2.4,2.5,5.0,3.1,3.7
+Ozarks Technical Community College (Richwood Valley),Missouri,11.0,4.4,4.5,4.7,3.5,2.4,2.5,5.0,3.1,3.7
 Lee College,Texas,97.0,3.7,3.6,4.2,4.0,3.5,3.5,4.2,3.3,3.8
 Concorde Career Institute,Florida,4.0,1.8,2.0,2.5,2.5,1.5,1.5,3.0,1.3,2.0
-Columbia Basin College,Washington,3.0,3.0,3.0,3.0,2.7,2.7,2.7,3.5,1.7,1.3
-Webster University,Kansas,1.0,4.0,4.0,5.0,3.0,3.0,3.0,4.5,3.0,4.0
+Columbia Basin College (Kennewick),Washington,3.0,3.0,3.0,3.0,2.7,2.7,2.7,3.5,1.7,1.3
 Diablo Valley College,California,59.0,3.6,4.0,3.8,3.6,2.8,2.7,4.3,2.7,3.5
-Community College of Vermont,Vermont,2.0,2.0,3.0,2.0,1.5,1.0,1.5,5.0,2.0,2.0
-Kirkwood Community College,Iowa,20.0,3.9,3.3,4.4,3.9,2.9,3.0,4.8,2.7,3.9
 College of the Canyons,California,371.0,4.2,4.4,3.8,3.9,3.3,3.0,4.5,3.5,4.0
 Oklahoma Technical College,Oklahoma,2.0,3.5,4.5,4.5,4.5,4.0,4.0,4.0,3.0,4.0
-Carrington College,New Mexico,3.0,3.7,3.7,2.3,3.0,2.7,2.7,3.5,2.3,3.3
 Ramapo College of New Jersey,New Jersey,190.0,3.7,3.8,3.4,3.4,3.2,2.7,3.8,2.8,3.3
 Presidio Graduate School,California,3.0,2.3,3.3,3.3,3.3,3.3,4.3,4.5,2.0,3.3
 Mt. San Antonio College,California,423.0,3.9,4.0,4.2,4.0,3.5,3.5,3.8,3.2,3.2
@@ -2606,73 +2495,61 @@ Arkansas State University,Arkansas,210.0,4.0,3.8,4.1,3.8,3.6,3.6,3.9,3.4,3.3
 Southern California Seminary,California,2.0,4.0,4.0,5.0,3.5,2.5,2.0,4.8,4.5,3.0
 University of the West,California,4.0,3.8,3.5,3.0,4.0,2.8,3.3,4.0,3.0,4.3
 CUNY York College,New York,317.0,2.5,2.7,2.7,2.8,3.0,2.7,2.7,2.2,3.1
-NorthShore Technical Community College,Louisiana,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,2.0,5.0
+NorthShore Technical Community College (Bogalusa),Louisiana,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,2.0,5.0
 Utah College of Dental Hygiene,Utah,1.0,1.0,3.0,1.0,3.0,1.0,2.0,1.0,1.0,2.0
 United States University,California,7.0,2.6,3.9,3.3,4.0,2.4,2.4,3.6,2.1,3.6
-Roane State Community College,Tennessee,3.0,4.7,5.0,4.3,4.3,2.7,3.3,5.0,3.0,3.7
+Roane State Community College (Jacksboro),Tennessee,3.0,4.7,5.0,4.3,4.3,2.7,3.3,5.0,3.0,3.7
 Caldwell Community College & Technical Institute,North Carolina,8.0,3.1,3.9,3.0,2.6,2.5,2.9,5.0,2.1,4.0
 Cal Poly Pomona,California,37.0,4.0,3.9,3.9,4.3,4.1,3.3,4.0,3.7,3.9
-Northwest Florida State College,Florida,9.0,4.0,4.3,3.8,3.9,2.8,3.0,4.0,3.2,3.8
-Robert Morris University,Pennsylvania,3.0,3.7,3.7,3.7,3.7,3.7,3.7,4.0,3.7,3.7
+Northwest Florida State College (Fort Walton Beach),Florida,9.0,4.0,4.3,3.8,3.9,2.8,3.0,4.0,3.2,3.8
 Wiregrass Georgia Technical College,Georgia,9.0,3.2,3.3,2.7,3.3,2.6,2.2,3.9,2.4,3.0
 Polk State College,Florida,112.0,3.8,4.0,3.7,3.4,3.1,3.2,4.2,3.2,3.4
-Concorde Career Institute,Florida,3.0,2.0,1.7,1.0,1.3,1.0,1.0,2.3,1.0,1.0
-Austin Community College,Texas,44.0,3.6,4.2,3.8,3.8,2.7,3.0,4.3,2.6,3.7
+Concorde Career Institute (Orlando),Florida,3.0,2.0,1.7,1.0,1.3,1.0,1.0,2.3,1.0,1.0
+Austin Community College (Round Rock),Texas,44.0,3.6,4.2,3.8,3.8,2.7,3.0,4.3,2.6,3.7
 Pennsylvania State University - Behrend,Pennsylvania,13.0,3.7,3.4,3.8,4.1,4.0,3.8,4.5,2.2,3.2
 Methodist College,Illinois,37.0,2.7,2.9,2.3,2.6,2.1,2.2,4.4,2.2,2.7
-New River Community and Technical College,West Virginia,3.0,3.3,3.7,4.3,2.7,1.0,1.3,4.4,2.3,3.7
 Farmingdale State College,New York,250.0,3.4,3.6,3.4,3.3,2.9,2.6,4.4,2.9,3.2
-Kent State University,Ohio,4.0,2.8,2.5,3.8,2.3,2.0,2.0,4.0,2.0,4.3
+Kent State University (East Liverpool),Ohio,4.0,2.8,2.5,3.8,2.3,2.0,2.0,4.0,2.0,4.3
 American University of Health Sciences,California,4.0,1.5,1.8,1.3,1.5,1.3,1.3,2.0,1.0,2.0
-North Central Texas College,Texas,15.0,3.5,4.5,3.7,3.9,2.3,2.7,4.6,2.5,3.9
+North Central Texas College (Flower Mound),Texas,15.0,3.5,4.5,3.7,3.9,2.3,2.7,4.6,2.5,3.9
 Pierpont Community & Technical College,West Virginia,6.0,3.0,3.8,3.0,3.2,2.7,3.0,4.0,3.3,2.7
 River Valley Community College,New Hampshire,4.0,3.8,3.3,3.3,3.0,1.8,2.0,4.0,3.8,3.5
-Remington College,Tennessee,1.0,5.0,4.0,5.0,4.0,5.0,4.0,4.7,4.0,3.0
 Georgia Northwestern Technical College,Georgia,11.0,3.1,2.7,2.7,2.7,1.9,2.1,3.3,1.7,2.6
-Community College of Vermont,Vermont,4.0,2.8,4.5,3.5,3.5,1.8,2.5,4.3,2.5,3.8
-Upper Iowa University,Wisconsin,1.0,4.0,5.0,5.0,4.0,1.0,1.0,5.0,2.0,5.0
+Community College of Vermont (Montpelier),Vermont,4.0,2.8,4.5,3.5,3.5,1.8,2.5,4.3,2.5,3.8
 National Paralegal College,Arizona,11.0,3.8,4.4,4.5,3.7,3.5,4.1,5.0,3.6,4.5
-Horry-Georgetown Technical College,South Carolina,12.0,3.5,4.3,3.5,3.4,2.3,2.4,4.7,3.1,3.4
-Manchester Community College,Connecticut,20.0,3.5,3.6,3.5,3.3,3.2,3.1,3.4,2.7,3.5
+Horry-Georgetown Technical College (Myrtle Beach),South Carolina,12.0,3.5,4.3,3.5,3.4,2.3,2.4,4.7,3.1,3.4
 Arlington Career Institute,Texas,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
-Lake Region State College,North Dakota,2.0,2.5,2.0,2.5,3.0,1.5,1.5,3.5,2.5,3.0
-Chamberlain College of Nursing,Missouri,7.0,2.3,3.6,1.6,2.0,1.9,1.7,3.5,1.6,2.9
+Lake Region State College (Grand Forks),North Dakota,2.0,2.5,2.0,2.5,3.0,1.5,1.5,3.5,2.5,3.0
 Samuel Merritt University,California,6.0,3.7,2.5,3.3,3.3,1.8,3.0,4.0,2.3,3.2
 Pacific School of Religion,California,2.0,3.5,4.0,4.0,3.0,2.5,3.5,3.0,3.0,3.5
 Fine Mortuary College,Massachusetts,4.0,2.3,3.0,2.8,2.5,1.0,1.8,4.0,2.0,2.8
 Appalachian College of Pharmacy,Virginia,1.0,2.0,1.0,2.0,1.0,4.0,3.0,4.0,3.0,3.0
 University of Minnesota Rochester,Minnesota,47.0,2.6,3.0,2.5,3.5,2.2,2.0,2.8,1.8,3.0
-Aviation Institute of Maintenance,Missouri,1.0,2.0,2.0,2.0,4.0,1.0,4.0,5.0,3.0,2.0
 Nebraska Methodist College,Nebraska,15.0,4.0,4.0,2.9,3.2,2.8,3.1,4.4,3.3,3.3
 California Hair Design Academy,California,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0
-Pima Medical Institute,Colorado,3.0,2.3,2.7,3.7,3.0,1.7,1.7,3.5,3.0,2.0
 Baptist School of Health Professions,Texas,5.0,2.4,3.6,3.4,3.2,1.6,1.8,4.0,2.2,3.2
 California International Business University,California,4.0,5.0,5.0,5.0,4.8,4.8,4.8,5.0,4.5,4.8
 American College of Education,Illinois,15.0,4.0,4.5,4.1,4.3,3.7,3.7,4.5,3.3,4.6
 Carrington College,California,5.0,3.6,4.4,4.2,3.8,3.8,3.8,3.5,2.8,3.2
 College of Central Florida,Florida,134.0,3.7,3.7,3.3,3.3,3.0,2.8,4.1,3.1,3.5
-Pima Medical Institute,Arizona,5.0,3.0,3.6,3.0,3.6,2.6,3.0,2.5,2.6,4.0
 Texas A&M University Central Texas,Texas,55.0,3.9,3.6,3.7,3.5,2.8,2.9,4.1,2.6,4.1
 Talmudic University of Florida,Florida,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Academy of Chinese Culture and Health Sciences,California,4.0,3.3,3.8,4.0,3.5,2.8,3.0,4.2,3.5,3.5
 Northwest Kansas Technical College,Kansas,1.0,2.0,2.0,3.0,4.0,1.0,1.0,4.0,1.0,3.0
-Pima Medical Institute,Texas,3.0,3.0,3.0,3.0,2.3,2.0,3.0,3.7,1.3,2.7
 Eastern West Virginia Community Technical College,West Virginia,3.0,3.0,4.0,3.7,4.0,2.3,2.7,3.7,2.3,3.7
 Virginia Theological Seminary,Virginia,1.0,4.0,5.0,5.0,5.0,4.0,4.0,4.8,3.0,4.0
 Western Governors University,Texas,32.0,3.0,4.5,3.9,3.7,2.5,2.7,4.3,2.7,3.8
 Phoenix Institute of Herbal Medicine & Acupuncture,Arizona,5.0,4.6,3.6,2.8,3.0,2.2,2.8,3.9,2.4,3.8
-Missouri Baptist University,Missouri,8.0,4.3,3.8,4.0,3.4,3.4,3.9,4.5,3.6,3.6
 California InterContinental University,California,2.0,4.5,5.0,5.0,5.0,4.5,4.5,5.0,4.5,5.0
-Southwest Baptist University,Missouri,1.0,3.0,5.0,5.0,5.0,3.0,1.0,5.0,3.0,4.0
+Southwest Baptist University (Springfield),Missouri,1.0,3.0,5.0,5.0,5.0,3.0,1.0,5.0,3.0,4.0
 Framingham State University,Massachusetts,134.0,3.3,3.6,3.2,3.1,3.1,2.8,3.4,2.6,2.2
 Paul Mitchell School - Orlando,Florida,1.0,4.0,3.0,4.0,5.0,5.0,5.0,5.0,4.0,3.0
-West Coast University,California,20.0,3.2,3.9,3.2,3.5,2.0,2.4,4.8,2.3,3.8
-Savannah Technical College,Georgia,7.0,3.0,3.6,2.9,3.0,2.0,2.0,4.0,2.1,2.6
-Iowa Lakes Community College,Iowa,1.0,3.0,4.0,4.0,5.0,1.0,5.0,4.4,1.0,5.0
-City University of Seattle,Washington,5.0,5.0,4.8,5.0,4.0,3.6,3.8,5.0,2.8,4.6
+West Coast University (Ontario),California,20.0,3.2,3.9,3.2,3.5,2.0,2.4,4.8,2.3,3.8
+Savannah Technical College (Hinesville),Georgia,7.0,3.0,3.6,2.9,3.0,2.0,2.0,4.0,2.1,2.6
+Iowa Lakes Community College (Spencer),Iowa,1.0,3.0,4.0,4.0,5.0,1.0,5.0,4.4,1.0,5.0
+City University of Seattle (Seattle),Washington,5.0,5.0,4.8,5.0,4.0,3.6,3.8,5.0,2.8,4.6
 Mesalands Community College,New Mexico,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,3.0
 Holy Apostles College and Seminary,Connecticut,4.0,3.8,4.0,3.5,3.3,2.8,3.0,4.0,4.3,3.0
-Westmoreland County Community College,Pennsylvania,2.0,4.5,4.5,5.0,2.5,1.0,1.0,5.0,3.0,5.0
 Northern Marianas College,California,15.0,2.8,3.5,3.6,3.2,2.5,3.0,4.1,3.1,3.1
 Robert Morris University,Pennsylvania,187.0,3.5,3.5,3.4,3.7,3.2,2.6,4.6,3.3,3.0
 Icahn School of Medicine at Mount Sinai,Florida,2.0,3.5,5.0,3.5,5.0,3.0,4.0,5.0,3.0,4.5
@@ -2684,25 +2561,22 @@ Pontifical College Josephinum,Ohio,2.0,2.5,3.0,3.5,2.5,1.5,3.5,4.0,1.0,1.0
 Belhaven University,Michigan,22.0,3.6,3.3,3.9,3.3,3.0,3.1,2.7,2.3,2.9
 St. Johns University,Pennsylvania,15.0,4.4,4.7,4.6,4.2,3.7,4.1,4.6,3.9,3.4
 College of Saint Benedict,Minnesota,3.0,4.7,3.7,5.0,5.0,4.3,4.7,5.0,4.3,3.7
-Polk State College,Florida,87.0,3.6,3.6,3.4,3.2,3.1,3.0,4.0,3.1,3.3
-Community College of Vermont,Vermont,4.0,4.3,4.5,4.3,3.3,3.3,3.5,4.3,3.5,4.0
+Polk State College (Winter Haven),Florida,87.0,3.6,3.6,3.4,3.2,3.1,3.0,4.0,3.1,3.3
 Milwaukee Career College,Wisconsin,2.0,1.0,2.0,1.0,1.0,1.5,1.0,2.1,1.0,1.5
 Florida Technical College Lakeland,Florida,1.0,2.0,2.0,3.0,1.0,2.0,4.0,2.7,1.0,1.0
-New Mexico Highlands University,New Mexico,4.0,2.8,3.8,4.0,3.0,1.8,1.5,4.5,2.8,3.3
-Chamberlain College of Nursing,Florida,7.0,3.7,3.9,3.7,4.1,3.1,3.3,4.0,3.0,3.1
-Trinity International University,Florida,1.0,3.0,3.0,4.0,3.0,2.0,4.0,3.8,2.0,3.0
-Stevenson University,Maryland,26.0,3.3,3.2,3.5,3.5,3.0,2.6,4.3,2.3,2.3
+New Mexico Highlands University (Rio Rancho),New Mexico,4.0,2.8,3.8,4.0,3.0,1.8,1.5,4.5,2.8,3.3
+Stevenson University (Owings Mills),Maryland,26.0,3.3,3.2,3.5,3.5,3.0,2.6,4.3,2.3,2.3
 Galen College of Nursing - Cincinnati,Ohio,5.0,4.4,4.0,4.8,3.8,3.6,3.8,5.0,1.8,4.4
 Ecumenical Theological Seminary,Michigan,3.0,3.3,3.3,4.3,3.7,2.7,3.0,5.0,2.0,3.0
 Kuyper College,Michigan,11.0,3.8,4.5,4.9,3.9,3.2,4.2,4.4,2.6,3.8
 Collins Career Center,Ohio,2.0,5.0,4.0,4.5,5.0,4.0,4.5,5.0,4.0,4.0
-Community College of Beaver County,Pennsylvania,1.0,4.0,3.0,5.0,5.0,1.0,5.0,5.0,1.0,5.0
-Central Arizona College,Arizona,6.0,4.3,4.7,4.5,4.2,3.2,3.3,5.0,3.8,3.7
+Community College of Beaver County (Beaver Falls),Pennsylvania,1.0,4.0,3.0,5.0,5.0,1.0,5.0,5.0,1.0,5.0
+Central Arizona College (Apache Junction),Arizona,6.0,4.3,4.7,4.5,4.2,3.2,3.3,5.0,3.8,3.7
 South University,Virginia,3.0,3.7,3.3,4.0,3.0,1.7,2.3,2.0,1.7,3.7
-Georgia Northwestern Technical College,Georgia,7.0,4.3,4.0,4.1,3.7,3.1,3.4,4.3,2.4,4.1
+Georgia Northwestern Technical College (Rome),Georgia,7.0,4.3,4.0,4.1,3.7,3.1,3.4,4.3,2.4,4.1
 Keiser University Pembroke Pines,Florida,10.0,3.1,3.1,2.1,2.8,1.6,1.6,4.0,1.6,2.6
 Upper Cape Tech,Massachusetts,3.0,5.0,4.7,5.0,5.0,4.7,4.7,5.0,4.7,4.3
-Northern Arizona University,Arizona,4.0,4.0,4.3,4.5,3.8,3.3,3.5,4.0,3.3,4.0
+Northern Arizona University (Yuma),Arizona,4.0,4.0,4.3,4.5,3.8,3.3,3.5,4.0,3.3,4.0
 High Desert Medical College,California,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0
 United Theological Seminary of the Twin Cities,Minnesota,2.0,3.0,2.5,4.0,4.0,2.5,2.5,5.0,3.5,3.5
 Western Technical College,Wisconsin,42.0,4.1,3.8,3.8,3.7,3.0,3.3,4.0,3.7,3.8
@@ -2715,19 +2589,16 @@ Interactive College of Technology,Georgia,3.0,1.0,1.7,1.3,1.0,1.0,1.0,1.0,1.3,2.
 Hobe Sound Bible College,Florida,6.0,4.2,4.8,3.7,3.7,2.2,3.5,5.0,3.7,3.0
 Northwestern Technological Institute,Michigan,1.0,1.0,3.0,5.0,5.0,1.0,3.0,5.0,2.0,3.0
 Embry-Riddle Aeronautical University Worldwide,Virginia,37.0,3.3,4.2,3.8,3.7,2.8,2.9,4.0,3.1,3.8
-Concorde Career College,California,3.0,3.0,1.7,2.3,3.0,1.3,2.7,4.0,2.0,2.3
-Central Michigan University,Georgia,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,2.5,4.5
 Adler Graduate School,Minnesota,3.0,3.3,3.3,3.7,4.3,4.0,4.0,4.0,2.3,4.7
 California Nurses Educational Institute,California,1.0,1.0,4.0,1.0,1.0,1.0,1.0,2.4,1.0,1.0
 White Mountains Community College,New Hampshire,3.0,3.3,3.0,3.7,3.0,1.7,3.3,4.3,4.7,3.3
-Wayland Baptist University,Texas,2.0,4.5,5.0,5.0,4.5,2.5,2.5,5.0,3.0,4.0
+Wayland Baptist University (Wichita Falls),Texas,2.0,4.5,5.0,5.0,4.5,2.5,2.5,5.0,3.0,4.0
 College of Court Reporting,Indiana,1.0,4.0,5.0,5.0,5.0,4.0,3.0,5.0,4.0,5.0
 Fortis College -Norfolk,Virginia,2.0,3.0,4.0,3.0,3.5,3.0,2.5,3.8,2.5,2.5
 American Career College,California,15.0,2.9,2.7,2.5,2.8,1.6,2.6,3.6,2.0,2.6
 Millennia Atlantic University,Florida,4.0,3.8,4.0,3.8,3.3,3.0,3.5,3.0,3.0,4.0
-Front Range Community College,Colorado,1.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,2.0,5.0
+Front Range Community College (Brighton),Colorado,1.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,2.0,5.0
 Hebrew Union College,New York,1.0,1.0,3.0,1.0,2.0,1.0,1.0,2.6,3.0,3.0
-Pima Medical Institute,Nevada,4.0,3.0,2.5,2.5,3.0,1.8,2.3,2.8,2.5,2.8
 American Institute,New Jersey,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0
 Mountwest Community & Technical College,West Virginia,9.0,3.3,3.7,3.3,3.6,2.6,2.8,4.8,4.0,3.4
 Mediatech Institute,Texas,1.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0,3.0,4.0
@@ -2735,80 +2606,67 @@ Michigan Institute of Aviation and Technology,Michigan,5.0,3.4,4.2,3.8,4.2,2.2,2
 LABI College,California,3.0,4.7,5.0,5.0,4.3,4.3,3.7,5.0,4.3,2.3
 University of New Mexico - Taos,New Mexico,4.0,2.5,3.3,2.5,2.0,1.8,2.0,5.0,2.0,3.0
 Automotive Training Center,Pennsylvania,1.0,2.0,2.0,3.0,2.0,1.0,1.0,3.1,1.0,1.0
-Mid-State Technical College,Wisconsin,3.0,5.0,5.0,5.0,5.0,4.0,4.3,5.0,4.0,5.0
 Mid America Nazarene University,Kansas,1.0,5.0,4.0,5.0,5.0,5.0,4.0,4.9,3.0,5.0
 McFatter Technical College,Florida,6.0,3.0,3.7,3.8,3.3,2.3,2.3,5.0,2.2,2.5
 Detroit Business Institute Downriver,Michigan,2.0,2.5,4.0,4.0,3.0,2.0,3.0,4.0,2.5,3.0
 Northwest Renewable Energy Institute,Washington,2.0,3.5,4.0,5.0,5.0,2.5,2.5,4.9,1.5,3.5
 Ecclesia College,Arkansas,4.0,2.3,3.5,2.5,2.5,1.3,2.0,3.3,2.0,2.3
-Culinary Institute of America,Texas,1.0,4.0,5.0,5.0,5.0,4.0,3.0,5.0,5.0,1.0
 Arizona Christian University,Arizona,17.0,3.0,3.3,3.2,3.3,3.2,3.2,3.7,2.5,2.4
 Richfield College,California,1.0,4.0,5.0,5.0,5.0,5.0,5.0,4.8,4.0,5.0
 California International University,California,1.0,3.0,4.0,5.0,5.0,3.0,4.0,4.4,3.0,3.0
-Texas Woman's University,Texas,7.0,4.0,4.4,3.9,3.6,3.0,2.9,5.0,3.4,3.6
 Thomas M. Cooley Law School,Florida,5.0,3.2,3.6,3.2,3.2,3.0,2.4,3.7,2.0,4.2
 Ivy Tech Community College - Valparaiso,Colorado,12.0,3.3,3.8,3.3,2.9,2.3,2.7,4.4,2.3,3.7
-Herzing University,Wisconsin,2.0,1.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.5
-Thomas M. Cooley Law School,Michigan,2.0,5.0,5.0,5.0,4.5,4.5,4.0,5.0,1.0,5.0
 Manatee Technical College,Florida,7.0,3.3,3.7,3.7,4.1,2.1,2.6,4.5,3.4,2.3
-Universal Technical Institute,California,5.0,2.8,2.2,2.6,2.2,2.0,2.0,5.0,2.0,2.6
 Richmont Graduate University,Georgia,3.0,4.0,3.7,4.7,4.3,1.3,4.0,4.0,2.3,4.0
-Tacoma Community College,Washington,1.0,4.0,5.0,5.0,4.0,2.0,2.0,5.0,3.0,5.0
+Tacoma Community College (Gig Harbor),Washington,1.0,4.0,5.0,5.0,4.0,2.0,2.0,5.0,3.0,5.0
 Aviation Institute of Maintenance,Georgia,4.0,3.5,3.3,3.5,4.0,1.5,3.5,4.3,3.8,3.0
 Tysons College,Virginia,3.0,4.3,4.7,4.3,4.3,4.3,4.0,4.6,4.0,4.3
 The Wright Institute,California,2.0,3.5,5.0,4.5,4.5,4.5,4.5,4.0,4.0,3.5
-University of Alaska Southeast,Alaska,1.0,2.0,2.0,2.0,2.0,1.0,2.0,4.0,3.0,3.0
+University of Alaska Southeast (Sitka),Alaska,1.0,2.0,2.0,2.0,2.0,1.0,2.0,4.0,3.0,3.0
 Roseman University of Health Sciences,Utah,6.0,3.7,4.2,4.3,4.2,3.2,2.8,4.5,2.3,4.2
-Central Arizona College,Arizona,1.0,3.0,2.0,1.0,2.0,3.0,2.0,2.4,1.0,3.0
-University of Alaska Southeast,Alaska,4.0,2.8,3.3,2.5,2.3,1.3,1.5,5.0,1.8,3.3
+Central Arizona College (Casa Grande),Arizona,1.0,3.0,2.0,1.0,2.0,3.0,2.0,2.4,1.0,3.0
+University of Alaska Southeast (Ketchikan),Alaska,4.0,2.8,3.3,2.5,2.3,1.3,1.5,5.0,1.8,3.3
 Stautzenberger College,Ohio,1.0,2.0,3.0,1.0,4.0,1.0,1.0,4.0,1.0,1.0
 Louisiana State University Health Science Center,Louisiana,4.0,3.8,4.3,3.5,3.5,3.3,3.3,1.0,4.0,3.3
-Westmoreland County Community College,Pennsylvania,1.0,5.0,4.0,5.0,4.0,2.0,2.0,5.0,1.0,4.0
-Snow College,Utah,1.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,3.0,5.0
-Eastern New Mexico University,New Mexico,2.0,4.0,4.5,4.5,3.0,3.0,4.0,4.4,3.0,4.0
+Snow College (Richfield),Utah,1.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,3.0,5.0
+Eastern New Mexico University (Ruidoso),New Mexico,2.0,4.0,4.5,4.5,3.0,3.0,4.0,4.4,3.0,4.0
 New York College of Traditional Chinese Medicine,Florida,5.0,2.8,2.6,1.8,2.2,1.2,2.0,2.8,1.6,3.6
 Hawaii Medical College,Hawaii,1.0,3.0,4.0,1.0,2.0,1.0,1.0,3.2,2.0,4.0
-Indian River State College,Florida,33.0,3.9,4.2,4.0,3.8,2.9,3.5,4.7,3.0,4.1
 St. Elizabeth School of Nursing,Indiana,2.0,4.0,4.5,5.0,4.5,2.0,2.5,4.0,2.5,3.5
 Midwestern Career College,Illinois,3.0,2.7,3.3,3.0,3.0,1.0,2.7,2.5,2.0,2.0
 Athena Career Academy,Ohio,4.0,4.3,4.3,4.5,4.8,3.0,3.3,5.0,3.5,4.5
 Long Island Beauty School,Pennsylvania,1.0,1.0,3.0,1.0,2.0,1.0,1.0,5.0,1.0,3.0
 Rosalind Franklin University of Medicine and Science,Illinois,5.0,3.8,3.6,3.2,3.6,3.0,3.2,3.0,3.6,3.4
 American Institute of Alternative Medicine,Ohio,4.0,1.5,2.5,2.0,2.0,1.3,1.5,2.7,1.8,1.3
-Columbia Gorge Community College,Oregon,2.0,4.5,4.5,5.0,4.0,3.5,4.5,4.8,3.0,4.5
-Vaughn College of Aeronautics and Technology,New York,5.0,2.8,2.4,2.4,3.2,3.0,2.2,2.0,2.2,2.4
-University of Arizona,Arizona,2.0,3.0,2.5,3.0,3.0,2.0,3.0,2.5,2.5,2.5
-Northern Arizona University,Arizona,10.0,4.3,4.1,4.3,3.9,3.7,3.7,4.3,3.1,3.8
+Columbia Gorge Community College (Hood river),Oregon,2.0,4.5,4.5,5.0,4.0,3.5,4.5,4.8,3.0,4.5
+Vaughn College of Aeronautics and Technology (Flushing),New York,5.0,2.8,2.4,2.4,3.2,3.0,2.2,2.0,2.2,2.4
+University of Arizona (Phoenix),Arizona,2.0,3.0,2.5,3.0,3.0,2.0,3.0,2.5,2.5,2.5
+Northern Arizona University (Phoenix),Arizona,10.0,4.3,4.1,4.3,3.9,3.7,3.7,4.3,3.1,3.8
 Virginia Peninsula Community College,Virginia,22.0,3.9,4.0,3.5,3.4,2.4,2.5,4.6,1.8,3.9
-County College of Morris,New Jersey,8.0,3.9,4.1,4.3,4.3,3.8,3.4,2.7,3.0,3.3
-Sacramento City College,California,6.0,3.7,4.0,4.2,3.8,2.8,3.5,3.5,3.0,3.5
+County College of Morris (Morristown),New Jersey,8.0,3.9,4.1,4.3,4.3,3.8,3.4,2.7,3.0,3.3
+Sacramento City College (West Sacramento),California,6.0,3.7,4.0,4.2,3.8,2.8,3.5,3.5,3.0,3.5
 Research College of Nursing,Missouri,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0
 Arizona State University,Arizona,52.0,3.8,3.8,3.7,4.0,3.7,3.7,3.4,3.2,3.8
-Northern Arizona University,Arizona,2.0,3.0,4.0,3.5,3.0,3.0,3.0,2.0,2.5,2.5
+Northern Arizona University (East Valley),Arizona,2.0,3.0,4.0,3.5,3.0,3.0,3.0,2.0,2.5,2.5
 American Samoa Community College,Hawaii,5.0,2.0,4.2,3.0,3.0,4.6,4.4,3.8,2.8,1.4
 ATS Institute of Technology,Illinois,1.0,3.0,4.0,1.0,3.0,1.0,1.0,3.0,3.0,2.0
-Mercer County Community College,New Jersey,2.0,4.5,5.0,5.0,4.5,4.0,3.5,4.5,3.5,4.0
-Northern Arizona University,Arizona,14.0,3.4,4.4,3.1,2.6,3.1,3.4,3.7,2.6,3.1
+Northern Arizona University (Online),Arizona,14.0,3.4,4.4,3.1,2.6,3.1,3.4,3.7,2.6,3.1
 ITI Technical College,Louisiana,2.0,2.0,2.5,2.0,3.5,1.0,3.5,4.5,1.0,3.0
 Frontier Nursing University,Kentucky,10.0,2.4,2.6,1.9,2.8,2.2,3.0,3.3,2.3,2.7
 University of Atlanta,Georgia,1.0,3.0,5.0,5.0,4.0,4.0,4.0,4.6,4.0,3.0
 Southwest Institute of Healing Arts,Arizona,3.0,4.7,4.0,5.0,3.7,3.3,3.7,4.9,4.3,4.0
 Hawaii Tokai International College,Hawaii,4.0,3.5,4.0,4.0,3.5,3.5,3.8,5.0,3.3,3.8
-University of Charleston,South Carolina,2.0,4.5,4.0,3.5,4.5,2.5,3.0,5.0,3.0,4.5
-Chamberlain College of Nursing,Texas,8.0,2.4,3.3,2.1,2.8,2.3,2.3,4.0,1.8,3.3
 Maryland University of Integrative Health,Maryland,10.0,3.6,3.7,3.0,2.8,2.1,2.5,4.6,2.9,3.1
 The Colleges of Law,California,1.0,2.0,4.0,2.0,4.0,1.0,1.0,3.0,1.0,3.0
 Worsham College,Illinois,4.0,3.8,3.3,4.3,4.0,1.5,3.8,4.7,2.8,3.3
 Central School of Practical Nursing,Ohio,1.0,4.0,5.0,5.0,4.0,1.0,3.0,5.0,3.0,4.0
-Northern Essex Community College,Texas,6.0,3.5,3.7,3.5,3.8,3.3,4.0,5.0,2.2,3.2
 Eastern International College,New Jersey,8.0,3.4,3.3,3.6,3.6,2.5,4.0,4.5,1.9,3.0
-Keiser University,Florida,5.0,3.0,4.4,2.8,3.8,2.4,2.6,2.5,2.4,4.0
+Keiser University (Ft Myers),Florida,5.0,3.0,4.4,2.8,3.8,2.4,2.6,2.5,2.4,4.0
 Eastern Iowa Community Colleges,Texas,1.0,3.0,5.0,5.0,4.0,3.0,4.0,4.0,3.0,3.0
 Northshore Technical Community College,Louisiana,10.0,2.6,3.8,3.7,2.8,2.3,2.4,4.4,2.3,3.1
 New York Medical Career Training Center,New York,1.0,4.0,5.0,5.0,5.0,4.0,5.0,4.8,5.0,4.0
 Logan University,Michigan,5.0,3.8,3.6,3.6,3.6,3.6,3.0,4.3,3.2,3.8
 Galen College of Nursing - San Antonio,California,10.0,3.5,4.0,3.4,3.1,2.0,2.4,4.4,2.7,3.6
-Robert Morris University,Pennsylvania,6.0,4.8,3.5,5.0,4.7,4.0,4.0,5.0,3.8,3.2
 Fletcher Technical Community College,Louisiana,6.0,4.5,4.3,4.2,4.3,3.2,3.8,4.6,3.8,4.0
 Atlantis University,Oregon,1.0,3.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,3.0
 Avenue Five Institute,Texas,1.0,4.0,4.0,5.0,5.0,5.0,5.0,4.5,4.0,3.0
@@ -2822,13 +2680,12 @@ Mercy Hospital School of Practical Nursing,Florida,1.0,5.0,4.0,4.0,4.0,3.0,4.0,4
 Southern University and A&M College,Florida,51.0,3.4,3.3,4.0,3.7,4.1,4.1,3.6,3.7,3.1
 Christian International College,Florida,1.0,3.0,3.0,1.0,2.0,1.0,1.0,2.7,2.0,2.0
 Pacific States University,Arizona,1.0,4.0,5.0,4.0,4.0,3.0,3.0,3.0,4.0,5.0
-New Mexico Highlands University,New Mexico,5.0,2.0,3.6,3.8,3.4,1.4,2.4,4.3,1.2,2.2
+New Mexico Highlands University (Albuquerque Campus),New Mexico,5.0,2.0,3.6,3.8,3.4,1.4,2.4,4.3,1.2,2.2
 Fortis College,Florida,12.0,3.3,3.2,3.2,2.9,1.6,3.0,5.0,2.9,3.3
-North Central Texas College,Texas,2.0,4.0,4.5,3.5,3.5,3.0,3.5,5.0,4.5,5.0
-Spartanburg Community College,South Carolina,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+North Central Texas College (Graham),Texas,2.0,4.0,4.5,3.5,3.5,3.0,3.5,5.0,4.5,5.0
+Spartanburg Community College (Gaffney),South Carolina,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Sessions College for Professional Design,Illinois,2.0,4.0,4.5,4.0,4.0,4.0,4.0,4.0,4.0,4.5
 Tennessee College of Applied Technology - Knoxville,Tennessee,1.0,2.0,3.0,4.0,4.0,1.0,4.0,3.8,3.0,3.0
-Central Arizona College,Arizona,4.0,4.0,4.0,4.0,4.0,2.8,3.0,4.0,3.5,3.5
 Gwinnett College,Georgia,1.0,1.0,3.0,3.0,3.0,1.0,2.0,3.1,1.0,2.0
 City College- Altamonte Springs,Florida,7.0,4.4,4.4,4.7,4.9,3.0,3.7,5.0,2.7,3.0
 AMG School of Nursing,New York,6.0,2.2,3.5,2.3,2.2,1.8,2.3,3.0,1.8,2.7
@@ -2839,70 +2696,55 @@ Herzing University-Kenosha,Michigan,7.0,1.7,2.0,2.3,2.3,1.7,1.4,4.0,1.4,1.9
 Alaska Career College,Alaska,2.0,1.5,2.0,2.5,2.0,1.0,2.0,3.0,1.0,3.0
 Horry Georgetown Technical College,South Carolina,6.0,3.8,4.3,4.0,3.8,2.0,3.0,4.8,3.2,4.0
 William Peace University,West Virginia,18.0,3.4,4.5,3.8,3.8,3.3,3.2,4.1,2.7,3.1
-Navarro College,Colorado,5.0,3.4,3.2,3.6,2.6,1.2,2.6,5.0,1.8,3.8
 Alabama College Of Osteopathic Medicine,Alabama,6.0,3.7,2.5,2.7,2.2,3.3,3.0,3.3,3.0,4.3
 Washington Technology Institute,Washington,1.0,3.0,3.0,4.0,4.0,1.0,3.0,4.2,3.0,4.0
 Florida Polytechnic University,Florida,87.0,3.7,2.7,3.5,3.6,3.1,2.6,4.7,2.5,3.4
-Roseman University of Health Sciences,Nevada,1.0,5.0,5.0,3.0,4.0,2.0,2.0,5.0,2.0,5.0
-Pensacola State College,Florida,5.0,3.2,3.8,3.6,3.6,1.6,2.0,4.3,3.0,2.8
+Pensacola State College (Gulf Breeze),Florida,5.0,3.2,3.8,3.6,3.6,1.6,2.0,4.3,3.0,2.8
 Iowa Valley Community College,Iowa,1.0,4.0,5.0,3.0,5.0,1.0,1.0,5.0,4.0,5.0
 Guttman Community College,New York,23.0,2.7,4.3,2.9,3.4,1.9,2.9,4.3,2.2,4.1
 California University of Management and Sciences,California,4.0,4.8,5.0,5.0,4.8,4.0,4.3,5.0,4.0,4.5
-Chamberlain College of Nursing,Indiana,1.0,3.0,5.0,4.0,4.0,3.0,3.0,4.0,3.0,3.0
 Tennessee College of Applied Technology - Dickson,Tennessee,1.0,3.0,3.0,1.0,1.0,1.0,1.0,2.6,1.0,1.0
 Sri Sai Krish Institute,California,1.0,3.0,3.0,1.0,3.0,1.0,1.0,3.0,1.0,1.0
 Institute of Lutheran Theology,South Dakota,1.0,2.0,3.0,3.0,2.0,1.0,1.0,5.0,2.0,4.0
-Central New Mexico Community College,New Mexico,3.0,4.7,4.3,5.0,5.0,3.3,4.3,5.0,3.3,5.0
 Western Iowa Tech,Texas,2.0,5.0,3.0,5.0,4.5,5.0,5.0,5.0,3.0,5.0
 Northwest Louisiana Technical College,Louisiana,10.0,3.3,3.8,3.3,3.9,2.5,2.9,3.2,2.3,3.7
 Lancaster County Career & Technology Center,Pennsylvania,2.0,2.5,2.5,2.5,2.5,1.5,2.0,1.0,3.0,1.5
 Suncoast Technical College,Indiana,8.0,2.9,3.6,2.3,2.6,1.6,2.6,3.9,2.4,2.8
 Tennessee College of Applied Technology - Elizabethton,Tennessee,4.0,2.5,2.5,2.8,3.0,1.5,2.0,4.0,1.0,2.5
 HCI College,Florida,3.0,2.3,2.7,2.3,2.3,1.0,2.7,4.0,2.3,2.0
-Community College of Allegheny County,Pennsylvania,13.0,3.1,3.5,2.9,3.1,2.6,2.6,4.0,2.8,3.5
+Community College of Allegheny County (Monroeville),Pennsylvania,13.0,3.1,3.5,2.9,3.1,2.6,2.6,4.0,2.8,3.5
 American Islamic College,Illinois,2.0,3.0,4.0,3.0,3.5,2.5,2.5,3.7,2.5,2.0
-Siena Heights University,Michigan,1.0,4.0,5.0,5.0,2.0,1.0,2.0,5.0,1.0,3.0
 East West College of Natural Medicine,Florida,2.0,3.5,3.0,4.5,4.5,3.0,3.5,4.0,4.5,5.0
 Jose Maria Vargas University,Florida,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Ambria College of Nursing,Illinois,7.0,2.4,3.0,1.7,1.6,1.1,1.1,2.2,1.1,3.0
 Culinary Institute LeNotre,Texas,1.0,2.0,1.0,3.0,5.0,2.0,2.0,4.0,5.0,3.0
 Welch College,Tennessee,2.0,4.5,5.0,5.0,4.5,3.0,3.5,5.0,3.5,4.0
-Touro University Worldwide,Kentucky,1.0,1.0,5.0,5.0,5.0,1.0,1.0,5.0,1.0,5.0
 Fortis Institute in Nashville,Tennessee,2.0,2.0,3.0,3.5,3.5,1.0,2.5,2.0,1.0,1.5
 Los Angeles College of Music,Arizona,1.0,2.0,4.0,4.0,3.0,2.0,4.0,4.0,3.0,1.0
 Nightingale College,Illinois,12.0,2.6,2.9,2.0,2.4,2.3,2.4,2.6,2.6,2.9
 University of the People,Arizona,44.0,3.4,4.3,3.8,3.7,3.0,3.6,4.2,3.3,4.2
-Eastern Kentucky University,Kentucky,8.0,3.8,3.5,4.0,4.0,2.9,3.5,4.4,2.9,2.9
+Eastern Kentucky University (Corbin),Kentucky,8.0,3.8,3.5,4.0,4.0,2.9,3.5,4.4,2.9,2.9
 National Park College,North Carolina,7.0,3.1,3.0,2.9,2.1,2.3,1.9,4.0,2.6,2.1
-Moberly Area Community College,Missouri,1.0,4.0,4.0,5.0,4.0,2.0,3.0,5.0,3.0,4.0
 Georgia Institute of Cosmetology,Texas,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-San Joaquin Valley College,California,1.0,3.0,3.0,4.0,4.0,3.0,3.0,5.0,4.0,3.0
 East Valley Institute of Technology,Arizona,3.0,3.7,3.0,4.0,4.0,1.3,3.7,4.0,4.0,4.0
 Georgia Military College - Fairburn,California,3.0,3.3,2.7,3.7,4.0,2.7,4.7,3.7,3.0,4.3
 Midwives College of Utah,Utah,2.0,2.0,3.0,3.5,2.5,3.5,3.0,3.5,3.0,3.0
-University of St. Augustine,California,2.0,2.0,3.5,2.5,3.0,1.5,2.5,4.0,1.0,3.5
-River Parishes Community College,North Carolina,13.0,2.8,3.4,2.5,2.3,1.8,1.7,3.1,1.3,3.0
 ATA Career Education,Florida,1.0,5.0,4.0,4.0,5.0,3.0,3.0,4.0,3.0,5.0
 New Professions Technical Institute,Florida,1.0,2.0,4.0,1.0,2.0,1.0,1.0,4.0,1.0,2.0
 Sofia University,California,5.0,3.2,3.8,4.6,3.8,3.0,3.2,5.0,3.4,3.6
 Charleston School of Beauty Culture,West Virginia,1.0,2.0,1.0,1.0,3.0,1.0,2.0,2.3,1.0,1.0
-Tri-County Technical College,South Carolina,1.0,4.0,4.0,5.0,4.0,1.0,4.0,4.0,1.0,5.0
-Northern Arizona University,Arizona,1.0,5.0,4.0,3.0,4.0,3.0,3.0,3.0,1.0,3.0
+Tri-County Technical College (Easley),South Carolina,1.0,4.0,4.0,5.0,4.0,1.0,4.0,4.0,1.0,5.0
+Northern Arizona University (Prescott Valley),Arizona,1.0,5.0,4.0,3.0,4.0,3.0,3.0,3.0,1.0,3.0
 Contra Costa Medical Career College,Virginia,1.0,4.0,4.0,4.0,5.0,5.0,4.0,5.0,4.0,4.0
-Northland Pioneer College,Arizona,5.0,2.8,3.6,3.0,2.6,1.2,1.8,4.3,2.2,3.2
-William Jessup University,California,6.0,3.3,4.0,4.3,3.5,1.7,3.2,4.4,3.7,3.8
-Cosumnes River College,California,7.0,4.4,4.1,4.6,4.6,3.9,4.0,4.2,2.9,4.4
-Jefferson State Community College,Alabama,5.0,3.0,3.4,3.2,3.0,2.8,2.6,4.3,1.8,2.8
-New England Institute of Technology,Rhode Island,7.0,4.3,3.7,3.9,3.9,3.3,3.6,4.2,3.6,4.3
-Chamberlain College of Nursing,Michigan,10.0,4.0,3.9,3.2,4.1,2.8,2.8,4.6,2.5,3.7
+Northland Pioneer College (Show Low),Arizona,5.0,2.8,3.6,3.0,2.6,1.2,1.8,4.3,2.2,3.2
+William Jessup University (San Jose),California,6.0,3.3,4.0,4.3,3.5,1.7,3.2,4.4,3.7,3.8
 Southeastern College - Miami Lakes,Florida,1.0,3.0,4.0,3.0,3.0,1.0,1.0,3.0,3.0,3.0
 Institute of Health Sciences,Maryland,1.0,2.0,2.0,2.0,3.0,1.0,2.0,3.0,3.0,4.0
-Georgia Northwestern Technical College,Georgia,3.0,3.3,3.7,2.7,2.7,2.0,1.0,4.0,2.3,3.0
+Georgia Northwestern Technical College (Dalton),Georgia,3.0,3.3,3.7,2.7,2.7,2.0,1.0,4.0,2.3,3.0
 Chamberlain College of Nursing - Tinley Park,Illinois,4.0,4.8,4.8,4.8,5.0,2.5,3.3,5.0,3.0,4.3
 Lincoln Technical Institute,New Jersey,4.0,1.0,2.8,1.0,1.3,1.0,1.0,1.5,1.0,1.0
 IGlobal University,Virginia,2.0,2.5,3.5,2.5,2.5,2.5,3.5,5.0,3.0,3.5
 Ohio Institute of Allied Health,Michigan,1.0,2.0,5.0,5.0,5.0,1.0,3.0,5.0,1.0,2.0
-Columbia State Community College,Tennessee,1.0,2.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0
 Finger Lakes Health College of Nursing,New York,4.0,2.8,3.3,2.5,2.8,2.3,2.5,4.3,3.5,3.3
 Salina Area Technical College,Kansas,2.0,3.0,4.0,4.0,3.0,3.0,3.5,4.5,3.5,4.0
 Arizona State University - Lake Havasu,Arizona,5.0,3.2,3.8,3.8,3.0,2.6,3.2,4.8,3.0,3.4
@@ -2910,9 +2752,7 @@ Oregon State University - Cascades,Oregon,15.0,3.6,3.9,3.5,2.8,2.1,2.4,4.5,3.3,4
 East Georgia State College - Augusta,Georgia,7.0,2.6,3.6,2.3,2.1,1.4,2.0,4.6,2.9,2.0
 Southern Regional Technical College,Georgia,1.0,2.0,4.0,4.0,4.0,3.0,2.0,4.0,2.0,3.0
 Middle Tennessee School of Anesthesia,Tennessee,2.0,1.5,2.5,1.0,2.0,1.0,2.5,2.0,1.0,4.0
-Pima Medical Institute,Arizona,2.0,5.0,4.5,5.0,4.5,1.0,2.5,5.0,3.5,2.5
-Black Hills State University,South Dakota,2.0,3.0,4.0,4.0,3.0,3.0,4.0,5.0,3.5,4.5
-Pima Medical Institute,Washington,1.0,3.0,4.0,1.0,2.0,1.0,2.0,1.0,4.0,2.0
+Black Hills State University (Rapid City),South Dakota,2.0,3.0,4.0,4.0,3.0,3.0,4.0,5.0,3.5,4.5
 Burrell College of Osteopathic Medicine,New Mexico,5.0,4.4,4.6,4.2,4.0,2.8,4.0,4.8,3.2,3.6
 Pennsylvania Academy of the Fine Arts,Pennsylvania,17.0,2.1,2.8,1.5,1.5,1.0,1.4,2.2,1.0,3.5
 Eastern Virginia Career College,Virginia,2.0,3.5,4.5,3.5,3.5,3.0,3.0,3.5,5.0,5.0
@@ -2920,31 +2760,25 @@ New York School of Design,New York,1.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,3.0,4.0
 Trinity College of Nursing & Health Sciences,Illinois,8.0,1.6,3.0,1.6,2.4,1.4,1.9,4.4,1.3,3.1
 Kentucky Mountain Bible College,Kentucky,1.0,4.0,4.0,5.0,4.0,1.0,4.0,5.0,4.0,4.0
 Chamberlain College of Nursing - Sacramento,California,3.0,4.3,4.3,3.7,4.3,4.7,4.0,5.0,3.0,4.0
-University of St. Augustine,Florida,3.0,2.0,3.3,1.3,1.0,1.7,1.3,2.7,1.3,3.3
+University of St. Augustine (Miami),Florida,3.0,2.0,3.3,1.3,1.0,1.7,1.3,2.7,1.3,3.3
 Cambridge College of Healthcare & Technology - Delray,Florida,2.0,3.0,3.0,3.0,3.0,1.0,3.0,3.0,1.0,3.0
-Central Georgia Technical College,Georgia,3.0,3.3,3.3,4.3,3.3,3.3,3.3,4.0,3.3,2.0
-Fortis College,Ohio,1.0,2.0,3.0,2.0,3.0,2.0,2.0,3.0,4.0,3.0
+Central Georgia Technical College (Warner Robins),Georgia,3.0,3.3,3.3,4.3,3.3,3.3,3.3,4.0,3.3,2.0
 Midwest College of Oriental Medicine,Wisconsin,2.0,1.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-College of Southern Maryland,Maryland,7.0,3.1,3.3,2.1,2.6,1.6,2.4,3.7,1.9,2.3
 Brooklyn College Feirstein Graduate School of Cinema,New York,4.0,3.3,2.5,3.0,3.0,2.0,3.8,3.3,1.5,3.8
-South Puget Sound Community College,Washington,8.0,4.4,4.5,4.5,4.0,3.8,4.0,4.3,3.6,3.9
+South Puget Sound Community College (Lacey),Washington,8.0,4.4,4.5,4.5,4.0,3.8,4.0,4.3,3.6,3.9
 Jones Technical Institute,Florida,2.0,3.0,3.0,3.0,3.0,2.0,2.0,3.0,2.0,3.0
-Keiser University,Florida,4.0,3.3,4.5,4.5,3.3,3.0,3.0,4.5,3.0,3.3
 American College of Acupuncture & Oriental Medicine,Texas,1.0,2.0,3.0,4.0,5.0,1.0,2.0,5.0,4.0,4.0
 California Health Sciences University,California,1.0,3.0,3.0,3.0,3.0,3.0,3.0,4.0,1.0,2.0
 Pickens Technical College,Colorado,2.0,4.0,3.0,4.0,4.0,1.0,3.5,4.0,4.0,3.0
-Collin College,Michigan,3.0,5.0,4.7,2.7,3.7,3.3,3.0,4.3,2.3,4.7
-Gavilan College,California,2.0,1.5,2.5,1.5,1.5,1.5,1.5,1.5,1.5,2.0
+Gavilan College (Morgan Hill),California,2.0,1.5,2.5,1.5,1.5,1.5,1.5,1.5,1.5,2.0
 SUNY Westchester Community College,Texas,3.0,4.0,4.0,3.3,4.3,4.0,4.0,4.0,4.3,3.7
-Gannon University,Florida,2.0,1.0,2.5,2.0,2.0,1.0,2.0,3.0,1.0,2.0
-Samuel Merritt University,California,2.0,1.5,2.0,1.0,2.0,1.0,1.0,2.5,2.0,1.5
-Central Virginia Community College,Virginia,1.0,3.0,4.0,3.0,5.0,1.0,3.0,5.0,3.0,4.0
+Samuel Merritt University (Sacramento),California,2.0,1.5,2.0,1.0,2.0,1.0,1.0,2.5,2.0,1.5
+Central Virginia Community College (Bedford),Virginia,1.0,3.0,4.0,3.0,5.0,1.0,3.0,5.0,3.0,4.0
 National University of Natural Medicine,Oregon,2.0,4.0,4.5,4.0,4.0,4.0,4.0,5.0,4.0,5.0
 University of Arkansas for Medical Sciences,Arkansas,1.0,2.0,3.0,2.0,3.0,1.0,1.0,2.0,2.0,3.0
-Allan Hancock College,California,5.0,4.0,4.2,4.0,3.6,2.6,2.4,4.4,3.2,4.2
-Monterey Peninsula College,California,5.0,5.0,5.0,4.8,4.6,3.8,4.6,5.0,3.8,4.8
+Monterey Peninsula College (Marina),California,5.0,5.0,5.0,4.8,4.6,3.8,4.6,5.0,3.8,4.8
 Samaritan Hospital School of Nursing,New York,2.0,3.0,4.0,3.5,3.0,1.0,3.5,4.5,2.0,3.5
-Central Oregon Community College,Oregon,1.0,4.0,5.0,4.0,5.0,5.0,3.0,5.0,4.0,4.0
+Central Oregon Community College (Redmond),Oregon,1.0,4.0,5.0,4.0,5.0,5.0,3.0,5.0,4.0,4.0
 Coastal Alabama Community College,Alabama,4.0,3.8,3.8,3.3,3.3,2.5,2.8,4.8,3.5,3.5
 CBD College,California,2.0,3.5,4.0,4.0,4.5,3.0,4.0,3.5,2.5,4.0
 Central Coast College,California,1.0,3.0,4.0,4.0,4.0,1.0,4.0,4.0,3.0,3.0
@@ -2952,18 +2786,13 @@ Shepherds Theological Seminary,North Carolina,1.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.
 College of Eastern Idaho,Idaho,8.0,3.8,4.5,4.5,4.0,3.5,3.6,4.4,3.6,4.5
 Concorde Career College - San Antonio,Texas,2.0,3.5,4.0,4.5,4.5,3.0,4.5,4.5,3.0,3.5
 Saint Charles Borromeo Seminary,Pennsylvania,2.0,3.0,4.5,4.0,4.0,2.0,4.0,2.5,2.0,1.0
-Motlow State Community College,Tennessee,2.0,1.0,2.5,1.0,1.0,1.5,1.5,2.0,1.0,3.0
-Nashville State Community College,Tennessee,1.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0
+Motlow State Community College (Fayetteville),Tennessee,2.0,1.0,2.5,1.0,1.0,1.5,1.5,2.0,1.0,3.0
+Nashville State Community College (Dickson),Tennessee,1.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0
 Kenneth Shuler School of Cosmetology,South Carolina,1.0,5.0,5.0,2.0,1.0,1.0,5.0,1.0,1.0,5.0
-Northcentral University,California,1.0,3.0,3.0,2.0,1.0,4.0,3.0,2.0,3.0,4.0
-Coastal Alabama Community College,Alabama,4.0,4.5,4.5,4.3,4.5,3.5,4.3,4.8,3.8,4.0
-Virginia Wesleyan University,Virginia,4.0,4.0,4.0,3.5,4.3,3.8,3.8,4.3,3.5,4.3
+Virginia Wesleyan University (Virginia Beach),Virginia,4.0,4.0,4.0,3.5,4.3,3.8,3.8,4.3,3.5,4.3
 Salus University,Pennsylvania,5.0,3.4,3.2,3.2,3.2,3.0,2.8,3.8,3.6,4.0
-University of North Texas at Dallas,California,9.0,3.3,4.1,3.6,3.7,3.1,3.1,3.6,2.8,4.1
 Sonoran Desert Institute,Arizona,4.0,2.3,3.5,2.3,2.8,1.8,2.0,3.5,2.5,2.3
-Aims Community College,Colorado,2.0,5.0,5.0,5.0,4.0,4.0,4.5,4.5,5.0,4.0
 Tennessee College of Applied Technology - Memphis,Michigan,2.0,2.5,3.0,1.5,2.5,1.0,3.0,4.0,1.0,2.0
-Gwinnett Technical College,Georgia,7.0,3.9,3.6,3.0,3.1,3.4,2.9,3.6,2.7,3.6
 Sumner College,Oregon,2.0,3.5,4.5,4.0,3.5,3.0,2.5,5.0,1.0,3.0
 Downey Adult School,New Mexico,1.0,3.0,5.0,4.0,4.0,2.0,2.0,5.0,2.0,4.0
 Lorenzo Walker Technical College,Florida,2.0,4.5,3.5,4.5,5.0,1.0,4.5,5.0,4.0,3.0
@@ -2972,15 +2801,14 @@ SAE Institute - Chicago,Illinois,1.0,4.0,4.0,5.0,5.0,3.0,4.0,4.0,4.0,5.0
 Vet Tech Institute,Pennsylvania,1.0,4.0,3.0,5.0,5.0,4.0,3.0,5.0,2.0,5.0
 Paul Mitchell The School - Austin,Texas,1.0,2.0,3.0,1.0,2.0,2.0,2.0,2.0,1.0,3.0
 Advanced Training Institute,Nevada,1.0,3.0,3.0,2.0,4.0,1.0,1.0,3.0,1.0,3.0
-Florida SouthWestern State College,Florida,4.0,3.5,4.0,3.8,3.8,3.8,3.8,4.3,3.5,3.5
 Pima Medical Institute,California,26.0,4.5,4.4,4.7,4.7,3.8,4.2,4.8,4.0,3.9
 Navajo Technical University,Texas,2.0,3.5,3.5,3.0,3.5,3.5,3.5,4.0,5.0,3.5
 Wichita Technical Institute,Kansas,2.0,2.5,2.5,2.5,4.5,1.0,2.0,5.0,2.0,2.0
-Dyersburg State Community College,Tennessee,3.0,3.7,4.0,3.7,4.0,4.0,3.3,5.0,4.0,3.7
+Dyersburg State Community College (Covington),Tennessee,3.0,3.7,4.0,3.7,4.0,4.0,3.3,5.0,4.0,3.7
 Fortis Institute in Pensacola,Florida,1.0,1.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0
 University of Colorado College of Nursing,Colorado,2.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Pacific Bible College,Oregon,1.0,4.0,4.0,5.0,4.0,3.0,3.0,4.0,3.0,4.0
-Lanier Technical College,Georgia,2.0,3.0,4.0,4.0,4.0,2.5,3.5,5.0,2.5,3.0
+Lanier Technical College (Dawsonville),Georgia,2.0,3.0,4.0,4.0,4.0,2.5,3.5,5.0,2.5,3.0
 Independence University,Utah,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Ivy Tech College - Lake County,Indiana,3.0,3.7,4.0,4.3,4.0,2.7,3.0,4.0,2.7,4.0
 Orange Technical College,Florida,1.0,2.0,3.0,3.0,3.0,1.0,3.0,4.0,2.0,2.0
@@ -2996,88 +2824,76 @@ University of New Mexico - Valencia,New Mexico,2.0,4.5,4.0,4.0,4.5,3.0,3.0,4.5,2
 Institute for Business & Technology,California,2.0,4.5,4.0,3.5,3.5,3.5,4.5,4.5,4.0,4.0
 Platt College - Anaheim,California,2.0,1.0,3.0,1.5,1.5,1.0,1.0,1.0,1.0,1.0
 Arizona College of Nursing - Las Vegas,Nevada,3.0,3.3,3.0,4.3,4.7,3.7,3.0,4.3,2.7,4.0
-Weatherford College,Texas,1.0,5.0,5.0,3.0,5.0,2.0,2.0,4.0,3.0,3.0
-Chattahoochee Technical College,Georgia,7.0,3.7,3.7,3.1,3.1,1.7,2.1,4.4,1.7,3.7
+Weatherford College (Granbury),Texas,1.0,5.0,5.0,3.0,5.0,2.0,2.0,4.0,3.0,3.0
+Chattahoochee Technical College (Acworth),Georgia,7.0,3.7,3.7,3.1,3.1,1.7,2.1,4.4,1.7,3.7
 Jersey College Nursing College,New Jersey,3.0,4.0,4.0,4.0,3.7,2.0,2.7,4.0,1.3,2.7
-Coastal Alabama Community College,Alabama,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Aims Community College,Colorado,1.0,4.0,2.0,3.0,2.0,2.0,1.0,2.0,1.0,2.0
+Coastal Alabama Community College (Gulf Shores),Alabama,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Aims Community College (Loveland),Colorado,1.0,4.0,2.0,3.0,2.0,2.0,1.0,2.0,1.0,2.0
 St. John's University,New York,4.0,4.0,3.8,3.3,3.5,4.3,3.3,3.5,3.5,4.3
 Hallmark University,Texas,3.0,3.7,3.0,3.3,3.3,2.0,2.7,4.3,2.0,3.3
 Rudy & Kelly Academy - A Paul Mitchell Partner School,Virginia,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 Laurus College,California,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Eastwick College - Nutley,New Jersey,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0
 CNI College,California,1.0,5.0,4.0,4.0,4.0,2.0,4.0,5.0,4.0,4.0
-Aiken Technical College,South Carolina,2.0,2.5,3.0,3.0,3.0,2.0,2.5,5.0,3.5,3.5
-Appalachian Bible College,West Virginia,2.0,4.5,2.5,3.5,3.0,2.0,3.0,3.0,3.5,3.0
-Waubonsee Community College,Illinois,4.0,4.3,3.8,3.3,2.8,2.3,2.3,4.0,2.0,5.0
+Appalachian Bible College (Mount Hope),West Virginia,2.0,4.5,2.5,3.5,3.0,2.0,3.0,3.0,3.5,3.0
+Waubonsee Community College (Aurora),Illinois,4.0,4.3,3.8,3.3,2.8,2.3,2.3,4.0,2.0,5.0
 Douglas Education Center,Pennsylvania,3.0,3.7,3.3,3.7,3.3,3.0,3.7,3.0,2.3,3.0
-Keiser University,Florida,4.0,2.5,3.0,2.0,2.3,2.0,2.0,3.3,2.3,3.3
-Eastern Gateway Community College,Ohio,2.0,3.0,3.5,2.5,3.0,2.5,2.5,3.0,3.5,3.0
 Miami Regional University,Florida,4.0,4.3,4.8,4.3,4.3,3.8,4.0,4.8,4.3,4.5
 West Penn Hospital School of Nursing,Pennsylvania,1.0,5.0,4.0,5.0,5.0,4.0,5.0,5.0,3.0,4.0
-Fayetteville Technical Community College,North Carolina,1.0,4.0,5.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0
+Fayetteville Technical Community College (Fort Bragg),North Carolina,1.0,4.0,5.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0
 Lakeland College,Ohio,5.0,3.2,3.8,4.2,3.0,4.4,3.4,4.4,3.0,3.2
 University of Holy Cross,Louisiana,6.0,3.5,3.7,4.0,4.0,3.7,3.7,4.5,4.0,4.0
 Arkansas College of Osteopathic Medicine,Arkansas,2.0,4.5,2.0,1.5,3.0,3.5,2.0,4.5,2.5,2.5
 Virginia University of Integrative Medicine,Virginia,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Kilgore College,Texas,2.0,3.0,3.5,2.5,4.0,1.0,1.5,4.0,2.0,3.5
+Kilgore College (Longview),Texas,2.0,3.0,3.5,2.5,4.0,1.0,1.5,4.0,2.0,3.5
 Universidad del Sagrado Corazon,Connecticut,6.0,3.3,3.5,4.0,3.8,3.5,3.8,3.3,3.8,2.8
-Surry Community College,North Carolina,1.0,1.0,5.0,1.0,2.0,1.0,1.0,5.0,1.0,1.0
+Surry Community College (Mt. Airy),North Carolina,1.0,1.0,5.0,1.0,2.0,1.0,1.0,5.0,1.0,1.0
 Paul Mitchell the School - Dallas,Texas,1.0,2.0,3.0,1.0,3.0,2.0,4.0,2.0,3.0,2.0
 Healthcare Training Institute,New Jersey,1.0,3.0,5.0,5.0,5.0,1.0,3.0,5.0,5.0,5.0
 Carrington College - Mesa,Arizona,2.0,4.0,4.5,3.0,4.0,1.5,2.0,4.0,2.0,4.5
-Bucks County Community College,Pennsylvania,2.0,5.0,5.0,4.5,4.5,4.0,4.5,5.0,2.0,4.0
+Bucks County Community College (Bristol),Pennsylvania,2.0,5.0,5.0,4.5,4.5,4.0,4.5,5.0,2.0,4.0
 Apex Technical School,New York,4.0,2.8,3.3,2.8,3.5,1.8,2.8,2.8,1.8,2.3
-Rowan-Cabarrus Community College,North Carolina,1.0,4.0,3.0,5.0,5.0,3.0,5.0,5.0,4.0,5.0
-Hunter Business School,New York,1.0,1.0,5.0,2.0,1.0,1.0,5.0,1.0,1.0,3.0
+Hunter Business School (Medford),New York,1.0,1.0,5.0,2.0,1.0,1.0,5.0,1.0,1.0,3.0
 Roger Williams School of Law,Rhode Island,4.0,2.8,3.3,3.0,3.0,2.8,2.8,3.8,3.0,3.8
-Carrington College,California,1.0,2.0,3.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0
 Arizona College of Nursing - Tempe,Arizona,6.0,3.7,4.3,3.8,4.2,3.3,3.5,4.7,3.3,4.0
-Arizona State University,Arizona,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Arizona State University (Yuma),Arizona,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 North-West College,California,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 Florida National University South Campus,Florida,3.0,1.7,3.3,1.7,2.3,1.7,1.7,3.0,1.7,3.3
-Horry Georgetown Technical College,South Carolina,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0
-Florida Southwestern State College,Florida,2.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Horry Georgetown Technical College (Conway),South Carolina,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0
 Northern Pennsylvania Regional College,Pennsylvania,1.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 University of St. Augustine for Health Sciences,Texas,2.0,4.5,4.5,4.5,4.5,4.0,5.0,4.0,3.0,4.0
 Texas State Technical College,Texas,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Rowan College at Burlington County,New Jersey,2.0,4.5,4.0,4.5,5.0,4.5,5.0,4.5,4.0,5.0
+Rowan College at Burlington County (Mount Holly),New Jersey,2.0,4.5,4.0,4.5,5.0,4.5,5.0,4.5,4.0,5.0
 Mid-Plains Community College,Nebraska,4.0,4.5,4.0,3.5,3.3,2.5,3.0,4.8,3.8,4.3
 Polytechnic University - Orlando,Florida,1.0,4.0,4.0,3.0,3.0,5.0,5.0,4.0,5.0,4.0
 Bethany Global University,Minnesota,7.0,2.9,4.0,3.7,3.3,1.6,3.9,4.6,2.0,2.0
 Spurgeon College,Missouri,2.0,5.0,5.0,5.0,3.5,4.5,4.5,5.0,4.0,5.0
-Lindenwood University,Illinois,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0
 Lincoln Technical Institute - New Britain,Connecticut,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-Northshore Technical Community College,Louisiana,3.0,4.0,3.3,3.0,3.0,2.3,2.3,5.0,2.7,4.0
+Northshore Technical Community College (Lacombe),Louisiana,3.0,4.0,3.3,3.0,3.0,2.3,2.3,5.0,2.7,4.0
 Chamberlain University College of Nursing - San Antonio,Texas,8.0,2.5,2.8,1.6,2.0,1.9,1.9,2.9,1.9,2.4
-Oregon Health & Science University,Oregon,3.0,3.0,2.0,2.7,2.0,1.3,1.7,4.3,2.0,3.7
 Arizona College of Nursing - Phoenix,Arizona,1.0,5.0,5.0,3.0,5.0,4.0,4.0,5.0,4.0,3.0
 Southcentral Kentucky Community & Technical College Glasgow Health Campus,Kentucky,1.0,3.0,1.0,5.0,1.0,4.0,1.0,5.0,1.0,1.0
 Hope College of Arts and Sciences,Florida,1.0,2.0,3.0,1.0,3.0,1.0,1.0,5.0,2.0,3.0
-ECPI University,South Carolina,1.0,3.0,3.0,3.0,5.0,3.0,4.0,2.0,2.0,3.0
 The College of Health Care Professions,Texas,1.0,2.0,2.0,2.0,3.0,1.0,1.0,2.0,1.0,3.0
-Grand Rapids Community College,Michigan,3.0,4.7,5.0,4.3,3.0,1.7,2.3,5.0,2.7,4.3
+Grand Rapids Community College (Holland),Michigan,3.0,4.7,5.0,4.3,3.0,1.7,2.3,5.0,2.7,4.3
 Berkeley College - Woodland Park,New Jersey,2.0,3.5,3.0,3.0,4.0,3.0,3.0,4.5,3.0,4.0
 Chamberlain University College of Nursing,Michigan,2.0,3.0,4.5,3.0,3.0,3.0,3.0,4.0,3.0,3.0
 Sattler College,Massachusetts,1.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0
 Randall University,Oklahoma,2.0,3.0,4.5,5.0,5.0,2.5,5.0,5.0,5.0,4.5
-Cerro Coso Community College,California,1.0,4.0,2.0,4.0,4.0,3.0,3.0,5.0,2.0,2.0
-Saint Leo University,Florida,4.0,3.8,3.3,3.5,3.5,3.3,3.3,3.8,3.3,3.5
+Cerro Coso Community College (Tehachapi),California,1.0,4.0,2.0,4.0,4.0,3.0,3.0,5.0,2.0,2.0
 Arizona College of Nursing - Dallas,Texas,3.0,2.7,3.0,3.0,3.0,1.0,1.0,3.3,1.3,4.0
 Paul Mitchell The School Arlington,Texas,1.0,4.0,4.0,5.0,5.0,3.0,5.0,5.0,3.0,5.0
 Las Vegas College,Nevada,2.0,4.5,3.5,3.5,5.0,2.0,2.5,5.0,4.0,3.5
 Wake Tech Community College,North Carolina,22.0,3.6,3.9,3.4,3.5,2.4,2.3,4.5,2.5,3.8
-Warren Wilson College,North Carolina,1.0,1.0,5.0,2.0,3.0,4.0,5.0,5.0,3.0,3.0
+Warren Wilson College (Swannanoa),North Carolina,1.0,1.0,5.0,2.0,3.0,4.0,5.0,5.0,3.0,3.0
 University of Health Sciences and Pharmacy,Missouri,1.0,4.0,5.0,3.0,5.0,1.0,3.0,5.0,2.0,1.0
 Unitek College - San Jose,California,2.0,1.5,3.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0
 University of Massachusetts Global,California,2.0,3.0,5.0,5.0,4.5,4.0,4.5,5.0,3.0,4.0
-Southern Regional Technical College,Georgia,1.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0
 Herzing University- Tampa,Florida,6.0,1.5,1.5,1.2,1.3,1.2,1.2,1.0,1.8,1.3
 Cambridge College of Healthcare & Technology - Atlanta,Georgia,3.0,3.0,3.7,3.0,3.0,1.0,1.0,4.3,1.0,3.7
-Grace Christian University,Michigan,1.0,5.0,3.0,5.0,4.0,4.0,4.0,4.0,3.0,3.0
+Grace Christian University (Grand Rapids),Michigan,1.0,5.0,3.0,5.0,4.0,4.0,4.0,4.0,3.0,3.0
 California Aeronautical University,California,2.0,2.0,1.0,2.0,2.5,2.0,2.5,2.5,2.5,3.5
 Southern University Law Center,Louisiana,6.0,3.0,2.5,2.8,3.0,2.8,2.8,2.8,2.2,3.5
-Southern Regional Technical College,Georgia,1.0,4.0,5.0,4.0,4.0,2.0,2.0,5.0,1.0,2.0
 Florida A&M University-Florida State University College of Engineering,Florida,4.0,4.8,3.5,4.3,4.5,4.8,5.0,3.8,5.0,4.5
 Colorado Academy of Veterinary Technology,Colorado,1.0,3.0,3.0,4.0,5.0,4.0,3.0,4.0,4.0,4.0
 Mira Costa College,California,12.0,4.3,4.5,3.8,3.8,3.6,3.7,4.3,3.3,4.2
@@ -3085,25 +2901,24 @@ Colorado state university global,Colorado,2.0,3.0,5.0,4.0,4.0,3.0,3.0,4.0,3.0,5.
 University of Wisconsin - Madison,Wisconsin,84.0,4.6,4.7,4.5,4.6,4.5,4.7,4.2,3.7,4.2
 Windward community college,Hawaii,3.0,3.7,4.7,4.3,4.3,3.7,4.3,4.3,3.7,5.0
 Arizona College of Nursing - Tampa,Florida,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Suffolk county community college,New York,2.0,4.5,5.0,4.5,5.0,5.0,5.0,5.0,5.0,5.0
+Suffolk county community college (New york),New York,2.0,4.5,5.0,4.5,5.0,5.0,5.0,5.0,5.0,5.0
 North Carolina A&T State University,North Carolina,13.0,3.4,2.9,3.6,4.2,3.8,3.8,3.2,3.2,3.1
 Dallas College,Texas,39.0,3.9,4.1,3.5,3.7,3.2,3.3,4.1,3.0,3.9
 University of Wisconsin-Stout,Wisconsin,9.0,4.1,3.7,3.7,3.8,3.9,3.9,3.8,2.4,3.4
 University of South Dakota,South Dakota,29.0,3.6,2.7,3.3,3.7,3.6,3.5,3.8,2.8,2.9
-Florida International University,Florida,25.0,4.7,4.5,4.5,4.4,4.2,4.4,4.5,4.6,4.4
+Florida International University (Miami),Florida,25.0,4.7,4.5,4.5,4.4,4.2,4.4,4.5,4.6,4.4
 Converse University,South Carolina,2.0,4.5,4.5,3.5,5.0,4.5,4.0,4.0,3.5,3.0
 University of Wisconsin - Whitewater,Wisconsin,3.0,4.3,3.3,4.7,4.0,3.7,4.0,5.0,2.7,3.3
-Northern Kentucky University,Kentucky,3.0,3.0,3.0,2.7,2.3,2.3,2.3,3.3,3.0,2.7
+Northern Kentucky University (Highland height),Kentucky,3.0,3.0,3.0,2.7,2.3,2.3,2.3,3.3,3.0,2.7
 Borough of Manhattan Community College,New York,66.0,4.3,4.6,4.3,4.6,4.0,3.7,4.7,3.4,3.9
 Utah Valley University,Utah,102.0,4.8,4.7,4.7,4.6,4.2,4.2,4.8,4.5,4.3
 Millsaps College,Mississippi,4.0,3.0,2.8,3.3,5.0,3.3,3.5,3.5,2.3,4.5
 Eastern Kentucky University,Kentucky,36.0,3.6,3.6,3.5,3.9,3.4,3.7,4.0,3.0,2.7
 CUNY Hunter College,New York,12.0,3.5,3.6,3.3,4.3,3.9,2.8,4.3,2.8,4.0
-everett community college,Washington,1.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,3.0,5.0
+everett community college (Lake Stevens),Washington,1.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,3.0,5.0
 Milwaukee School of Engineering,Wisconsin,33.0,3.5,4.2,2.1,4.6,3.2,2.2,3.3,1.9,3.9
 University of Michigan - Flint,Michigan,20.0,4.3,3.0,3.8,4.1,3.6,3.5,4.0,2.8,3.9
-The College of New Jersey,New Jersey,5.0,4.0,4.2,5.0,4.6,4.8,4.6,5.0,2.8,4.8
-California State University Northridge,California,2.0,5.0,5.0,4.0,5.0,3.0,3.5,4.5,4.0,3.5
+The College of New Jersey (North Brunswick),New Jersey,5.0,4.0,4.2,5.0,4.6,4.8,4.6,5.0,2.8,4.8
 Fortis Institute,Tennessee,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Lake Sumter State College,Florida,2.0,3.0,3.5,3.0,2.5,2.5,2.5,2.5,1.0,3.0
 Cal Polytechnic,California,9.0,4.6,4.8,4.4,4.7,4.7,4.7,4.4,3.4,4.7
@@ -3115,11 +2930,10 @@ UEI College- Fresno,California,2.0,4.5,4.5,5.0,5.0,5.0,5.0,5.0,4.0,5.0
 Institute for Clinical Social Work,Illinois,1.0,2.0,4.0,4.0,3.0,2.0,3.0,5.0,2.0,5.0
 California Polytechnic State San Luis Obispo,California,4.0,4.0,4.5,3.8,4.8,3.0,3.3,3.5,2.0,3.8
 Abcott Institute,Michigan,2.0,4.0,4.0,4.5,4.0,3.5,3.5,4.0,4.0,3.0
-Fashion Institute of Technology,New York,1.0,1.0,5.0,3.0,3.0,2.0,1.0,4.0,1.0,2.0
+Fashion Institute of Technology (Newyork),New York,1.0,1.0,5.0,3.0,3.0,2.0,1.0,4.0,1.0,2.0
 Touro University Worldwide,California,3.0,3.0,3.7,2.7,2.3,3.0,2.3,3.7,3.0,3.0
 San Francisco Bay University,California,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Rasmussen University,Florida,1.0,5.0,5.0,5.0,5.0,1.0,3.0,5.0,5.0,5.0
-Galen College of Nursing,South Carolina,2.0,4.5,3.5,4.0,4.0,2.5,3.5,4.0,2.5,3.0
 Sacramento Ultrasound Institute,California,1.0,3.0,5.0,4.0,4.0,1.0,5.0,5.0,5.0,5.0
 Utah Tech University,Utah,39.0,3.8,4.5,3.9,3.8,3.6,3.7,4.7,2.7,3.6
 Arizona College of Nursing - Salt Lake City,Utah,2.0,4.0,5.0,2.0,3.5,2.0,1.5,4.5,3.5,2.5
@@ -3129,88 +2943,58 @@ Arizona College of Nursing - Falls Church,Virginia,1.0,4.0,5.0,5.0,5.0,3.0,4.0,5
 Brightpoint Community College,Virginia,11.0,4.2,3.9,3.6,4.0,3.0,2.6,4.6,2.4,4.0
 Stellar Career College,Illinois,1.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,5.0
 Joyce University of Nursing,New York,5.0,3.4,3.2,3.0,3.2,1.2,2.8,3.6,2.2,2.8
-Virginia Peninsula Community College,Virginia,2.0,4.5,4.5,4.5,4.5,4.0,3.0,4.0,3.5,4.5
 Johnson & Wales,Rhode Island,3.0,4.3,4.7,3.3,4.7,2.3,2.3,2.7,2.3,3.3
 Edward Waters University,Florida,1.0,3.0,2.0,3.0,4.0,5.0,4.0,1.0,2.0,4.0
 Minnesota North College,Minnesota,1.0,5.0,5.0,2.0,2.0,3.0,2.0,1.0,4.0,4.0
 Fresno State,California,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 University of Wisconsin of Whitewater,Wisconsin,6.0,3.5,2.8,3.7,3.7,4.5,4.3,4.5,2.8,3.2
 John Patrick University,Indiana,1.0,1.0,3.0,2.0,3.0,1.0,1.0,3.0,1.0,1.0
-Galen college of nursing,Tennessee,1.0,5.0,2.0,5.0,5.0,3.0,5.0,5.0,5.0,4.0
 MATC,Wisconsin,3.0,3.0,3.3,3.3,4.0,2.7,2.7,2.7,2.7,3.3
-Florida State University,Florida,8.0,4.9,4.5,5.0,4.9,5.0,5.0,4.6,4.5,4.6
-Folsom Lake College,California,3.0,4.7,4.7,4.3,4.3,3.7,3.7,5.0,3.7,4.7
 Collin College,Texas,5.0,4.8,4.6,4.4,4.8,4.2,4.2,4.8,4.6,4.8
 Tennessee Technological University,Tennessee,1.0,4.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0
 Virginia state university,Virginia,3.0,3.3,2.3,4.0,2.7,4.3,5.0,2.0,2.7,2.0
-University of tampa,Florida,11.0,4.6,4.5,4.0,4.2,4.0,4.2,4.3,3.1,3.4
-palo alto college,Texas,2.0,3.5,3.5,3.5,4.0,3.0,3.5,4.0,3.0,4.0
 CUNY City College of New York,New York,5.0,2.6,2.2,2.6,3.0,3.8,3.0,2.4,2.4,2.6
 UNC Greensboro,North Carolina,16.0,4.4,4.3,4.1,4.3,4.1,4.3,3.9,3.6,3.8
 Georgia Tech,Georgia,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Marshall University,West Virginia,13.0,3.4,2.8,3.7,3.5,3.5,3.5,2.6,2.5,2.5
-Capella University,Minnesota,10.0,2.7,2.7,2.9,2.9,2.7,2.6,2.7,2.7,2.7
 CAL STATE Dominguez,California,3.0,3.7,4.3,4.0,4.3,4.0,4.3,5.0,4.0,4.7
 Palm beach state,Florida,8.0,4.8,4.9,4.8,4.9,4.3,4.4,4.8,4.4,4.5
-Appalachian State University,North Carolina,4.0,4.5,4.5,4.5,5.0,5.0,4.3,4.5,3.3,4.8
 wayn county community college,Michigan,1.0,3.0,3.0,2.0,2.0,1.0,1.0,2.0,3.0,3.0
 California State University Long Beach,California,65.0,4.2,4.5,4.2,4.2,3.9,3.7,4.4,3.4,3.7
-Ohlone College,California,2.0,5.0,4.5,3.0,4.0,3.0,3.0,3.0,3.0,3.0
-Central New Mexico community college,New Mexico,4.0,5.0,4.5,5.0,5.0,4.0,4.8,5.0,4.3,4.0
-Washtenaw community college,Michigan,6.0,4.3,4.5,3.5,4.2,3.0,2.7,4.2,3.7,3.7
-southern maine community college,Maine,1.0,2.0,5.0,2.0,3.0,1.0,2.0,5.0,1.0,2.0
 california state university northridge,California,4.0,4.5,4.8,4.5,4.8,4.5,4.5,4.8,3.5,4.3
 University of Texas Arlington,Texas,19.0,3.1,3.1,3.0,3.3,2.6,2.5,3.5,2.7,3.5
 inver hills,Minnesota,3.0,3.3,3.3,2.7,3.0,3.3,3.3,4.0,3.0,3.7
-Northwest Vista college,Texas,5.0,4.2,4.8,4.2,4.6,4.2,4.8,4.8,3.0,3.6
 Cal State Northridge,California,8.0,4.0,4.4,3.9,3.6,4.1,3.4,3.5,3.0,3.9
-University of central Oklahoma,Oklahoma,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Camden county college,New Jersey,2.0,3.0,4.5,4.5,4.5,2.0,3.0,4.5,3.5,3.0
-los angeles mission college,California,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0
+Camden county college (Blackwood),New Jersey,2.0,3.0,4.5,4.5,4.5,2.0,3.0,4.5,3.5,3.0
 Texas A&M- San antonio,Texas,12.0,3.8,3.3,3.6,3.8,3.8,3.7,4.5,2.6,3.8
-PIMA Medical Institute,Texas,3.0,4.0,5.0,4.7,4.7,2.0,3.7,3.7,3.7,5.0
-SUNY Oswego,New York,5.0,3.2,2.8,3.4,2.2,2.8,3.0,3.6,2.4,3.8
-Touro University,New York,4.0,2.8,3.3,3.3,3.0,2.8,2.8,3.0,3.0,3.5
-Crafton hills college,California,2.0,4.0,4.0,4.5,3.5,4.0,4.5,4.0,4.0,3.5
 Indiana Wellness College,Indiana,2.0,5.0,5.0,5.0,5.0,5.0,4.5,5.0,5.0,5.0
-Laurel Ridge Community College,Virginia,4.0,4.8,4.0,3.3,3.0,3.5,3.3,3.3,2.3,4.0
-Lincoln College of Technology,Maryland,1.0,3.0,2.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0
+Laurel Ridge Community College (Warrenton),Virginia,4.0,4.8,4.0,3.3,3.0,3.5,3.3,3.3,2.3,4.0
 Paul Mitchell The School Sherman Oaks,California,1.0,3.0,3.0,5.0,5.0,5.0,5.0,4.0,2.0,3.0
-Fort hays state university,Minnesota,1.0,3.0,4.0,2.0,3.0,2.0,1.0,2.0,5.0,3.0
 St. Josephs University,New York,2.0,5.0,4.0,4.5,4.5,4.0,4.0,4.5,2.5,5.0
-Jacksonville State University,Alabama,16.0,3.9,3.3,3.8,3.6,4.0,3.9,4.4,4.0,3.6
 Lone Star College - Cyfair,Texas,16.0,4.6,4.5,4.6,4.6,4.4,4.5,4.5,3.5,4.2
-Heartland Community College,Illinois,1.0,4.0,3.0,4.0,2.0,2.0,2.0,4.0,1.0,3.0
-eastern florida state college,Florida,2.0,4.0,4.0,4.0,4.5,4.0,4.0,3.5,2.0,4.0
+"Heartland Community College (Normal, IL)",Illinois,1.0,4.0,3.0,4.0,2.0,2.0,2.0,4.0,1.0,3.0
+eastern florida state college (Rockledge),Florida,2.0,4.0,4.0,4.0,4.5,4.0,4.0,3.5,2.0,4.0
 Suny orange,New York,4.0,4.3,4.3,3.8,3.5,3.3,3.5,4.5,3.0,3.3
 St Edward's University,Texas,1.0,4.0,5.0,4.0,5.0,3.0,3.0,4.0,3.0,4.0
-university of memphis,Tennessee,1.0,4.0,3.0,4.0,5.0,5.0,5.0,5.0,4.0,4.0
-Rowan College at burlington county,New Jersey,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0
-Butte college,California,3.0,4.3,3.7,4.3,4.7,4.3,4.3,4.3,4.0,4.3
-Westminster College,Pennsylvania,2.0,3.5,3.0,3.0,3.5,4.0,3.5,3.0,3.0,3.0
-Los Angeles Trade Technical College,California,2.0,4.0,4.0,5.0,4.5,3.0,3.5,4.0,3.0,3.5
+Rowan College at burlington county (mount laurel township),New Jersey,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0
+Los Angeles Trade Technical College (los angles),California,2.0,4.0,4.0,5.0,4.5,3.0,3.5,4.0,3.0,3.5
 Century College,Minnesota,8.0,4.3,4.3,4.1,3.8,3.5,3.5,4.4,2.8,4.3
 Triton college,Illinois,2.0,3.5,5.0,4.5,3.5,2.5,2.0,4.5,2.0,5.0
 Andrews University,Michigan,5.0,4.0,3.2,4.4,4.4,4.2,3.8,4.8,3.6,2.8
 Arizona College of Nursing - Southfield,Michigan,1.0,4.0,5.0,4.0,5.0,2.0,3.0,3.0,3.0,5.0
-Community College of Vermont,Vermont,1.0,2.0,4.0,3.0,5.0,1.0,1.0,2.0,1.0,3.0
-Stevens Institute of Technology,New Jersey,7.0,4.0,4.9,3.0,4.1,3.6,3.6,4.7,3.6,4.4
-ECPI University,North Carolina,1.0,5.0,5.0,5.0,5.0,3.0,3.0,5.0,3.0,5.0
+Community College of Vermont (Rutland),Vermont,1.0,2.0,4.0,3.0,5.0,1.0,1.0,2.0,1.0,3.0
 Galen College of Nursing - Houston,Texas,2.0,3.0,4.0,3.5,3.0,2.5,2.5,4.0,2.0,3.5
 Vermont State University,Vermont,2.0,2.5,2.0,2.0,2.5,3.0,2.5,5.0,2.0,2.0
-Concordia University Chicago,Illinois,1.0,3.0,4.0,5.0,4.0,3.0,3.0,5.0,4.0,4.0
-san bernardino valley college,California,1.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,2.0,4.0
+Concordia University Chicago (River Forest),Illinois,1.0,3.0,4.0,5.0,4.0,3.0,3.0,5.0,4.0,4.0
 Williamson College of the Trades,Pennsylvania,1.0,2.0,5.0,2.0,5.0,5.0,5.0,4.0,3.0,2.0
 Baptist Health Sciences University,Tennessee,1.0,2.0,2.0,3.0,4.0,2.0,4.0,1.0,2.0,4.0
-Reedley College,California,2.0,2.0,3.5,2.0,3.0,2.5,3.5,2.0,1.5,3.0
 Verve College,Illinois,1.0,3.0,4.0,3.0,3.0,2.0,2.0,3.0,3.0,2.0
 Arizona College of Nursing - Tucson,Arizona,1.0,2.0,5.0,3.0,2.0,1.0,3.0,5.0,1.0,5.0
-Tri-County Technical College,South Carolina,7.0,4.1,4.1,3.4,3.9,3.0,2.7,4.9,3.1,2.3
+Tri-County Technical College (Pendleton),South Carolina,7.0,4.1,4.1,3.4,3.9,3.0,2.7,4.9,3.1,2.3
 Mt San Jacinto Community College District,California,3.0,4.7,5.0,3.3,4.7,2.3,3.0,2.3,5.0,3.3
 St. Joseph's University,New York,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Kiamichi Technology Center,Oklahoma,1.0,5.0,4.0,4.0,5.0,2.0,3.0,5.0,1.0,4.0
 Union University,Tennessee,3.0,3.7,4.3,5.0,5.0,4.0,4.7,4.3,3.7,4.3
-Phoenix college,Arizona,3.0,5.0,4.3,4.3,4.7,3.3,3.3,4.3,4.0,4.7
 Dominican University New York,New York,2.0,3.0,4.0,3.5,3.5,3.0,3.0,4.0,2.5,3.0
 Broward College,Florida,5.0,4.8,4.8,4.8,4.8,4.8,4.6,4.8,4.8,4.6
 Galen College of Nursing - Austin,Texas,2.0,5.0,5.0,4.5,5.0,4.5,5.0,5.0,4.0,5.0
@@ -3218,12 +3002,11 @@ Hondros College of Nursing,Ohio,2.0,2.0,4.0,3.5,4.0,2.5,4.0,3.5,3.5,4.0
 Arizona College of Nursing- Ontario,California,3.0,3.0,5.0,3.0,3.7,1.3,4.0,4.7,1.0,4.7
 Kapiolani Community College,Hawaii,2.0,5.0,5.0,5.0,4.5,2.0,2.0,5.0,1.0,4.0
 Minerva University,California,2.0,2.5,4.5,4.0,4.5,2.5,4.5,3.0,2.5,3.5
-Eckerd College,Florida,1.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,3.0
+Eckerd College (St. Petersburg),Florida,1.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,3.0
 Manna University,North Carolina,1.0,4.0,4.0,4.0,2.0,5.0,5.0,4.0,3.0,4.0
-Southern University and A&M College,Louisiana,1.0,5.0,5.0,5.0,5.0,3.0,5.0,4.0,5.0,5.0
 St Catherine university,Minnesota,1.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0,2.0,4.0
-Hinds Community College,Mississippi,1.0,2.0,2.0,1.0,3.0,2.0,2.0,2.0,2.0,3.0
-Great Basin College,Nevada,3.0,5.0,5.0,5.0,5.0,4.3,4.3,5.0,4.0,5.0
+Hinds Community College (Raymond),Mississippi,1.0,2.0,2.0,1.0,3.0,2.0,2.0,2.0,2.0,3.0
+Great Basin College (Pahrump),Nevada,3.0,5.0,5.0,5.0,5.0,4.3,4.3,5.0,4.0,5.0
 MassBay Community College,Massachusetts,2.0,5.0,3.0,4.5,4.5,3.0,4.0,5.0,2.5,5.0
 Indiana University Indianapolis,Indiana,3.0,4.3,4.0,4.0,4.7,4.7,4.7,4.0,3.3,5.0
 Manhattan University,New York,1.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0
@@ -3231,4 +3014,3 @@ East Texas A&M University,Texas,5.0,3.4,2.2,3.2,3.6,3.6,3.0,3.4,2.4,3.2
 Keiser University Tampa,Florida,1.0,4.0,4.0,4.0,3.0,2.0,4.0,5.0,1.0,5.0
 Smith Chason College,California,1.0,2.0,3.0,2.0,5.0,3.0,3.0,4.0,4.0,3.0
 Cal State Fullerton,California,1.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,4.0,3.0
-southern new hampshire university,Connecticut,1.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,3.0,4.0

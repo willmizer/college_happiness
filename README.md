@@ -12,7 +12,7 @@ Traditional college rankings lean on prestige or endowment size. This project sc
 
 - **Analyze:** view aggregated stats on facilities, safety, social life, and happiness across the US, ranked by state or school.
 - **Simulate:** pick a school (e.g. *Florida Polytechnic University*) and a hypothetical investment level, and see which feature (Safety, Internet, Location, Opportunities, etc.) yields the biggest happiness gain per dollar.
-- Built on a scraped dataset of ~3,200 institutions with 27 features, after cleaning ~5,700 raw scraped records.
+- Built on a scraped dataset of ~3,000 institutions with 27 features, after cleaning ~5,700 raw scraped records and removing duplicate/ambiguous school listings.
 
 ## Tech Stack
 
@@ -32,7 +32,8 @@ Traditional college rankings lean on prestige or endowment size. This project sc
 - Merged datasets on fuzzy string matching (school name + city/state).
 - Imputed missing demographic data with `IterativeImputer` (MICE), using correlations with other features.
 - Removed outliers, closed institutions, and non-US territories to keep the model stable.
-- Final dataset: ~3,200 viable institutions, 27 features.
+- **Deduplicated RateMyProfessors listings:** RMP has multiple listings for some schools (real branch campuses, e.g. FSU Panama City, and outright duplicate/mislabeled entries). Same-city duplicates were collapsed to the higher-review-count listing; genuine branch campuses were disambiguated by name (e.g. "Austin Community College (Round Rock)"); anywhere city data was too unreliable to tell the two apart, the smaller listing was dropped rather than guessed at.
+- Final dataset: ~3,000 viable institutions, 27 features.
 
 ### 3. Modeling (`model_testing.ipynb`)
 Three regression models were tested to predict a **Happiness Score (0.0–1.0)**:

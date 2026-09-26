@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import pickle
@@ -9,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 # 1. Load Data
 try:
-    df_raw = pd.read_csv('C:\\Users\\willm\\Desktop\\college_biz\\Data\\final_school_data.csv')
+    df_raw = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'final_school_data.csv'))
     print(f"Loaded CSV with {len(df_raw)} rows.")
     # Normalize columns to lowercase to prevent capitalization errors
     df_raw.columns = df_raw.columns.str.lower()

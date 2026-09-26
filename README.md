@@ -101,6 +101,15 @@ The original setup, briefly:
 - **Process management:** a systemd service so the app auto-restarted on crash or reboot.
 - **Domain:** a free DuckDNS subdomain pointed at the instance's public IP.
 
+## Limitations
+
+- RateMyProfessors data is self-selected — students who submit ratings are disproportionately motivated by strong feelings; scores likely skew toward engaged or dissatisfied populations rather than average students.
+- Ratings reflect a specific scrape date; campus conditions, leadership, and investment change over time.
+- ~2,500 schools were removed during cleaning due to insufficient data, closed status, or ambiguous duplicates — smaller institutions and community colleges are underrepresented in the final dataset.
+- MICE imputation was used for roughly 40% of numeric features (retention rate, tuition, SAT/ACT scores); imputed values introduce uncertainty, particularly for schools with sparse data.
+- The model predicts aggregate school-level happiness, not individual student outcomes — within-school variation (by major, demographics, living situation) is not captured.
+- The simulator assumes feature improvements translate directly to happiness gains via the trained regression; real-world outcomes depend on execution quality and factors the model does not observe.
+
 ## Future Improvements
 
 - **User accounts:** let university admins save their simulation scenarios.

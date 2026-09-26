@@ -178,7 +178,13 @@ with tab_simulator:
     base_pred = pipe.predict(df_base)[0]
     base_vec = scaler.transform(df_base).flatten()
 
+    X_preprocessed = pipe.named_steps["preprocess"].transform(df_base)
+    tree_preds = np.array([tree.predict(X_preprocessed)[0] for tree in pipe.named_steps["model"].estimators_])
+    ci_lower = float(np.percentile(tree_preds, 5))
+    ci_upper = float(np.percentile(tree_preds, 95))
+
     st.metric("Baseline projected happiness", f"{base_pred * 100:.1f}%")
+    st.caption(f"90% confidence interval: {ci_lower * 100:.1f}% – {ci_upper * 100:.1f}%")
 
     # ranking: bump each controllable feature by delta_scaled, holding others fixed
     ranking_vectors, ranking_feats = [], []

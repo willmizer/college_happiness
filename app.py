@@ -1,4 +1,5 @@
 import json
+import os
 import pickle
 
 import numpy as np
@@ -7,7 +8,13 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="College Happiness Simulator", layout="wide")
+from theme import COLORWAY, apply_theme, style_fig
+
+st.set_page_config(
+    page_title="College Happiness Simulator",
+    page_icon=os.path.join(os.path.dirname(os.path.abspath(__file__)), "favicon.png"),
+    layout="wide",
+)
 
 # Keep the modebar so Streamlit's own fullscreen-expand button (injected into it)
 # still shows, but strip every other Plotly tool (zoom, pan, select, download, etc).
@@ -26,25 +33,11 @@ PLOTLY_CONFIG = {
 
 def render_chart(fig, **kwargs):
     """View + fullscreen-expand only: no drag-zoom/pan, no legend toggling, no other controls."""
+    style_fig(fig)
     fig.update_layout(dragmode=False, legend=dict(itemclick=False, itemdoubleclick=False))
     st.plotly_chart(fig, config=PLOTLY_CONFIG, **kwargs)
 
-st.markdown(
-    """
-    <style>
-    @media (max-width: 768px) {
-        div[data-testid="stHorizontalBlock"] {
-            flex-direction: column;
-        }
-        div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"] {
-            width: 100% !important;
-            flex: 1 1 100% !important;
-        }
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+apply_theme(max_width="1320px")
 
 DATA_DIR = "Web"
 
@@ -76,7 +69,7 @@ numeric_cols = metadata["numeric_cols"]
 controllable = metadata["controllable_features"]
 school_defaults = metadata["school_defaults"]
 FEATURE_COLORS = {
-    feat: px.colors.qualitative.Plotly[i % len(px.colors.qualitative.Plotly)]
+    feat: COLORWAY[i % len(COLORWAY)]
     for i, feat in enumerate(controllable)
 }
 ALL_STATES = sorted(analytics_df["state"].dropna().unique().tolist())
@@ -149,6 +142,7 @@ with tab_analytics:
             orientation="h",
             labels={"x": feature_label, "y": "State"},
             title=f"Top 10 States - {feature_label}",
+            color_discrete_sequence=COLORWAY,
         )
         render_chart(fig_states, use_container_width=True)
 
@@ -158,7 +152,8 @@ with tab_analytics:
     vals = df_sorted["_weighted_score"]
     if not vals.empty:
         hist_counts = pd.cut(vals, bins=bins, labels=labels, right=False).value_counts().reindex(labels).fillna(0)
-        fig = px.bar(x=labels, y=hist_counts.values, labels={"x": "Score range", "y": "Number of schools"})
+        fig = px.bar(x=labels, y=hist_counts.values, labels={"x": "Score range", "y": "Number of schools"},
+                     color_discrete_sequence=COLORWAY)
         render_chart(fig, use_container_width=True)
         st.caption(f"{len(df_filtered)} schools · average score {vals.mean():.2f}")
 
